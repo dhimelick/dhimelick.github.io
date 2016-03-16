@@ -1,0 +1,672 @@
+[
+  {
+    "abbr": "3L",
+    "desc": "3 Linked Gems",
+    "enabled": 1
+  },
+  {
+    "abbr": "4L",
+    "desc": "4 Linked Gems",
+    "enabled": 1
+  },
+  {
+    "abbr": "5L",
+    "desc": "5 Linked Gems",
+    "enabled": 1
+  },
+  {
+    "abbr": "6L",
+    "desc": "6 Linked Gems",
+    "enabled": 1
+  },
+  {
+    "abbr": "3S",
+    "desc": "3 Sockets",
+    "enabled": 1
+  },
+  {
+    "abbr": "4S",
+    "desc": "4 Sockets",
+    "enabled": 1
+  },
+  {
+    "abbr": "5S",
+    "desc": "5 Sockets",
+    "enabled": 1
+  },
+  {
+    "abbr": "6S",
+    "desc": "6 Sockets",
+    "enabled": 1
+  },
+  {
+    "abbr": "ACD",
+    "desc": "Added Cold Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "AFD",
+    "desc": "Added Fire Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "Alc",
+    "desc": "Orb of Alchemy",
+    "enabled": 1
+  },
+  {
+    "abbr": "Alch",
+    "desc": "Orb of Alchemy",
+    "enabled": 1
+  },
+  {
+    "abbr": "ALD",
+    "desc": "Added Lightning Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "Alt",
+    "desc": "Orb of Alteration",
+    "enabled": 1
+  },
+  {
+    "abbr": "APD",
+    "desc": "Added Physical Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "APD",
+    "desc": "Added Projectile Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "AOE",
+    "desc": "Area of Effect",
+    "enabled": 1
+  },
+  {
+    "abbr": "BM",
+    "desc": "Blood Magic",
+    "enabled": 1
+  },
+  {
+    "abbr": "BR",
+    "desc": "Blood Rage",
+    "enabled": 1
+  },
+  {
+    "abbr": "CI",
+    "desc": "Chaos Innoculation",
+    "enabled": 1
+  },
+  {
+    "abbr": "CS",
+    "desc": "Cold Snap",
+    "enabled": 1
+  },
+  {
+    "abbr": "CS",
+    "desc": "Culling Strike",
+    "enabled": 1
+  },
+  {
+    "abbr": "CW",
+    "desc": "Critical Weakness",
+    "enabled": 1
+  },
+  {
+    "abbr": "DD",
+    "desc": "Detonate Dead",
+    "enabled": 1
+  },
+  {
+    "abbr": "Det",
+    "desc": "Determination",
+    "enabled": 1
+  },
+  {
+    "abbr": "Determ",
+    "desc": "Determination",
+    "enabled": 1
+  },
+  {
+    "abbr": "Disc",
+    "desc": "Discipline",
+    "enabled": 1
+  },
+  {
+    "abbr": "DR",
+    "desc": "Damage Reduction",
+    "enabled": 1
+  },
+  {
+    "abbr": "DW",
+    "desc": "Dual Wield",
+    "enabled": 1
+  },
+  {
+    "abbr": "EB",
+    "desc": "Eldricht Battery",
+    "enabled": 1
+  },
+  {
+    "abbr": "ED",
+    "desc": "Elemental Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "EE",
+    "desc": "Elemental Equilibrium",
+    "enabled": 1
+  },
+  {
+    "abbr": "EK",
+    "desc": "Ethereal Knives",
+    "enabled": 1
+  },
+  {
+    "abbr": "Ele",
+    "desc": "Elemental",
+    "enabled": 1
+  },
+  {
+    "abbr": "ES",
+    "desc": "Energy Shield",
+    "enabled": 1
+  },
+  {
+    "abbr": "Eva",
+    "desc": "Evasion",
+    "enabled": 1
+  },
+  {
+    "abbr": "EV",
+    "desc": "Evasion",
+    "enabled": 1
+  },
+  {
+    "abbr": "EW",
+    "desc": "Elemental Weakness",
+    "enabled": 1
+  },
+  {
+    "abbr": "FA",
+    "desc": "Faster Attack",
+    "enabled": 1
+  },
+  {
+    "abbr": "FB",
+    "desc": "Facebreaker",
+    "enabled": 1
+  },
+  {
+    "abbr": "FC",
+    "desc": "Faster Casting",
+    "enabled": 1
+  },
+  {
+    "abbr": "FP",
+    "desc": "Faster Projectile",
+    "enabled": 1
+  },
+  {
+    "abbr": "FP",
+    "desc": "Freezing Pulse",
+    "enabled": 1
+  },
+  {
+    "abbr": "Fus",
+    "desc": "Orb of Fusing",
+    "enabled": 1
+  },
+  {
+    "abbr": "Fuse",
+    "desc": "Orb of Fusing",
+    "enabled": 1
+  },
+  {
+    "abbr": "GCP",
+    "desc": "Gemcutter's Prism",
+    "enabled": 1
+  },
+  {
+    "abbr": "GH",
+    "desc": "Glacial Hammer",
+    "enabled": 1
+  },
+  {
+    "abbr": "GMP",
+    "desc": "Greater Multiple Projectile",
+    "enabled": 1
+  },
+  {
+    "abbr": "GR",
+    "desc": "Ghost Reaver",
+    "enabled": 1
+  },
+  {
+    "abbr": "GS",
+    "desc": "Ground slam",
+    "enabled": 1
+  },
+  {
+    "abbr": "HS",
+    "desc": "Heavy Strike",
+    "enabled": 1
+  },
+  {
+    "abbr": "IAOE",
+    "desc": "Increased Area of Effect",
+    "enabled": 1
+  },
+  {
+    "abbr": "IAS",
+    "desc": "Increased Attack Speed",
+    "enabled": 1
+  },
+  {
+    "abbr": "IB",
+    "desc": "Infernal Blow",
+    "enabled": 1
+  },
+  {
+    "abbr": "IC",
+    "desc": "Immortal Call",
+    "enabled": 1
+  },
+  {
+    "abbr": "IDUR",
+    "desc": "Increased Duration",
+    "enabled": 1
+  },
+  {
+    "abbr": "IED",
+    "desc": "Increased Elemental Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "IF",
+    "desc": "Inner Force",
+    "enabled": 1
+  },
+  {
+    "abbr": "IIQ",
+    "desc": "Increased Item Quantity",
+    "enabled": 1
+  },
+  {
+    "abbr": "IIR",
+    "desc": "Increased Item Rarity",
+    "enabled": 1
+  },
+  {
+    "abbr": "IPD",
+    "desc": "Increased Physical Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "IPD",
+    "desc": "Increased Projectile Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "ISD",
+    "desc": "Increased Spell Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "LL",
+    "desc": "Life Leech or Low Life",
+    "enabled": 1
+  },
+  {
+    "abbr": "LMP",
+    "desc": "Lesser Multiple Projectile",
+    "enabled": 1
+  },
+  {
+    "abbr": "LS",
+    "desc": "Leap Slam",
+    "enabled": 1
+  },
+  {
+    "abbr": "LS",
+    "desc": "Lightning Strike",
+    "enabled": 1
+  },
+  {
+    "abbr": "MI",
+    "desc": "Minion Instability",
+    "enabled": 1
+  },
+  {
+    "abbr": "ML",
+    "desc": "Mana Leech",
+    "enabled": 1
+  },
+  {
+    "abbr": "NA",
+    "desc": "Necromantic Aegis",
+    "enabled": 1
+  },
+  {
+    "abbr": "PA",
+    "desc": "Poison Arrow",
+    "enabled": 1
+  },
+  {
+    "abbr": "PW",
+    "desc": "Projectile Weakness",
+    "enabled": 1
+  },
+  {
+    "abbr": "RES",
+    "desc": "Elemental Resistance",
+    "enabled": 1
+  },
+  {
+    "abbr": "resis",
+    "desc": "Elemental Resistance",
+    "enabled": 1
+  },
+  {
+    "abbr": "RMC",
+    "desc": "Reduced Mana Cost",
+    "enabled": 1
+  },
+  {
+    "abbr": "RM",
+    "desc": "Reduced Mana Cost",
+    "enabled": 1
+  },
+  {
+    "abbr": "RT",
+    "desc": "Resolute Technique",
+    "enabled": 1
+  },
+  {
+    "abbr": "TC",
+    "desc": "Temporal Chains",
+    "enabled": 1
+  },
+  {
+    "abbr": "TS",
+    "desc": "Tempest Shield / Tornado Shot",
+    "enabled": 1
+  },
+  {
+    "abbr": "US",
+    "desc": "Unwavering Stance",
+    "enabled": 1
+  },
+  {
+    "abbr": "VS",
+    "desc": "Viper Strike",
+    "enabled": 1
+  },
+  {
+    "abbr": "WED",
+    "desc": "Weapon Elemental Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "WM",
+    "desc": "Warlord Mark",
+    "enabled": 1
+  },
+  {
+    "abbr": "FOTM",
+    "desc": "Flavor Of The Month",
+    "enabled": 1
+  },
+  {
+    "abbr": "1MHC",
+    "desc": "1 Month Hard Core Event",
+    "enabled": 1
+  },
+  {
+    "abbr": "1MSC",
+    "desc": "1 Month Soft Core Event",
+    "enabled": 1
+  },
+  {
+    "abbr": "CoC",
+    "desc": "Cast On Critical Strike",
+    "enabled": 1
+  },
+  {
+    "abbr": "PoF",
+    "desc": "Purity of Fire",
+    "enabled": 1
+  },
+  {
+    "abbr": "mgok",
+    "desc": "Mana gained on kill",
+    "enabled": 1
+  },
+  {
+    "abbr": "MoM",
+    "desc": "Mind Over Matter",
+    "enabled": 1
+  },
+  {
+    "abbr": "AA",
+    "desc": "Arctic Armour",
+    "enabled": 1
+  },
+  {
+    "abbr": "COD",
+    "desc": "Cloak of Defiance",
+    "enabled": 1
+  },
+  {
+    "abbr": "GGG",
+    "desc": "Grinding Gear Games",
+    "enabled": 1
+  },
+  {
+    "abbr": "POE",
+    "desc": "Path of Exile",
+    "enabled": 1
+  },
+  {
+    "abbr": "str",
+    "desc": "Strength",
+    "enabled": 1
+  },
+  {
+    "abbr": "int",
+    "desc": "Intelligence",
+    "enabled": 1
+  },
+  {
+    "abbr": "dex",
+    "desc": "Dexterity",
+    "enabled": 1
+  },
+  {
+    "abbr": "RF",
+    "desc": "Righteous Fire",
+    "enabled": 1
+  },
+  {
+    "abbr": "CWDT",
+    "desc": "Cast When Damage Taken",
+    "enabled": 1
+  },
+  {
+    "abbr": "MF",
+    "desc": "Magic Find",
+    "enabled": 1
+  },
+  {
+    "abbr": "IR",
+    "desc": "Iron Reflexes",
+    "enabled": 1
+  },
+  {
+    "abbr": "jew",
+    "desc": "Jeweler's Orb",
+    "enabled": 1
+  },
+  {
+    "abbr": "scour",
+    "desc": "Orb of Scouring",
+    "enabled": 1
+  },
+  {
+    "abbr": "WTS",
+    "desc": "Want to Sell",
+    "enabled": 1
+  },
+  {
+    "abbr": "WTB",
+    "desc": "Want to Buy",
+    "enabled": 1
+  },
+  {
+    "abbr": "WTT",
+    "desc": "Want to Trade",
+    "enabled": 1
+  },
+  {
+    "abbr": "CoH",
+    "desc": "Curse On Hit",
+    "enabled": 1
+  },
+  {
+    "abbr": "HoT",
+    "desc": "Herald of Thunder",
+    "enabled": 1
+  },
+  {
+    "abbr": "HoI",
+    "desc": "Herald of Ice",
+    "enabled": 1
+  },
+  {
+    "abbr": "SWT",
+    "desc": "Shockwave Totem",
+    "enabled": 1
+  },
+  {
+    "abbr": "2-H",
+    "desc": "Two-Hand",
+    "enabled": 1
+  },
+  {
+    "abbr": "EA",
+    "desc": "Explosive Arrow",
+    "enabled": 1
+  },
+  {
+    "abbr": "SRS",
+    "desc": "Summon Raging Spirits",
+    "enabled": 1
+  },
+  {
+    "abbr": "ZO",
+    "desc": "Zealot's Oath",
+    "enabled": 1
+  },
+  {
+    "abbr": "DoT",
+    "desc": "Damage Over Time",
+    "enabled": 1
+  },
+  {
+    "abbr": "AR",
+    "desc": "Armor",
+    "enabled": 1
+  },
+  {
+    "abbr": "unid",
+    "desc": "Unidentified",
+    "enabled": 1
+  },
+  {
+    "abbr": "comk",
+    "desc": "Cast on melee kill",
+    "enabled": 1
+  },
+  {
+    "abbr": "BLAMT",
+    "desc": "Blood Magic, Lethal, Ancestral, Multiple Projectiles and Turbo Mods.",
+    "enabled": 1
+  },
+  {
+    "abbr": "RoA",
+    "desc": "Rain of Arrows",
+    "enabled": 1
+  },
+  {
+    "abbr": "lgoh",
+    "desc": "Life Gain on Hit",
+    "enabled": 1
+  },
+  {
+    "abbr": "hc",
+    "desc": "Hard Core",
+    "enabled": 1
+  },
+  {
+    "abbr": "scour",
+    "desc": "Soft Core",
+    "enabled": 1
+  },
+  {
+    "abbr": "HOA",
+    "desc": "Herald of Ash",
+    "enabled": 1
+  },
+  {
+    "abbr": "bv",
+    "desc": "Blade Vortex",
+    "enabled": 1
+  },
+  {
+    "abbr": "dps",
+    "desc": "Damage Per Second",
+    "enabled": 1
+  },
+  {
+    "abbr": "mtx",
+    "desc": "Microtransactions",
+    "enabled": 1
+  },
+  {
+    "abbr": "kb",
+    "desc": "Kinetic Blast",
+    "enabled": 1
+  },
+  {
+    "abbr": "PPAD",
+    "desc": "Physical Projectile Attack Damage",
+    "enabled": 1
+  },
+  {
+    "abbr": "sp",
+    "desc": "Slower Projectiles",
+    "enabled": 1
+  },
+  {
+    "abbr": "CA",
+    "desc": "Caustic Arrow",
+    "enabled": 1
+  },
+  {
+    "abbr": "PHC",
+    "desc": "Perandus Hardcore League",
+    "enabled": 1
+  },
+  {
+    "abbr": "PSC",
+    "desc": "Perandus Softcore League",
+    "enabled": 1
+  },
+  {
+    "abbr": "PCoC",
+    "desc": "Power Charge On Critical",
+    "enabled": 1
+  }
+]

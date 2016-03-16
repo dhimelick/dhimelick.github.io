@@ -1,0 +1,16 @@
+{
+  "name": "poeGems",
+  "version": "0.0.1",
+  "description": "Path of Exile Gem Guide",
+  "main": "index.html",
+  "author": "Max Arias",
+  "devDependencies": {
+    "gulp": "^3.x",
+    "gulp-connect": "^2.2.0",
+    "gulp-notify": "~2.2.0"
+  },
+  "dependencies": {
+    "bulma": "0.0.16",
+    "vue": "^1.0.17"
+  }
+}
