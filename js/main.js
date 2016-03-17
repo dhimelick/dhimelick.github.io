@@ -7,18 +7,45 @@ $(document).ready(function() {
 
     var init = function()
     {
-        var a1 = $.get('/json/quest_reward_filtered.json'),
-        a2     = $.get('/json/vendor_reward.json'),
-        a3     = $.get('/json/gems.json'),
-        a4     = $.get('/json/vaalGems.json'),
-        a5     = $.get('/json/poeAbbreviations.json');
+        var a1 = $.get('/json/gems_wip.json'),
+        a2     = $.get('/json/gems.json'),
+        a3     = $.get('/json/vaalGems.json'),
+        a4     = $.get('/json/poeAbbreviations.json');
 
-        $.when(a1, a2, a3, a4, a5).done(function(r1, r2, r3, r4, r5) {
-            quest_rewards    = r1[0];
-            vendor_rewards   = r2[0];
-            allGems          = r3[0];
-            vaalGems         = r4[0];
-            poeAbbreviations = r5[0];
+        $.when(a1, a2, a3, a4).done(function(r1, r2, r3, r4) {
+            gems_wip    = r1[0];
+            allGems     = r2[0];
+
+            _.each(gems_wip, function(item) {
+
+                var foundGem = _.find(allGems, function(gem){
+                    return gem.name == item.name;
+                });
+
+                if(!foundGem) {
+                    console.log("NOT FOUND!");
+                    console.log(item);
+                } else{
+
+                    console.log(foundGem);
+
+                    item.required_lvl = '-';
+                    if(foundGem.level) {
+                        item.required_lvl = foundGem.level;
+                    }
+
+                    item.isVaal       = false;
+                    if(foundGem.vaal) {
+                        item.isVaal = true;
+                    }
+
+                }
+
+
+                return item;
+            });
+
+            console.log(JSON.stringify(gems_wip));
 
             grouped_quest_rewards  = _.groupBy(quest_rewards, 'class');
             grouped_vendor_rewards = _.groupBy(vendor_rewards, 'class');
