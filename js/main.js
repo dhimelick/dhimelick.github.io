@@ -1,199 +1,206 @@
-$(document).ready(function() {
-    $('select').material_select();
-});
+var allGems, poeAbbreviations, classSelection, gemGuideText, gemsAvailableToClass, gemsNotAvailableToClass, hashids, gemCellSource, gemCellTemplate;
 
-(function(){
-    var allGems, vaalGems, quest_rewards, vendor_rewards, grouped_quest_rewards, grouped_vendor_rewards, classSelection, gemGuideText, orderedGems, foundGemsFromGuideTxt, notFoundGemsFromGuideTxt;
+var init = function()
+{
+    var a1 = $.get('/json/gems.json'),
+        a2 = $.get('/json/poeAbbreviations.json');
 
-    var init = function()
+    hashids = new Hashids("ad5b8cb26d9e1739be52d6ab14969873", 8, "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890");
+
+    gemCellSource   = $("#gem-cell-template").html();
+    gemCellTemplate = Handlebars.compile(gemCellSource);
+
+    $.when(a1, a2).done(function(r1, r2) {
+        allGems          = r1[0];
+        poeAbbreviations = r2[0];
+
+        _.each(allGems, function(item, index){
+            item.id = index;
+            delete item.reward_type;
+            delete item.quest;
+        });
+
+        console.log(JSON.stringify(allGems))
+
+        $('.loading-container').addClass('hide');
+
+        buildFromUrl();
+    });
+};
+
+var handleErrors = function()
+{
+    classSelection = $('select.class-selection').val();
+    gemGuideText   = $('input.gem-guide-text').val();
+
+    if(classSelection && gemGuideText)
     {
-        var a1 = $.get('/json/gems_wip.json'),
-        a2     = $.get('/json/gems.json'),
-        a3     = $.get('/json/vaalGems.json'),
-        a4     = $.get('/json/poeAbbreviations.json');
-
-        $.when(a1, a2, a3, a4).done(function(r1, r2, r3, r4) {
-            gems_wip    = r1[0];
-            allGems     = r2[0];
-
-            _.each(gems_wip, function(item) {
-
-                var foundGem = _.find(allGems, function(gem){
-                    return gem.name == item.name;
-                });
-
-                if(!foundGem) {
-                    console.log("NOT FOUND!");
-                    console.log(item);
-                } else{
-
-                    console.log(foundGem);
-
-                    item.required_lvl = '-';
-                    if(foundGem.level) {
-                        item.required_lvl = foundGem.level;
-                    }
-
-                    item.isVaal       = false;
-                    if(foundGem.vaal) {
-                        item.isVaal = true;
-                    }
-
-                }
-
-
-                return item;
-            });
-
-            console.log(JSON.stringify(gems_wip));
-
-            grouped_quest_rewards  = _.groupBy(quest_rewards, 'class');
-            grouped_vendor_rewards = _.groupBy(vendor_rewards, 'class');
-
-        });
-    };
-
-    var handleErrors = function()
-    {
-        classSelection = $('select.class-selection').val();
-        gemGuideText   = $('input.gem-guide-text').val();
-
-        if(classSelection && gemGuideText)
-        {
-            classSelection = classSelection.toLowerCase();
-            classSelection = classSelection.charAt(0).toUpperCase() + classSelection.slice(1);
-
-            return true;
-        }
-
-        if(!classSelection)
-        {
-            alert("EMPTY classSelection");
-        }
-
-        if(!gemGuideText)
-        {
-            alert("EMPTY gemGuideText");
-        }
-
-        return false;
-
-    };
-
-    var pickAndOrganiseGems = function()
-    {
-        var classQuestRewards  = grouped_quest_rewards[classSelection];
-        var classVendorRewards = grouped_vendor_rewards[classSelection];
-
-        foundGemsFromGuideTxt = [];
-        notFoundGemsFromGuideTxt = [];
-
-        _.each(vaalGems, function(item) {
-            if(isMatch(gemGuideText, item)) {
-                notFoundGemsFromGuideTxt.push(item);
-                removeGemFromText(item);
-            }
-        });
-
-        _.each(classVendorRewards, function(item) {
-            if(isMatch(gemGuideText, item.reward)) {
-                foundGemsFromGuideTxt.push(item);
-                removeGemFromText(item.reward);
-            }
-        });
-
-        _.each(classQuestRewards, function(item) {
-            if(isMatch(gemGuideText, item.reward)) {
-                foundGemsFromGuideTxt.push(item);
-                removeGemFromText(item.reward);
-            }
-        });
-
-        _.each(allGems, function(item) {
-            if(isMatch(gemGuideText, item)) {
-                notFoundGemsFromGuideTxt.push(item);
-                removeGemFromText(item);
-            }
-        });
-
-
-
-        foundGemsFromGuideTxt = _.sortBy(foundGemsFromGuideTxt, function(item) { return item.quest_id; })
-
-        //TODO
-        //ABBREVIATIONS
-        //MISSPELLS?
-
-        console.log("foundGemsFromGuideTxt", foundGemsFromGuideTxt);
-        console.log("notFoundGemsFromGuideTxt", notFoundGemsFromGuideTxt);
-        console.log("gemGuideText", gemGuideText);
-
-        buildGemTable();
+        return true;
     }
 
-    var buildGemTable = function()
+    if(!classSelection)
     {
-        var act1Gems = "";
-        var act2Gems = "";
-        var act3Gems = "";
-        var act4Gems = "";
-        var row      = "";
-
-        _.each(foundGemsFromGuideTxt, function(item) {
-            var itemLoc = item.quest_id.substring(0, 2);
-            var gemImgName = item.reward.toLowerCase().trim().split(' ').join('_');
-
-            switch(itemLoc){
-                case 'a1':
-                    act1Gems += "<div>"+item.reward+"</br>"+item.quest+"</br>"+item.npc+"</div>";
-                break;
-                case 'a2':
-                    act2Gems += "<div>"+item.reward+"</br>"+item.quest+"</br>"+item.npc+"</div>";
-                break;
-                case 'a3':
-                    act3Gems += "<div>"+item.reward+"</br>"+item.quest+"</br>"+item.npc+"</div>";
-                break;
-                case 'a4':
-                    act4Gems += "<div>"+item.reward+"</br>"+item.quest+"</br>"+item.npc+"</div>";
-                break;
-            }
-
-            row += "<tr><td>"+ act1Gems +"</td><td>"+ act2Gems +"</td><td>"+ act3Gems +"</td><td>"+ act4Gems +"</td></tr>";
-        });
-
-        console.log(row);
-
-
-        $('.gemTable tbody').append(row);
-
-        
+        alert("EMPTY classSelection");
     }
 
-    var isMatch = function(searchOnString, searchText) {
-        searchText = searchText.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
-        return searchOnString.match(new RegExp("\\b"+searchText+"\\b", "i")) != null;
-    }
-
-    var removeGemFromText = function(gemTxt)
+    if(!gemGuideText)
     {
-        var regEx = new RegExp(gemTxt, "ig");
-        gemGuideText = gemGuideText.replace(regEx, '');
+        alert("EMPTY gemGuideText");
     }
 
-    init();
+    return false;
 
-    $('.gem-guide-form').submit(function( event ) {
-        event.preventDefault();
+};
 
-        if(!handleErrors()){
-            return false;
-        }
+var pickAndOrganiseGems = function()
+{
 
-        if(grouped_quest_rewards && grouped_vendor_rewards && allGems)
-        {
-            pickAndOrganiseGems();
+    gemsAvailableToClass = [];
+    gemsNotAvailableToClass = [];
+
+    _.each(allGems, function(item) {
+        if(item.isVaal && isMatch(gemGuideText, item.name)) {
+            gemsNotAvailableToClass.push(item);
+            removeGemFromText(item.name);
         }
     });
 
+    _.each(allGems, function(item) {
+        if(!item.isVaal && isMatch(gemGuideText, item.name)) {
 
-})()
+            if(_.contains(item.available_to, classSelection)){
+                gemsAvailableToClass.push(item);                    
+            } else {
+                gemsNotAvailableToClass.push(item);
+            }
+
+            removeGemFromText(item.name);
+            
+        }
+    });
+
+    gemsAvailableToClass = _.sortBy(gemsAvailableToClass, function(item) { return item.required_lvl; });
+
+    //TODO:
+    //ABBREVIATIONS
+    //MISSPELLS?
+
+    buildShareLink();
+    buildGemTable();
+}
+
+var buildShareLink = function()
+{
+    var shareLink = {'found': hashids.encode(_.pluck(gemsAvailableToClass, 'id')), 'not_found': hashids.encode(_.pluck(gemsNotAvailableToClass, 'id'))};
+    shareLink     = $.param(shareLink);
+
+    $('.build-gem-link-container').removeClass('hide');
+    $('.buildGemLink').text(location.origin + "/?" + shareLink);
+    $('.buildGemLink').attr('href', location.origin + "/?" + shareLink);
+}
+
+var buildGemTable = function()
+{
+    $('.gem-tables-container').removeClass('hide');
+
+    $('html, body').animate({
+        scrollTop: $('.gem-tables-container').offset().top
+    }, 300);
+
+    clearGemTable();
+
+    for(var i = 0; i < gemsAvailableToClass.length; i++) 
+    {
+        if(i % 6 === 0) {
+            $('.gemTable').append('<div class="row"></div>');
+        }
+
+        var html = gemCellTemplate(gemsAvailableToClass[i]);
+        $('.gemTable .row:last').append(html);
+    }
+
+    for(var i = 0; i < gemsNotAvailableToClass.length; i++) 
+    {
+        if(i % 6 === 0) {
+            $('.notAvailableGemTable').append('<div class="row"></div>');    
+        }
+        var html = gemCellTemplate(gemsNotAvailableToClass[i]);
+        $('.notAvailableGemTable .row:last').append(html);
+    }
+}
+
+var clearGemTable = function()
+{
+    $('.gemTable').html('');
+    $('.gemTable').append('<div class="row"></div>');
+    $('.notAvailableGemTable').html('');
+    $('.notAvailableGemTable').append('<div class="row"></div>');
+}
+
+var buildFromUrl = function()
+{
+    var urlToParse  = location.search;  
+    var result      = parseQueryString(urlToParse);
+    var foundIds    = [];
+    var notFoundIds = [];
+
+    if(!result.found) return false;
+
+    foundIds    = hashids.decode(result.found);
+    notFoundIds = hashids.decode(result.not_found);
+
+    gemsAvailableToClass = _.filter(allGems, function(item) {
+        return _.contains(foundIds, item.id)
+    });
+    gemsNotAvailableToClass = _.filter(allGems, function(item) {
+        return _.contains(notFoundIds, item.id)
+    });
+
+    gemsAvailableToClass = _.sortBy(gemsAvailableToClass, function(item) { return item.required_lvl; });
+
+    buildGemTable();
+}
+
+var parseQueryString = function(url)
+{
+    var urlParams = {};
+    url.replace(
+        new RegExp("([^?=&]+)(=([^&]*))?", "g"),
+        function($0, $1, $2, $3) {
+            urlParams[$1] = $3;
+        }
+    );
+
+    return urlParams;
+}
+
+var isMatch = function(searchOnString, searchText) {
+    searchText = searchText.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    return searchOnString.match(new RegExp("\\b"+searchText+"\\b", "i")) != null;
+}
+
+var removeGemFromText = function(gemTxt)
+{
+    var regEx = new RegExp(gemTxt, "ig");
+    gemGuideText = gemGuideText.replace(regEx, '');
+}
+
+$('.gem-guide-form').submit(function( event ) {
+    event.preventDefault();
+
+    if(!handleErrors()){
+        return false;
+    }
+
+    pickAndOrganiseGems();
+});
+
+$('.clear-input').on('click', function(){
+    $('select.class-selection').val([]);
+    $('input.gem-guide-text').val('');
+});
+
+$(document).ready(function() {
+    $('select').material_select();
+    init();
+});

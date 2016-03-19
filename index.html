@@ -13,20 +13,20 @@
     </head>
     <body>
         <main class="container">
-            <section class="row">
+            <section class="row hoverable">
                 <form class="col s12 z-depth-1 gem-guide-form">
-                    <h3>Path of Gems</h3>
+                    <h3 class="title"><a href="/">Path of Gems</a></h3>
                     <div class="row">
                         <div class="input-field col s12">
                             <select class="class-selection validate" name="class-selection-name">
                                 <option value="" disabled selected>Select your class</option>
-                                <option data-icon="images/avatar/Marauder_avatar.png" value="marauder">Marauder</option>
-                                <option data-icon="images/avatar/Duelist_avatar.png" value="duelist">Duelist</option>
-                                <option data-icon="images/avatar/Ranger_avatar.png" value="ranger">Ranger</option>
-                                <option data-icon="images/avatar/Shadow_avatar.png" value="shadow">Shadow</option>
-                                <option data-icon="images/avatar/Witch_avatar.png" value="witch">Witch</option>
-                                <option data-icon="images/avatar/Templar_avatar.png" value="templar">Templar</option>
-                                <option data-icon="images/avatar/Scion_avatar.png" value="scion">Scion</option>
+                                <option value="marauder">Marauder</option>
+                                <option value="duelist">Duelist</option>
+                                <option value="ranger">Ranger</option>
+                                <option value="shadow">Shadow</option>
+                                <option value="witch">Witch</option>
+                                <option value="templar">Templar</option>
+                                <option value="scion">Scion</option>
                             </select>
                             <label>Your class</label>
                             
@@ -46,35 +46,38 @@
                             <button class="btn waves-effect waves-light" type="submit" name="action">Path it
                                 <i class="material-icons right">send</i>
                             </button>
+
+                            <a class="btn-floating waves-effect waves-light red clear-input"><i class="material-icons">delete</i></a>
+
+                            <span type="text" class="build-gem-link-container hide">Share your Gem list: <a target="_blank" class="buildGemLink" href="#"></a></span>
                         </div>
                     </div>
                 </form>
             </section>
 
-            <section class="row">
+            <section class="row loading-container">
+                <dic class="center-align col s12">
+                    <i class="material-icons loading-icon">loop</i>
+                </dic>
+            </section>
+
+            <section class="row gem-tables-container hide hoverable">
                 <div class="col s12 z-depth-1 gem-guide-table">
                     <h4>Quest and Vendor Rewards</h4>
-                    </br>
-                    <table class="gemTable">
-                        <thead>
-                            <th>Act 1</th>
-                            <th>Act 2</th>
-                            <th>Act 3</th>
-                            <th>Act 4</th>
-                        </thead>
-                        <tbody></tbody>
-                    </table>
+                    <p>Use the following table to plan when/where to get your Gems!</p>
+                    
+                    <div class="gemTable">
+                        <div class="row"></div>
+                    </div>
+
                     </br>
                     <h4>Gems not available to your class</h4>
-                    <table class="notAvailableGemTable">
-                        <thead>
-                            <th></th>
-                            <th></th>
-                            <th></th>
-                            <th></th>
-                        </thead>
-                        <tbody></tbody>
-                    </table>
+                    <p>The following Skill Gems are not available to your class. Try to buy them in<b><i>/trade</i></b> or (<a target="_blank" href="http://poe.trade">poe.trade</a>)!</p>
+                    
+                    <div class="notAvailableGemTable">
+                        <div class="row"></div>
+                    </div>
+
                 </div>
             </section>
             
@@ -82,7 +85,22 @@
         <script src="//code.jquery.com/jquery-2.2.1.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
         <script src="//cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js"></script>
+        <script src="//cdn.jsdelivr.net/handlebarsjs/4.0.5/handlebars.min.js"></script>
+        <script src="js/hashids.min.js"></script>
         <script src="js/underscore-min.js"></script>
         <script src="js/main.js"></script>
+
+        <script id="gem-cell-template" type="text/x-handlebars-template">
+            <div class="gem-cell col s2">
+                <div class="gem-cell-content">
+                    <span><a target="_blank" href="http://pathofexile.gamepedia.com/{{name}}">{{name}}</a></span> <br>
+                    {{#if required_lvl}}<span>Lvl: <b>{{required_lvl}}</b></span> <br>{{/if}}
+                    {{#if act}}<span>Act: <b>{{act}}</b></span> <br>{{/if}}
+                    {{#if town}}<span><a target="_blank" href="http://pathofexile.gamepedia.com/{{town}}">{{town}}</a></span> <br>{{/if}}
+                    {{#if quest_name}}<span><a target="_blank" href="http://pathofexile.gamepedia.com/{{quest_name}}">{{quest_name}}</a></span> <br>{{/if}}
+                    {{#if npc}}<span><a target="_blank" href="http://pathofexile.gamepedia.com/{{npc}}">{{npc}}</a></span> <br>{{/if}}
+                </div>
+            </div>
+        </script>
     </body>
 </html>
