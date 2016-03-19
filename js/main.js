@@ -87,8 +87,8 @@ var buildShareLink = function()
     shareLink     = $.param(shareLink);
 
     $('.build-gem-link-container').removeClass('hide');
-    $('.buildGemLink').text(location.origin + "/?" + shareLink);
-    $('.buildGemLink').attr('href', location.origin + "/?" + shareLink);
+    $('.buildGemLink').text(location.origin + "/poeGems/?" + shareLink);
+    $('.buildGemLink').attr('href', location.origin + "/poeGems/?" + shareLink);
 }
 
 var buildGemTable = function()
