@@ -14,14 +14,6 @@ var init = function()
         allGems          = r1[0];
         poeAbbreviations = r2[0];
 
-        _.each(allGems, function(item, index){
-            item.id = index;
-            delete item.reward_type;
-            delete item.quest;
-        });
-
-        console.log(JSON.stringify(allGems))
-
         $('.loading-container').addClass('hide');
 
         buildFromUrl();
