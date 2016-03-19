@@ -4,67 +4,79 @@
         <meta charset="UTF-8">
         <title>Path of Gems</title>
         
-        <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
-        <link rel="stylesheet" href="//cdn.datatables.net/1.10.11/css/jquery.dataTables.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
 
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     </head>
     <body>
         <main class="container">
-            <section class="row hoverable">
-                <form class="col s12 z-depth-1 gem-guide-form">
-                    <h3 class="title"><a href="/">Path of Gems</a></h3>
-                    <div class="row">
-                        <div class="input-field col s12">
-                            <select class="class-selection validate" name="class-selection-name">
-                                <option value="" disabled selected>Select your class</option>
-                                <option value="marauder">Marauder</option>
-                                <option value="duelist">Duelist</option>
-                                <option value="ranger">Ranger</option>
-                                <option value="shadow">Shadow</option>
-                                <option value="witch">Witch</option>
-                                <option value="templar">Templar</option>
-                                <option value="scion">Scion</option>
-                            </select>
-                            <label>Your class</label>
-                            
-                            <blockquote class="red-text hide">
-                                This field is required.
-                            </blockquote>
-                        </div>
-                        <div class="input-field col s12">
-                            <label for="guideGems">Guide Gem Section</label>
-                            <input autocomplete="off" type="text" placeholder='Paste the "Gems" section of your guide here …' id="guideGems" class="validate materialize-textarea gem-guide-text" name="gem-guide-text-name">
-                            
-                            <blockquote class="red-text hide">
-                                This field is required.
-                            </blockquote>
-                        </div>
-                        <div class="input-field col s12">
-                            <button class="btn waves-effect waves-light" type="submit" name="action">Path it
-                                <i class="material-icons right">send</i>
-                            </button>
-
-                            <a class="btn-floating waves-effect waves-light red clear-input"><i class="material-icons">delete</i></a>
-
-                            <span type="text" class="build-gem-link-container hide">Share your Gem list: <a target="_blank" class="buildGemLink" href="#"></a></span>
-                        </div>
-                    </div>
-                </form>
+            <section class="row">
+                <div class="well col-md-12">
+                    <form class="gem-guide-form form-horizontal">
+                        <fieldset>                            
+                            <div class="form-group">
+                                <label for="class-selection-name" class="col-lg-2 control-label">Your class</label>
+                                <div class="col-lg-10">
+                                    <select class="class-selection form-control " name="class-selection-name">
+                                        <option value="" disabled selected>Select your class</option>
+                                        <option value="marauder">Marauder</option>
+                                        <option value="duelist">Duelist</option>
+                                        <option value="ranger">Ranger</option>
+                                        <option value="shadow">Shadow</option>
+                                        <option value="witch">Witch</option>
+                                        <option value="templar">Templar</option>
+                                        <option value="scion">Scion</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="gem-guide-text-name" class="col-lg-2 control-label">Gem build text</label>
+                                <div class="col-lg-10">
+                                    <input autocomplete="off" type="text" placeholder='Paste the "Gems" section of your guide here …' id="guideGems" class="form-control gem-guide-text" name="gem-guide-text-name">
+                                </div>
+                            </div>
+                            <div class="form-group build-gem-link-container hide">
+                                <label for="gem-guide-text-name" class="col-lg-2 control-label">Your Gem build</label>
+                                <div class="col-lg-10">
+                                    <p class="buildGemLink"></p>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-lg-10 col-lg-offset-2">
+                                    <button type="reset" class="btn btn-default clear-form-input">Clear</button>
+                                    <button type="submit" class="btn btn-primary">Process</button>
+                                </div>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+                
             </section>
 
             <section class="row loading-container">
-                <dic class="center-align col s12">
-                    <i class="material-icons loading-icon">loop</i>
-                </dic>
+                <div class="col-md-12">
+                    <div class="center-block">
+                        <i class="fa fa-refresh loading-icon"></i>
+                    </div>
+                </div>
             </section>
 
-            <section class="row gem-tables-container hide hoverable">
-                <div class="col s12 z-depth-1 gem-guide-table">
+            <section class="row hide nothing-found-row">
+                <div class="col-md-12">
+                    <div class="center-block icon-container">
+                        <p>Nothing found</p>
+                        <i class="fa fa-frown-o"></i>
+                    </div>
+                </div>
+            </section>
+
+            <section class="row gem-tables-container hide">
+                <div class="col-md-12 gem-guide-table">
                     <h4>Quest and Vendor Rewards</h4>
-                    <p>Use the following table to plan when/where to get your Gems!</p>
+                    <p class="small">Use the following table to plan when/where to get your Gems!</p>
                     
                     <div class="gemTable">
                         <div class="row"></div>
@@ -72,7 +84,7 @@
 
                     </br>
                     <h4>Gems not available to your class</h4>
-                    <p>The following Skill Gems are not available to your class. Try to buy them in<b><i>/trade</i></b> or (<a target="_blank" href="http://poe.trade">poe.trade</a>)!</p>
+                    <p class="small">The following Skill Gems are not available to your class. Try to buy them in<b><i>/trade</i></b> or (<a target="_blank" href="http://poe.trade">poe.trade</a>)!</p>
                     
                     <div class="notAvailableGemTable">
                         <div class="row"></div>
@@ -83,16 +95,15 @@
             
         </main>
         <script src="//code.jquery.com/jquery-2.2.1.min.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
-        <script src="//cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js"></script>
         <script src="//cdn.jsdelivr.net/handlebarsjs/4.0.5/handlebars.min.js"></script>
         <script src="js/hashids.min.js"></script>
         <script src="js/underscore-min.js"></script>
         <script src="js/main.js"></script>
 
         <script id="gem-cell-template" type="text/x-handlebars-template">
-            <div class="gem-cell col s2">
+            <div class="gem-cell col-md-3">
                 <div class="gem-cell-content">
+                    <input type="checkbox" class="item-complete">
                     <span><a target="_blank" href="http://pathofexile.gamepedia.com/{{name}}">{{name}}</a></span> <br>
                     {{#if required_lvl}}<span>Lvl: <b>{{required_lvl}}</b></span> <br>{{/if}}
                     {{#if act}}<span>Act: <b>{{act}}</b></span> <br>{{/if}}

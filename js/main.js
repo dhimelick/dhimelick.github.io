@@ -10,6 +10,8 @@ var init = function()
     gemCellSource   = $("#gem-cell-template").html();
     gemCellTemplate = Handlebars.compile(gemCellSource);
 
+    $('.nothing-found-row').addClass('hide');
+
     $.when(a1, a2).done(function(r1, r2) {
         allGems          = r1[0];
         poeAbbreviations = r2[0];
@@ -71,6 +73,12 @@ var pickAndOrganiseGems = function()
         }
     });
 
+    if(!gemsAvailableToClass.length && !gemsNotAvailableToClass.length){
+        $('.nothing-found-row').removeClass('hide');
+        return false;
+    }
+
+
     gemsAvailableToClass = _.sortBy(gemsAvailableToClass, function(item) { return item.required_lvl; });
 
     //TODO:
@@ -103,7 +111,7 @@ var buildGemTable = function()
 
     for(var i = 0; i < gemsAvailableToClass.length; i++) 
     {
-        if(i % 6 === 0) {
+        if(i % 4 === 0) {
             $('.gemTable').append('<div class="row"></div>');
         }
 
@@ -113,7 +121,7 @@ var buildGemTable = function()
 
     for(var i = 0; i < gemsNotAvailableToClass.length; i++) 
     {
-        if(i % 6 === 0) {
+        if(i % 4 === 0) {
             $('.notAvailableGemTable').append('<div class="row"></div>');    
         }
         var html = gemCellTemplate(gemsNotAvailableToClass[i]);
@@ -147,6 +155,11 @@ var buildFromUrl = function()
     gemsNotAvailableToClass = _.filter(allGems, function(item) {
         return _.contains(notFoundIds, item.id)
     });
+
+    if(!gemsAvailableToClass.length){
+        $('.nothing-found-row').removeClass('hide');
+        return false;
+    }
 
     gemsAvailableToClass = _.sortBy(gemsAvailableToClass, function(item) { return item.required_lvl; });
 
@@ -187,12 +200,21 @@ $('.gem-guide-form').submit(function( event ) {
     pickAndOrganiseGems();
 });
 
-$('.clear-input').on('click', function(){
+$('.clear-form-input').on('click', function(){
+    $('.nothing-found-row').addClass('hide');
     $('select.class-selection').val([]);
     $('input.gem-guide-text').val('');
 });
 
+$(document).on('click', '.gem-cell-content .item-complete', function(){
+    var checked = $(this).prop('checked');
+    if(checked) {
+        $(this).parent().addClass('disabled');
+    } else {
+        $(this).parent().removeClass('disabled');
+    }
+});
+
 $(document).ready(function() {
-    $('select').material_select();
     init();
 });
