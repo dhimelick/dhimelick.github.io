@@ -2,8 +2,8 @@ var allGems, poeAbbreviations, classSelection, gemGuideText, gemsAvailableToClas
 
 var init = function()
 {
-    var a1 = $.get('/json/gems.json'),
-        a2 = $.get('/json/poeAbbreviations.json');
+    var a1 = $.get('json/gems.json'),
+        a2 = $.get('json/poeAbbreviations.json');
 
     hashids = new Hashids("ad5b8cb26d9e1739be52d6ab14969873", 8, "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890");
 
