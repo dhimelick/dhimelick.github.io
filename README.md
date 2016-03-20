@@ -15,3 +15,11 @@ Becomes this (for a Templar):
 
 Anything off? Let me know. 
 Submit an issue: https://github.com/max-arias/poeGems/issues or write to: max@max-arias.com
+
+
+TODO
+-----
+- Abbreviations
+- Misspellings
+- Better error messages
+- Code clean up, move to React (for the hell of it)
