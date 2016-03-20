@@ -22,32 +22,10 @@ var init = function()
     });
 };
 
-var handleErrors = function()
+var pickAndOrganiseGems = function()
 {
     classSelection = $('select.class-selection').val();
     gemGuideText   = $('input.gem-guide-text').val();
-
-    if(classSelection && gemGuideText)
-    {
-        return true;
-    }
-
-    if(!classSelection)
-    {
-        alert("EMPTY classSelection");
-    }
-
-    if(!gemGuideText)
-    {
-        alert("EMPTY gemGuideText");
-    }
-
-    return false;
-
-};
-
-var pickAndOrganiseGems = function()
-{
 
     gemsAvailableToClass = [];
     gemsNotAvailableToClass = [];
@@ -75,23 +53,23 @@ var pickAndOrganiseGems = function()
 
     if(!gemsAvailableToClass.length && !gemsNotAvailableToClass.length){
         $('.nothing-found-row').removeClass('hide');
+        clearGemTable();
         return false;
+    } else {
+        $('.nothing-found-row').addClass('hide');
     }
-
 
     gemsAvailableToClass = _.sortBy(gemsAvailableToClass, function(item) { return item.required_lvl; });
 
-    //TODO:
-    //ABBREVIATIONS
-    //MISSPELLS?
-
-    buildShareLink();
     buildGemTable();
+    buildShareLink();
 }
 
 var buildShareLink = function()
 {
-    var shareLink = {'found': hashids.encode(_.pluck(gemsAvailableToClass, 'id')), 'not_found': hashids.encode(_.pluck(gemsNotAvailableToClass, 'id'))};
+    var shareLink = {}
+    if(gemsAvailableToClass.length) shareLink.found = hashids.encode(_.pluck(gemsAvailableToClass, 'id'));
+    if(gemsNotAvailableToClass.length) shareLink.not_found = hashids.encode(_.pluck(gemsNotAvailableToClass, 'id'));
     shareLink     = $.param(shareLink);
 
     $('.build-gem-link-container').removeClass('hide');
@@ -109,23 +87,29 @@ var buildGemTable = function()
 
     clearGemTable();
 
-    for(var i = 0; i < gemsAvailableToClass.length; i++) 
-    {
-        if(i % 4 === 0) {
-            $('.gemTable').append('<div class="row"></div>');
-        }
+    if(gemsAvailableToClass.length) {
+        $('.foundGemsContainer').removeClass('hide');
+        for(var i = 0; i < gemsAvailableToClass.length; i++) 
+        {
+            if(i % 4 === 0) {
+                $('.gemTable').append('<div class="row"></div>');
+            }
 
-        var html = gemCellTemplate(gemsAvailableToClass[i]);
-        $('.gemTable .row:last').append(html);
+            var html = gemCellTemplate(gemsAvailableToClass[i]);
+            $('.gemTable .row:last').append(html);
+        }        
     }
 
-    for(var i = 0; i < gemsNotAvailableToClass.length; i++) 
-    {
-        if(i % 4 === 0) {
-            $('.notAvailableGemTable').append('<div class="row"></div>');    
-        }
-        var html = gemCellTemplate(gemsNotAvailableToClass[i]);
-        $('.notAvailableGemTable .row:last').append(html);
+    if(gemsNotAvailableToClass.length) {
+        $('.notFoundGemsContainer').removeClass('hide');
+        for(var i = 0; i < gemsNotAvailableToClass.length; i++) 
+        {
+            if(i % 4 === 0) {
+                $('.notAvailableGemTable').append('<div class="row"></div>');    
+            }
+            var html = gemCellTemplate(gemsNotAvailableToClass[i]);
+            $('.notAvailableGemTable .row:last').append(html);
+        }        
     }
 }
 
@@ -135,6 +119,11 @@ var clearGemTable = function()
     $('.gemTable').append('<div class="row"></div>');
     $('.notAvailableGemTable').html('');
     $('.notAvailableGemTable').append('<div class="row"></div>');
+
+    $('.foundGemsContainer').addClass('hide');
+    $('.notFoundGemsContainer').addClass('hide');
+
+    $('.build-gem-link-container').addClass('hide');
 }
 
 var buildFromUrl = function()
@@ -190,17 +179,17 @@ var removeGemFromText = function(gemTxt)
     gemGuideText = gemGuideText.replace(regEx, '');
 }
 
-$('.gem-guide-form').submit(function( event ) {
-    event.preventDefault();
-
-    if(!handleErrors()){
-        return false;
+$('.gem-guide-form').validator().on('submit', function (e) {
+    if (!e.isDefaultPrevented()) {
+        pickAndOrganiseGems();        
+        e.preventDefault();
     }
+})
 
-    pickAndOrganiseGems();
-});
+$('.clear-form-input').on('click', function() 
+{
+    clearGemTable();
 
-$('.clear-form-input').on('click', function(){
     $('.nothing-found-row').addClass('hide');
     $('select.class-selection').val([]);
     $('input.gem-guide-text').val('');

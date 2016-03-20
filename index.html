@@ -15,12 +15,12 @@
         <main class="container">
             <section class="row">
                 <div class="well col-md-12">
-                    <form class="gem-guide-form form-horizontal">
+                    <form class="gem-guide-form form-horizontal" data-toggle="validator">
                         <fieldset>                            
                             <div class="form-group">
                                 <label for="class-selection-name" class="col-lg-2 control-label">Your class</label>
                                 <div class="col-lg-10">
-                                    <select class="class-selection form-control " name="class-selection-name">
+                                    <select class="class-selection form-control " name="class-selection-name" required>
                                         <option value="" disabled selected>Select your class</option>
                                         <option value="marauder">Marauder</option>
                                         <option value="duelist">Duelist</option>
@@ -30,12 +30,14 @@
                                         <option value="templar">Templar</option>
                                         <option value="scion">Scion</option>
                                     </select>
+                                    <div class="help-block with-errors"></div>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="gem-guide-text-name" class="col-lg-2 control-label">Gem build text</label>
                                 <div class="col-lg-10">
-                                    <input autocomplete="off" type="text" placeholder='Paste the "Gems" section of your guide here …' id="guideGems" class="form-control gem-guide-text" name="gem-guide-text-name">
+                                    <input autocomplete="off" type="text" placeholder='Paste the "Gems" section of your guide here …' id="guideGems" class="form-control gem-guide-text" name="gem-guide-text-name" required>
+                                    <div class="help-block with-errors"></div>
                                 </div>
                             </div>
                             <div class="form-group build-gem-link-container hide">
@@ -75,21 +77,25 @@
 
             <section class="row gem-tables-container hide">
                 <div class="col-md-12 gem-guide-table">
-                    <h4>Quest and Vendor Rewards</h4>
-                    <p class="small">Use the following table to plan when/where to get your Gems!</p>
                     
-                    <div class="gemTable">
-                        <div class="row"></div>
+                    <div class="foundGemsContainer hide">
+                        <h4>Quest and Vendor Rewards</h4>
+                        <small>Use the following table to plan when/where to get your Gems!</small>
+                        
+                        <div class="gemTable">
+                            <div class="row"></div>
+                        </div>                        
                     </div>
 
                     </br>
-                    <h4>Gems not available to your class</h4>
-                    <p class="small">The following Skill Gems are not available to your class. Try to buy them in<b><i>/trade</i></b> or (<a target="_blank" href="http://poe.trade">poe.trade</a>)!</p>
-                    
-                    <div class="notAvailableGemTable">
-                        <div class="row"></div>
+                    <div class="notFoundGemsContainer hide">
+                        <h4>Gems not available to your class</h4>
+                        <small>The following Skill Gems are not available to your class. Try to buy them in <b><i>/trade</i></b> or <a target="_blank" href="http://poe.trade">poe.trade</a>!</small>
+                        
+                        <div class="notAvailableGemTable">
+                            <div class="row"></div>
+                        </div>                        
                     </div>
-
                 </div>
             </section>
             
@@ -98,6 +104,7 @@
         <script src="//cdn.jsdelivr.net/handlebarsjs/4.0.5/handlebars.min.js"></script>
         <script src="js/hashids.min.js"></script>
         <script src="js/underscore-min.js"></script>
+        <script src="js/validator.min.js"></script>
         <script src="js/main.js"></script>
 
         <script>
