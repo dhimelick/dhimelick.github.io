@@ -1,0 +1,250 @@
+[
+  {
+    "abbr": "ACD",
+    "desc": "Added Cold Damage"
+  },
+  {
+    "abbr": "AFD",
+    "desc": "Added Fire Damage"
+  },
+  {
+    "abbr": "ALD",
+    "desc": "Added Lightning Damage"
+  },
+  {
+    "abbr": "APD",
+    "desc": "Added Physical Damage"
+  },
+  {
+    "abbr": "APD",
+    "desc": "Added Projectiles Damage"
+  },
+  {
+    "abbr": "BM",
+    "desc": "Blood Magic"
+  },
+  {
+    "abbr": "BR",
+    "desc": "Blood Rage"
+  },
+  {
+    "abbr": "CS",
+    "desc": "Cold Snap"
+  },
+  {
+    "abbr": "CS",
+    "desc": "Culling Strike"
+  },
+  {
+    "abbr": "CW",
+    "desc": "Critical Weakness"
+  },
+  {
+    "abbr": "DD",
+    "desc": "Detonate Dead"
+  },
+  {
+    "abbr": "Det",
+    "desc": "Determination"
+  },
+  {
+    "abbr": "Determ",
+    "desc": "Determination"
+  },
+  {
+    "abbr": "Disc",
+    "desc": "Discipline"
+  },
+  {
+    "abbr": "EE",
+    "desc": "Elemental Equilibrium"
+  },
+  {
+    "abbr": "EK",
+    "desc": "Ethereal Knives"
+  },
+  {
+    "abbr": "EW",
+    "desc": "Elemental Weakness"
+  },
+  {
+    "abbr": "FA",
+    "desc": "Faster Attack"
+  },
+  {
+    "abbr": "FC",
+    "desc": "Faster Casting"
+  },
+  {
+    "abbr": "FP",
+    "desc": "Faster Projectiles"
+  },
+  {
+    "abbr": "FP",
+    "desc": "Freezing Pulse"
+  },
+  {
+    "abbr": "GH",
+    "desc": "Glacial Hammer"
+  },
+  {
+    "abbr": "GMP",
+    "desc": "Greater Multiple Projectiles"
+  },
+  {
+    "abbr": "GS",
+    "desc": "Ground slam"
+  },
+  {
+    "abbr": "HS",
+    "desc": "Heavy Strike"
+  },
+  {
+    "abbr": "IAOE",
+    "desc": "Increased Area of Effect"
+  },
+  {
+    "abbr": "IB",
+    "desc": "Infernal Blow"
+  },
+  {
+    "abbr": "IC",
+    "desc": "Immortal Call"
+  },
+  {
+    "abbr": "IDUR",
+    "desc": "Increased Duration"
+  },
+  {
+    "abbr": "LL",
+    "desc": "Life Leech"
+  },
+  {
+    "abbr": "LMP",
+    "desc": "Lesser Multiple Projectiles"
+  },
+  {
+    "abbr": "LS",
+    "desc": "Leap Slam"
+  },
+  {
+    "abbr": "LS",
+    "desc": "Lightning Strike"
+  },
+  {
+    "abbr": "ML",
+    "desc": "Mana Leech"
+  },
+  {
+    "abbr": "PA",
+    "desc": "Poison Arrow"
+  },
+  {
+    "abbr": "PW",
+    "desc": "Projectiles Weakness"
+  },
+  {
+    "abbr": "TC",
+    "desc": "Temporal Chains"
+  },
+  {
+    "abbr": "TS",
+    "desc": ["Tempest Shield", "Tornado Shot"]
+  },
+  {
+    "abbr": "VS",
+    "desc": "Viper Strike"
+  },
+  {
+    "abbr": "WED",
+    "desc": "Weapon Elemental Damage"
+  },
+  {
+    "abbr": "WM",
+    "desc": "Warlord Mark"
+  },
+  {
+    "abbr": "CoC",
+    "desc": "Cast On Critical Strike"
+  },
+  {
+    "abbr": "PoF",
+    "desc": "Purity of Fire"
+  },
+  {
+    "abbr": "AA",
+    "desc": "Arctic Armour"
+  },
+  {
+    "abbr": "RF",
+    "desc": "Righteous Fire"
+  },
+  {
+    "abbr": "CWDT",
+    "desc": "Cast When Damage Taken"
+  },
+  {
+    "abbr": "CoH",
+    "desc": "Curse On Hit"
+  },
+  {
+    "abbr": "HoT",
+    "desc": "Herald of Thunder"
+  },
+  {
+    "abbr": "HoI",
+    "desc": "Herald of Ice"
+  },
+  {
+    "abbr": "SWT",
+    "desc": "Shockwave Totem"
+  },
+  {
+    "abbr": "EA",
+    "desc": "Explosive Arrow"
+  },
+  {
+    "abbr": "SRS",
+    "desc": "Summon Raging Spirit"
+  },
+  {
+    "abbr": "comk",
+    "desc": "Cast on melee kill"
+  },
+  {
+    "abbr": "RoA",
+    "desc": "Rain of Arrows"
+  },
+  {
+    "abbr": "lgoh",
+    "desc": "Life Gain on Hit"
+  },
+  {
+    "abbr": "HOA",
+    "desc": "Herald of Ash"
+  },
+  {
+    "abbr": "bv",
+    "desc": "Blade Vortex"
+  },
+  {
+    "abbr": "kb",
+    "desc": "Kinetic Blast"
+  },
+  {
+    "abbr": "PPAD",
+    "desc": "Physical Projectiles Attack Damage"
+  },
+  {
+    "abbr": "sp",
+    "desc": "Slower Projectiles"
+  },
+  {
+    "abbr": "CA",
+    "desc": "Caustic Arrow"
+  },
+  {
+    "abbr": "PCoC",
+    "desc": "Power Charge On Critical"
+  }
+]

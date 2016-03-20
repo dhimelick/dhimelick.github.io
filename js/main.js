@@ -1,9 +1,9 @@
-var allGems, poeAbbreviations, classSelection, gemGuideText, gemsAvailableToClass, gemsNotAvailableToClass, hashids, gemCellSource, gemCellTemplate;
+var allGems, abbreviations, classSelection, gemGuideText, gemsAvailableToClass, gemsNotAvailableToClass, hashids, gemCellSource, gemCellTemplate;
 
 var init = function()
 {
     var a1 = $.get('json/gems.json'),
-        a2 = $.get('json/poeAbbreviations.json');
+        a2 = $.get('json/abbreviations.json');
 
     hashids = new Hashids("ad5b8cb26d9e1739be52d6ab14969873", 8, "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890");
 
@@ -13,8 +13,8 @@ var init = function()
     $('.nothing-found-row').addClass('hide');
 
     $.when(a1, a2).done(function(r1, r2) {
-        allGems          = r1[0];
-        poeAbbreviations = r2[0];
+        allGems         = r1[0];
+        abbreviations   = r2[0];
 
         $('.loading-container').addClass('hide');
 
@@ -30,6 +30,7 @@ var pickAndOrganiseGems = function()
     gemsAvailableToClass = [];
     gemsNotAvailableToClass = [];
 
+    //Vaal Gems are not available to any class
     _.each(allGems, function(item) {
         if(item.isVaal && isMatch(gemGuideText, item.name)) {
             gemsNotAvailableToClass.push(item);
@@ -37,17 +38,50 @@ var pickAndOrganiseGems = function()
         }
     });
 
+    //Look for gems by full name
     _.each(allGems, function(item) {
         if(!item.isVaal && isMatch(gemGuideText, item.name)) {
-
             if(_.contains(item.available_to, classSelection)){
-                gemsAvailableToClass.push(item);                    
-            } else {
-                gemsNotAvailableToClass.push(item);
-            }
+                gemsAvailableToClass.push(item);                
+                removeGemFromText(item.name);
+            }            
+        }
+    });
 
-            removeGemFromText(item.name);
-            
+    //Look for abbreviated gems
+    _.each(abbreviations, function(item) {
+        if(isMatch(gemGuideText, item.abbr)) {
+
+            if(_.isString(item.desc)){
+                var gem = _.find(allGems, function(gemItem) { 
+                    return gemItem.name.trim().toLowerCase() === item.desc.trim().toLowerCase()
+                });
+                if(gem){
+                    gemsAvailableToClass.push(gem);
+                    removeGemFromText(gem.name);
+                }
+
+            } else if(_.isArray(item.desc)){
+                _.each(item.desc, function(descItem){
+                    var gem = _.find(allGems, function(gemItem) { 
+                        return gemItem.name.trim().toLowerCase() === descItem.trim().toLowerCase()
+                    });
+                    if(gem) {
+                        gemsAvailableToClass.push(gem);
+                        removeGemFromText(gem.name);
+                    }
+                });
+            }            
+        }
+    });
+
+    //Remaining Gems are not available to class
+    _.each(allGems, function(item) {
+        if(!item.isVaal && isMatch(gemGuideText, item.name)) {
+            if(!_.contains(item.available_to, classSelection)){
+                gemsNotAvailableToClass.push(item);
+                removeGemFromText(item.name);
+            }
         }
     });
 

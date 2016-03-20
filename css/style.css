@@ -9,7 +9,7 @@ strong { color: #bb9e74; font-weight: bold;}
 .clear-input {margin-left: 20px;}
 .loading-container .center-block {width: 18px;}
 .loading-icon{-webkit-animation: spin 1s infinite linear;}
-.build-gem-link-container .buildGemLink{ margin-top: 12px; margin-bottom: 0px; }
+.build-gem-link-container .buildGemLink{ margin-top: 12px; margin-bottom: 0px; overflow-wrap: break-word;}
 a {color: #A38B63; text-decoration: underline;}
 a:hover {color: #A38B63;}
 
