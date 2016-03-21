@@ -16,10 +16,5 @@ Becomes this (for a Templar):
 Anything off? Let me know. 
 Submit an issue: https://github.com/max-arias/poeGems/issues or write to: max@max-arias.com
 
-
-TODO
------
-- Abbreviations
-- Misspellings
-- Better error messages
-- Code clean up, move to React (for the hell of it)
+- Abbreviations, some are done. If there are any that I missed, submit them here: https://docs.google.com/forms/d/1-Qa1i8QPVaFku62YXGpI2FdAeYQg0-CGcIlWS6PFDyg/viewform
+- Misspells: I will be gathering data on the texts that I could not find and add the periodically to this list, sort of crowdsourcing them.
