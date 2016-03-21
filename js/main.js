@@ -43,6 +43,8 @@ var pickAndOrganiseGems = function()
     classSelection = $('select.class-selection').val();
     gemGuideText   = $('input.gem-guide-text').val();
 
+    gemGuideText = gemGuideText.replace(/\s+/g, " ");
+
     gemTextIn.set({text: gemGuideText});
 
     gemsAvailableToClass = [];
