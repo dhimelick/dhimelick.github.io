@@ -1,4 +1,4 @@
-var allGems, abbreviations, classSelection, gemGuideText, gemsAvailableToClass, gemsNotAvailableToClass, hashids, gemCellSource, gemCellTemplate;
+var allGems, abbreviations, classSelection, gemGuideText, gemsAvailableToClass, gemsNotAvailableToClass, hashids, gemCellSource, gemCellTemplate, myFirebaseRef, remainingTextList;
 
 var init = function()
 {
@@ -6,6 +6,9 @@ var init = function()
         a2 = $.get('json/abbreviations.json');
 
     hashids = new Hashids("ad5b8cb26d9e1739be52d6ab14969873", 8, "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890");
+    myFirebaseRef     = new Firebase("https://poegems.firebaseio.com/");
+    remainingTextList = myFirebaseRef.child("posts");
+    remainingTextList = remainingTextList.push();
 
     gemCellSource   = $("#gem-cell-template").html();
     gemCellTemplate = Handlebars.compile(gemCellSource);
@@ -94,6 +97,8 @@ var pickAndOrganiseGems = function()
     }
 
     gemsAvailableToClass = _.sortBy(gemsAvailableToClass, function(item) { return item.required_lvl; });
+
+    remainingTextList.set({text: gemGuideText});
 
     buildGemTable();
     buildShareLink();
