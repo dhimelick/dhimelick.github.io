@@ -77,11 +77,7 @@
   },
   {
     "abbr": "FP",
-    "desc": "Faster Projectiles"
-  },
-  {
-    "abbr": "FP",
-    "desc": "Freezing Pulse"
+    "desc": ["Faster Projectiles", "Freezing Pulse"]
   },
   {
     "abbr": "GH",
@@ -246,5 +242,29 @@
   {
     "abbr": "PCoC",
     "desc": "Power Charge On Critical"
-  }
+  },
+  {
+  "abbr": "pol",
+  "desc": "Purity of lightning"
+},
+{
+  "abbr": "Inc AoE",
+  "desc": "Increased Area of Effect"
+},
+{
+  "abbr": "Conc Effect",
+  "desc": "Concentrated effect"
+},
+{
+  "abbr": "Added Fire",
+  "desc": "Added Fire Damage"
+},
+{
+  "abbr": "Vuln",
+  "desc": "Vulnerability"
+},
+{
+  "abbr": "echo",
+  "desc": "Spell Echo"
+}
 ]
