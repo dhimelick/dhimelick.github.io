@@ -2370,4 +2370,25 @@
     "id": 253,
     "name": "Vaal Summon Skeletons",
     "isVaal": true
+},
+{
+    "id": 254,
+    "name": "Empower",
+    "required_lvl": 1,
+    "isVaal": false,
+    "available_to": []
+},
+{
+    "id": 255,
+    "name": "Enlighten",
+    "required_lvl": 38,
+    "isVaal": false,
+    "available_to": []
+},
+{
+    "id": 256,
+    "name": "Portal",
+    "required_lvl": 10,
+    "isVaal": false,
+    "available_to": []
 }]
