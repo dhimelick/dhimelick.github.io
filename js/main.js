@@ -4,33 +4,25 @@ var init = function()
 {
     var a1 = $.get('json/gems.json'),
         a2 = $.get('json/abbreviations.json'),
-        a3 = $.Deferred();
+        a3 = $.get('json/misspells.json');
 
-    hashids = new Hashids("ad5b8cb26d9e1739be52d6ab14969873", 8, "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890");
-    myFirebaseRef     = new Firebase("https://poegems.firebaseio.com/");
+    hashids         = new Hashids("ad5b8cb26d9e1739be52d6ab14969873", 8, "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890");
+    myFirebaseRef   = new Firebase("https://poegems.firebaseio.com/");
 
     gemTextIn       = myFirebaseRef.child("gemTextIn");
-    gemTextLeftOver = myFirebaseRef.child("gemTextLeftOver");
-    gemMisspells    = myFirebaseRef.child("misspells");
-    
+    gemTextLeftOver = myFirebaseRef.child("gemTextLeftOver");    
     gemTextIn       = gemTextIn.push();
     gemTextLeftOver = gemTextLeftOver.push();
 
     gemCellSource   = $("#gem-cell-template").html();
     gemCellTemplate = Handlebars.compile(gemCellSource);
 
-    var misspellRef = new Firebase("https://poegems.firebaseio.com/misspells");
-    misspellRef.once("value", function(snapshot) {
-        var data = snapshot.val();
-        a3.resolve(data);
-    });
-
     $('.nothing-found-row').addClass('hide');
 
     $.when(a1, a2, a3).done(function(r1, r2, r3) {
         allGems         = r1[0];
         abbreviations   = r2[0];
-        misspells       = r3;
+        misspells       = r3[0];
 
         $('.loading-container').addClass('hide');
 
@@ -79,6 +71,7 @@ var pickAndOrganiseGems = function()
                 if(gem){
                     gemsAvailableToClass.push(gem);
                     removeGemFromText(gem.name);
+                    removeGemFromText(item.abbr);
                 }
 
             } else if(_.isArray(item.desc)){
@@ -89,6 +82,7 @@ var pickAndOrganiseGems = function()
                     if(gem) {
                         gemsAvailableToClass.push(gem);
                         removeGemFromText(gem.name);
+                        removeGemFromText(item.abbr);
                     }
                 });
             }            
@@ -106,6 +100,7 @@ var pickAndOrganiseGems = function()
                 if(gem){
                     gemsAvailableToClass.push(gem);
                     removeGemFromText(gem.name);
+                    removeGemFromText(item.misspell);
                 }
             }           
         }

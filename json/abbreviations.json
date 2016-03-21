@@ -244,27 +244,43 @@
     "desc": "Power Charge On Critical"
   },
   {
-  "abbr": "pol",
-  "desc": "Purity of lightning"
-},
-{
-  "abbr": "Inc AoE",
-  "desc": "Increased Area of Effect"
-},
-{
-  "abbr": "Conc Effect",
-  "desc": "Concentrated effect"
-},
-{
-  "abbr": "Added Fire",
-  "desc": "Added Fire Damage"
-},
-{
-  "abbr": "Vuln",
-  "desc": "Vulnerability"
-},
-{
-  "abbr": "echo",
-  "desc": "Spell Echo"
-}
+    "abbr": "pol",
+    "desc": "Purity of lightning"
+  },
+  {
+    "abbr": "Inc AoE",
+    "desc": "Increased Area of Effect"
+  },
+  {
+    "abbr": "Conc Effect",
+    "desc": "Concentrated effect"
+  },
+  {
+    "abbr": "Added Fire",
+    "desc": "Added Fire Damage"
+  },
+  {
+    "abbr": "Vuln",
+    "desc": "Vulnerability"
+  },
+  {
+    "abbr": "echo",
+    "desc": "Spell Echo"
+  },
+  {
+    "abbr": "Melee Phys",
+    "desc": "Melee Physical Damage"
+  },
+  {
+    "abbr": "Temp Chains",
+    "desc": "Temporal Chains"
+  },
+  {
+    "abbr": "Chaos Golem",
+    "desc": "Summon Chaos Golem"
+  },
+  {
+    "abbr": "Ice Golem",
+    "desc": "Summon Ice Golem"
+  }
 ]

@@ -1,0 +1,50 @@
+[
+  {
+    "correct" : "Added Lightning Damage",
+    "misspell" : "Added Lightning"
+  }, 
+  {
+    "correct" : "Cast On Critical Strike",
+    "misspell" : "Cast on Critical"
+  }, 
+  {
+    "correct" : "Arctic Armour",
+    "misspell" : "Arctic Armor"
+  }, 
+  {
+    "correct" : "Physical Projectile Attack Damage",
+    "misspell" : "Physical projectile damage"
+  }, 
+  {
+    "correct" : "Vaal Storm Call",
+    "misspell" : "Vaal Stormcall"
+  }, 
+  {
+    "correct" : "Arctic Armour",
+    "misspell" : "arctic armor"
+  }, 
+  {
+    "correct" : "Trap and Mine Damage",
+    "misspell" : "Mine Damage"
+  }, 
+  {
+    "correct" : "Increased Area of Effect",
+    "misspell" : "Increaesd Area of Effect"
+  }, 
+  {
+    "correct" : "Fire Penetration",
+    "misspell" : "Fire Penetraion"
+  }, 
+  {
+    "correct" : "Warlord's Mark",
+    "misspell" : "warlords mark"
+  }, 
+  {
+    "correct" : "Immortal Call",
+    "misspell" : "Immortall Call"
+  }, 
+  {
+    "correct" : "Increased Critical Damage",
+    "misspell" : "Increased Critical Hit Damage"
+  }
+]
