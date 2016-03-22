@@ -13,7 +13,7 @@
     </head>
     <body>
         <main class="container">
-            <section class="row">
+            <section class="row main-form-container">
                 <div class="well col-md-12">
                     <form class="gem-guide-form form-horizontal" data-toggle="validator">
                         <fieldset>                            
@@ -87,7 +87,6 @@
                         </div>                        
                     </div>
 
-                    </br>
                     <div class="notFoundGemsContainer hide">
                         <h4>Gems not available to your class</h4>
                         <small>The following Skill Gems are not available to your class. Try to buy them in <b><i>/trade</i></b> or <a target="_blank" href="http://poe.trade">poe.trade</a>!</small>
@@ -97,9 +96,16 @@
                         </div>                        
                     </div>
                 </div>
-            </section>
+            </section>            
             
         </main>
+
+        <div class="footer">
+            <div class="container">
+                <p class="text-muted">Latest update: <span class="time-updated"></span>.&nbsp;&nbsp;<a target="_blank" href="#">Commit</a>.</p>
+            </div>
+        </div>
+
         <script src="https://cdn.firebase.com/js/client/2.4.1/firebase.js"></script>
         <script src="//code.jquery.com/jquery-2.2.1.min.js"></script>
         <script src="//cdn.jsdelivr.net/handlebarsjs/4.0.5/handlebars.min.js"></script>

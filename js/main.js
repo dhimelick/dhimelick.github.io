@@ -246,6 +246,17 @@ var removeGemFromText = function(gemTxt)
     gemGuideText = gemGuideText.replace(regEx, '');
 }
 
+var setFooter = function()
+{
+    $.get("https://api.github.com/repos/max-arias/poeGems/commits/gh-pages", function( data ) {
+        try {
+           $('.footer .time-updated').text(data.commit.author.date);
+           $('.footer a').attr('href', data.html_url);
+        } catch (e) {/*Fail silently...*/}
+        
+    });
+}
+
 $('.gem-guide-form').validator().on('submit', function (e) {
     if (!e.isDefaultPrevented()) {
         pickAndOrganiseGems();        
@@ -273,4 +284,5 @@ $(document).on('click', '.gem-cell-content .item-complete', function(){
 
 $(document).ready(function() {
     init();
+    setFooter();
 });
