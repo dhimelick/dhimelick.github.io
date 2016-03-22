@@ -46,5 +46,9 @@
   {
     "correct" : "Increased Critical Damage",
     "misspell" : "Increased Critical Hit Damage"
+  }, 
+  {
+    "correct" : "Added Lightning Damage",
+    "misspell" : "added lightnign damage"
   }
 ]
