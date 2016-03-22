@@ -2398,4 +2398,11 @@
     "required_lvl": 24,
     "isVaal": false,
     "available_to": []
+},
+{
+    "id": 258,
+    "name": "Enhance",
+    "required_lvl": 1,
+    "isVaal": false,
+    "available_to": []
 }]
