@@ -50,5 +50,9 @@
   {
     "correct" : "Added Lightning Damage",
     "misspell" : "added lightnign damage"
+  }, 
+  {
+    "correct" : "Increased Area of Effect",
+    "misspell" : "Increased AoE"
   }
 ]
