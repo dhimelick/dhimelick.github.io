@@ -2391,4 +2391,11 @@
     "required_lvl": 10,
     "isVaal": false,
     "available_to": []
+},
+{
+    "id": 257,
+    "name": "Mirror Arrow",
+    "required_lvl": 24,
+    "isVaal": false,
+    "available_to": []
 }]
