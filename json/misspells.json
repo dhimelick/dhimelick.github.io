@@ -74,5 +74,9 @@
   {
       "correct" : "Arctic Armour",
       "misspell" : "Acrtic armor"
+  },
+  {
+    "correct" : "Controlled Destruction",
+    "misspell" : "Controed Destruction"
   }
 ]
