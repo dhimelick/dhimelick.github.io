@@ -54,5 +54,25 @@
   {
     "correct" : "Increased Area of Effect",
     "misspell" : "Increased AoE"
+  },
+  {
+    "correct" : "Increased Critical Strikes",
+    "misspell" : "Increase Critical Strikes"
+  },
+  {
+      "correct" : "Assassin's Mark",
+      "misspell" : "Assassins Mark"
+  },
+  {
+      "correct" : "Controlled Destruction",
+      "misspell" : "Controed Destruction"
+  },
+  {
+      "correct" : "Lightning Penetration",
+      "misspell" : "lightning pen"
+  },
+  {
+      "correct" : "Arctic Armour",
+      "misspell" : "Acrtic armor"
   }
 ]
