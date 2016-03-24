@@ -2109,16 +2109,6 @@
     "id": 210,
     "town": "The Sarn Encampment"
 }, {
-    "name": "Trap",
-    "quest_name": "The Caged Brute",
-    "npc": "Nessa",
-    "act": 1,
-    "required_lvl": 8,
-    "isVaal": false,
-    "available_to": ["witch", "scion", "ranger", "duelist", "shadow"],
-    "id": 211,
-    "town": "Lioneye's Watch"
-}, {
     "name": "Trap Cooldown",
     "quest_name": "A Fixture of Fate",
     "npc": "Clarissa",
@@ -2138,6 +2128,16 @@
     "available_to": ["witch", "scion", "ranger", "shadow", "templar"],
     "id": 213,
     "town": "The Forest Encampment"
+}, {
+    "name": "Trap",
+    "quest_name": "The Caged Brute",
+    "npc": "Nessa",
+    "act": 1,
+    "required_lvl": 8,
+    "isVaal": false,
+    "available_to": ["witch", "scion", "ranger", "duelist", "shadow"],
+    "id": 211,
+    "town": "Lioneye's Watch"
 }, {
     "name": "Vengeance",
     "quest_name": "Lost in Love",
