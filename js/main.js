@@ -203,7 +203,10 @@ var buildFromUrl = function()
     if(!result.found) return false;
 
     foundIds    = hashids.decode(result.found);
-    notFoundIds = hashids.decode(result.not_found);
+    
+    if(result.not_found){
+        notFoundIds = hashids.decode(result.not_found);
+    }
 
     gemsAvailableToClass = _.filter(allGems, function(item) {
         return _.contains(foundIds, item.id)
