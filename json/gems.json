@@ -7,7 +7,8 @@
     "isVaal": false,
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 0,
-    "town": "Highgate"
+    "town": "Highgate",
+    "color": "red"
 }, {
     "name": "Added Cold Damage",
     "quest_name": "The Caged Brute",
@@ -17,7 +18,8 @@
     "isVaal": false,
     "available_to": ["witch", "scion", "ranger", "shadow"],
     "id": 1,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "green"
 }, {
     "name": "Added Fire Damage",
     "quest_name": "The Caged Brute",
@@ -27,7 +29,8 @@
     "isVaal": false,
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 2,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "red"
 }, {
     "name": "Added Lightning Damage",
     "quest_name": "The Caged Brute",
@@ -37,7 +40,8 @@
     "isVaal": false,
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 3,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "blue"
 }, {
     "name": "Additional Accuracy",
     "quest_name": "The Caged Brute",
@@ -47,7 +51,8 @@
     "isVaal": false,
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 4,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "green"
 }, {
     "name": "Ancestral Protector",
     "quest_name": "Breaking Some Eggs",
@@ -57,7 +62,8 @@
     "isVaal": false,
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 5,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "red"
 }, {
     "name": "Anger",
     "quest_name": "Lost in Love",
@@ -67,7 +73,8 @@
     "isVaal": false,
     "available_to": ["marauder", "scion", "ranger", "duelist", "templar"],
     "id": 6,
-    "town": "The Sarn Encampment"
+    "town": "The Sarn Encampment",
+    "color": "red"
 }, {
     "name": "Animate Guardian",
     "quest_name": "Sever the Right Hand",
@@ -77,7 +84,8 @@
     "isVaal": false,
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 7,
-    "town": "The Sarn Encampment"
+    "town": "The Sarn Encampment",
+    "color": "red"
 }, {
     "name": "Animate Weapon",
     "quest_name": "Breaking Some Eggs",
@@ -87,7 +95,8 @@
     "isVaal": false,
     "available_to": ["witch", "scion", "shadow"],
     "id": 8,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "green"
 }, {
     "name": "Arc",
     "quest_name": "The Siren's Cadence",
@@ -97,7 +106,8 @@
     "isVaal": false,
     "available_to": ["witch", "shadow", "templar"],
     "id": 9,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "blue"
 }, {
     "name": "Arctic Armour",
     "quest_name": "The Root of the Problem",
@@ -107,7 +117,8 @@
     "isVaal": false,
     "available_to": ["witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 10,
-    "town": "The Forest Encampment"
+    "town": "The Forest Encampment",
+    "color": "green"
 }, {
     "name": "Arctic Breath",
     "quest_name": "Sever the Right Hand",
@@ -117,7 +128,8 @@
     "isVaal": false,
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 11,
-    "town": "The Sarn Encampment"
+    "town": "The Sarn Encampment",
+    "color": "blue"
 }, {
     "name": "Assassin's Mark",
     "quest_name": "Lost in Love",
@@ -127,7 +139,8 @@
     "isVaal": false,
     "available_to": ["witch", "ranger", "shadow"],
     "id": 12,
-    "town": "The Sarn Encampment"
+    "town": "The Sarn Encampment",
+    "color": "blue"
 }, {
     "name": "Ball Lightning",
     "quest_name": "Sever the Right Hand",
@@ -137,7 +150,8 @@
     "isVaal": false,
     "available_to": ["witch", "shadow", "templar"],
     "id": 13,
-    "town": "The Sarn Encampment"
+    "town": "The Sarn Encampment",
+    "color": "blue"
 }, {
     "name": "Barrage",
     "quest_name": "The Siren's Cadence",
@@ -147,7 +161,8 @@
     "isVaal": false,
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 14,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "green"
 }, {
     "name": "Bear Trap",
     "quest_name": "Breaking Some Eggs",
@@ -157,7 +172,8 @@
     "isVaal": false,
     "available_to": ["marauder", "scion", "ranger", "shadow"],
     "id": 15,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "green"
 }, {
     "name": "Blade Vortex",
     "quest_name": "The Siren's Cadence",
@@ -167,7 +183,8 @@
     "isVaal": false,
     "available_to": ["witch", "scion", "shadow"],
     "id": 16,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "green"
 }, {
     "name": "Bladefall",
     "quest_name": "Sever the Right Hand",
@@ -177,7 +194,8 @@
     "isVaal": false,
     "available_to": ["witch", "scion", "shadow"],
     "id": 17,
-    "town": "The Sarn Encampment"
+    "town": "The Sarn Encampment",
+    "color": "green"
 }, {
     "name": "Blasphemy",
     "quest_name": "A Fixture of Fate",
@@ -187,7 +205,8 @@
     "isVaal": false,
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 18,
-    "town": "The Sarn Encampment"
+    "town": "The Sarn Encampment",
+    "color": "blue"
 }, {
     "name": "Blast Rain",
     "quest_name": "Sever the Right Hand",
@@ -197,7 +216,8 @@
     "isVaal": false,
     "available_to": ["scion", "ranger", "duelist"],
     "id": 19,
-    "town": "The Sarn Encampment"
+    "town": "The Sarn Encampment",
+    "color": "green"
 }, {
     "name": "Blind",
     "quest_name": "The Caged Brute",
@@ -207,7 +227,8 @@
     "isVaal": false,
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow"],
     "id": 20,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "green"
 }, {
     "name": "Blink Arrow",
     "quest_name": "The Caged Brute",
@@ -217,7 +238,8 @@
     "isVaal": false,
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 21,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "green"
 }, {
     "name": "Blood Magic",
     "quest_name": "A Fixture of Fate",
@@ -227,7 +249,8 @@
     "isVaal": false,
     "available_to": ["marauder", "ranger", "duelist", "templar", "scion"],
     "id": 22,
-    "town": "The Sarn Encampment"
+    "town": "The Sarn Encampment",
+    "color": "red"
 }, {
     "name": "Blood Rage",
     "quest_name": "The Root of the Problem",
@@ -237,7 +260,8 @@
     "isVaal": false,
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow"],
     "id": 23,
-    "town": "The Forest Encampment"
+    "town": "The Forest Encampment",
+    "color": "green"
 }, {
     "name": "Bloodlust",
     "quest_name": "Sharp and Cruel",
@@ -247,7 +271,8 @@
     "isVaal": false,
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 24,
-    "town": "The Forest Encampment"
+    "town": "The Forest Encampment",
+    "color": "red"
 }, {
     "name": "Bone Offering",
     "quest_name": "The Siren's Cadence",
@@ -257,7 +282,8 @@
     "isVaal": false,
     "available_to": ["witch", "scion", "templar"],
     "id": 25,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "blue"
 }, {
     "name": "Burning Arrow",
     "quest_name": "Enemy at the Gate",
@@ -267,7 +293,8 @@
     "isVaal": false,
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 26,
-    "town": "Lioneye's Watch"
+    "town": "Lioneye's Watch",
+    "color": "green"
 }, {
     "name": "Cast On Critical Strike",
     "quest_name": "The Eternal Nightmare",
@@ -2370,36 +2397,31 @@
     "id": 253,
     "name": "Vaal Summon Skeletons",
     "isVaal": true
-},
-{
+}, {
     "id": 254,
     "name": "Empower",
     "required_lvl": 1,
     "isVaal": false,
     "available_to": []
-},
-{
+}, {
     "id": 255,
     "name": "Enlighten",
     "required_lvl": 38,
     "isVaal": false,
     "available_to": []
-},
-{
+}, {
     "id": 256,
     "name": "Portal",
     "required_lvl": 10,
     "isVaal": false,
     "available_to": []
-},
-{
+}, {
     "id": 257,
     "name": "Mirror Arrow",
     "required_lvl": 24,
     "isVaal": false,
     "available_to": []
-},
-{
+}, {
     "id": 258,
     "name": "Enhance",
     "required_lvl": 1,
