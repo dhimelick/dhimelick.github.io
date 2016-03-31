@@ -102,13 +102,49 @@
 
         <div class="footer">
             <div class="container">
-                <p class="text-muted">Latest update: <span class="time-updated"></span>.&nbsp;&nbsp;<a target="_blank" href="#">Commit</a>.</p>
+                <span class="commit-text text-muted">Latest update: <span class="time-updated"></span>.&nbsp;&nbsp;<a target="_blank" href="#">Commit</a></span>
+                <span class="modal-link"><a href="#commentModal" class="comment-modal" data-toggle="modal" data-target="#commentModal">Questions, comments, feature requests?</a></span>
+            </div>
+        </div>
+
+        <div class="modal fade" tabindex="-1" role="dialog" id="commentModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">What's up?</h4>
+                    </div>
+                    <div class="modal-body">
+                        <form class="form-horizontal" method="post" action="https://formspree.io/max@max-arias.com">
+                            <fieldset>
+                                <div class="form-group">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <input id="fname" name="_replyto" type="text" placeholder="Email" class="form-control" >
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <textarea class="form-control" id="message" name="message" placeholder="Enter your message here." rows="7"></textarea>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <button type="submit" class="btn btn-primary pull-right">Submit</button>
+                                    </div>
+                                </div>
+                            </fieldset>
+                            <input type="text" name="_gotcha" style="display:none" />
+                            <input type="hidden" name="_subject" value="Contact from POE gems." />
+                        </form>
+                    </div>
+                </div>
             </div>
         </div>
 
         <script src="https://cdn.firebase.com/js/client/2.4.1/firebase.js"></script>
         <script src="//code.jquery.com/jquery-2.2.1.min.js"></script>
         <script src="//cdn.jsdelivr.net/handlebarsjs/4.0.5/handlebars.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
         <script src="js/hashids.min.js"></script>
         <script src="js/underscore-min.js"></script>
         <script src="js/validator.min.js"></script>
@@ -137,6 +173,7 @@
                 </div>
             </div>
         </script>
+
         <script id="gems-table" type="text/x-handlebars-template">
             <div class="gems-table-container col-md-12">
 

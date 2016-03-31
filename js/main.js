@@ -271,8 +271,8 @@ var setFooter = function()
 {
     $.get("https://api.github.com/repos/max-arias/poeGems/commits/gh-pages", function( data ) {
         try {
-           $('.footer .time-updated').text(data.commit.author.date);
-           $('.footer a').attr('href', data.html_url);
+           $('.footer .commit-text .time-updated').text(data.commit.author.date);
+           $('.footer .commit-text a').attr('href', data.html_url);
         } catch (e) {/*Fail silently...*/}
         
     });

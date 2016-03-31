@@ -108,10 +108,10 @@ main.container .main-form-container {
 .footer {
     height: 20px;
 }
-.footer p {
+.footer .container {
     text-align: center;
 }
-.footer p.text-muted, .footer p.text-muted a, .footer p.text-muted:hover {
+.footer .text-muted, .footer .text-muted a, .footer .text-muted:hover {
     color: #3E382F;
 }
 .foundGemsContainer .gems-table-container {
@@ -158,5 +158,9 @@ main.container .main-form-container {
   display: flex;
   flex-direction: column;
 }
-
-.row
+.modal-link {
+    margin-left: 10px;
+}
+#commentModal .modal-body {
+    padding-bottom: 0px;
+}
