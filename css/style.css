@@ -9,6 +9,11 @@ strong {
     color: #bb9e74;
     font-weight: bold;
 }
+.gemTable  {
+    margin-top: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
 .gem-cell-content .item-complete {
     position: absolute;
     top: 3px;
@@ -18,11 +23,11 @@ strong {
 .gem-cell-content.disabled a {
     color: #999999;
     background-color: #464545;
+    text-decoration: line-through;
 }
 .gem-cell-content.disabled a {
     pointer-events: none;
 }
-.gemTable .row,
 .notAvailableGemTable .row {
     margin-bottom: 10px;
 }
@@ -32,6 +37,19 @@ strong {
     border: 1px solid #000;
     padding: 5px;
     min-height: 145px;
+    background-color: #282828;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+}
+.gem-cell-content span{
+    width: 100%;
 }
 .clear-input {
     margin-left: 20px;
@@ -61,6 +79,15 @@ a:hover {
 .nothing-found-row .icon-container .fa {
     font-size: 100px;
 }
+.color-blue {
+    background-color: #0000b2;
+}
+.color-red {
+    background-color: #B20000;    
+}
+.color-green {
+    background-color: #004600;
+}
 @-webkit-keyframes spin {
     0% {
         -webkit-transform: rotate(0deg)
@@ -87,3 +114,49 @@ main.container .main-form-container {
 .footer p.text-muted, .footer p.text-muted a, .footer p.text-muted:hover {
     color: #3E382F;
 }
+.foundGemsContainer .gems-table-container {
+    text-align: center;
+    vertical-align: middle;
+}
+.foundGemsContainer .gems-table-container .header-row{
+    border-bottom: 1px solid #4C453A;
+    padding-bottom: 5px;
+}
+.foundGemsContainer .gems-table-container .content-row {
+    padding-top: 10px;
+}
+.foundGemsContainer .gems-table-container .content-row .skill-gem {
+    cursor: pointer;
+}
+.foundGemsContainer .gems-table-container .content-row .skill-gem.disabled{
+    color: #999999;
+    background-color: #464545;
+    text-decoration: line-through;
+}
+.foundGemsContainer .gems-table-container .content-row .centered-col-content {
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+.foundGemsContainer .gems-table-container .content-row:nth-child(odd) {
+    background-color: #282828;
+}
+
+.foundGemsContainer .gems-table-container .content-row div{
+    margin-bottom: 5px;
+}
+.row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+}
+.row > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+
+.row
