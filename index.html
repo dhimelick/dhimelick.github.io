@@ -82,7 +82,7 @@
                         <h4>Quest and Vendor Rewards</h4>
                         <small>Use the following table to plan when/where to get your Gems!</small>
                         
-                        <div class="gemTable">
+                        <div class="gemTable well">
                             <div class="row"></div>
                         </div>                        
                     </div>
@@ -137,5 +137,42 @@
                 </div>
             </div>
         </script>
+        <script id="gems-table" type="text/x-handlebars-template">
+            <div class="gems-table-container col-md-12">
+
+                <div class="row header-row">
+                    <div class="col-md-1">Act</div>
+                    <div class="col-md-3">Location</div>
+                    <div class="col-md-3">Quest</div>
+                    <div class="col-md-3">Skill</div>
+                    <div class="col-md-2">Lvl. Req.</div>
+                </div>
+
+                {{#rows}}
+                <div class="row content-row">
+                    <div class="col-md-1 centered-col-content">{{act}}</div>
+                    <div class="col-md-3 centered-col-content">{{location}}</div>
+
+                    <div class="col-md-3">
+                        {{#skills}}
+                            <div>{{quest_name}}</div>
+                        {{/skills}}                    
+                    </div>
+                    <div class="col-md-3">
+                        {{#skills}}
+                            <div class="skill-gem color-{{color}}">{{name}}</div>
+                        {{/skills}}
+                    </div>
+                    <div class="col-md-2">
+                        {{#skills}}
+                            <div>{{required_lvl}}</div>
+                        {{/skills}}
+                    </div>
+                </div>
+                {{/rows}}
+            </div>
+        </script>
     </body>
 </html>
+
+

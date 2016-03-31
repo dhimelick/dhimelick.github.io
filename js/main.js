@@ -1,10 +1,12 @@
-var allGems, abbreviations, classSelection, gemGuideText, gemsAvailableToClass, gemsNotAvailableToClass, hashids, gemCellSource, gemCellTemplate, myFirebaseRef, remainingTextList, misspells;
+var allGems, abbreviations, classSelection, gemGuideText, gemsAvailableToClass, gemsNotAvailableToClass, hashids, gemCellSource, gemCellTemplate, myFirebaseRef, remainingTextList, misspells, actLocations;
 
 var init = function()
 {
     var a1 = $.get('json/gems.json'),
         a2 = $.get('json/abbreviations.json'),
         a3 = $.get('json/misspells.json');
+
+    actLocations = {1: "Lioneye's Watch", 2: "The Forest Encampment", 3: "The Sarn Encampment", 4: "Highgate"};
 
     hashids         = new Hashids("ad5b8cb26d9e1739be52d6ab14969873", 8, "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890");
     myFirebaseRef   = new Firebase("https://poegems.firebaseio.com/");
@@ -14,8 +16,11 @@ var init = function()
     gemTextIn       = gemTextIn.push();
     gemTextLeftOver = gemTextLeftOver.push();
 
-    gemCellSource   = $("#gem-cell-template").html();
-    gemCellTemplate = Handlebars.compile(gemCellSource);
+    foundGemCellSource   = $("#gems-table").html();
+    foundGemCellTemplate = Handlebars.compile(foundGemCellSource);
+
+    notFoundGemCellSource   = $("#gem-cell-template").html();
+    notFoundGemCellTemplate = Handlebars.compile(notFoundGemCellSource);
 
     $('.nothing-found-row').addClass('hide');
 
@@ -156,15 +161,11 @@ var buildGemTable = function()
 
     if(gemsAvailableToClass.length) {
         $('.foundGemsContainer').removeClass('hide');
-        for(var i = 0; i < gemsAvailableToClass.length; i++) 
-        {
-            if(i % 4 === 0) {
-                $('.gemTable').append('<div class="row"></div>');
-            }
+        
+        var data = organizeObjectsForTable(gemsAvailableToClass);
 
-            var html = gemCellTemplate(gemsAvailableToClass[i]);
-            $('.gemTable .row:last').append(html);
-        }        
+        var html = foundGemCellTemplate(data);
+        $('.foundGemsContainer .row').append(html);
     }
 
     if(gemsNotAvailableToClass.length) {
@@ -174,11 +175,28 @@ var buildGemTable = function()
             if(i % 4 === 0) {
                 $('.notAvailableGemTable').append('<div class="row"></div>');    
             }
-            var html = gemCellTemplate(gemsNotAvailableToClass[i]);
+            var html = notFoundGemCellTemplate(gemsNotAvailableToClass[i]);
             $('.notAvailableGemTable .row:last').append(html);
         }        
     }
 }
+
+var organizeObjectsForTable = function(gems)
+{
+
+    var grouped = _.groupBy(gems, 'act');
+
+    var rows = [];
+
+    _.forEach(grouped, function(items, index){
+        var rowItem = {'act': index, 'location': actLocations[index], 'skills': items};
+        rows.push(rowItem);
+    });
+
+    console.log(rows);
+
+    return {'rows': rows};
+};
 
 var clearGemTable = function()
 {
@@ -191,7 +209,7 @@ var clearGemTable = function()
     $('.notFoundGemsContainer').addClass('hide');
 
     $('.build-gem-link-container').addClass('hide');
-}
+};
 
 var buildFromUrl = function()
 {
@@ -283,6 +301,10 @@ $(document).on('click', '.gem-cell-content .item-complete', function(){
     } else {
         $(this).parent().removeClass('disabled');
     }
+});
+
+$(document).on('click', '.skill-gem', function(){
+    $(this).toggleClass('disabled');
 });
 
 $(document).ready(function() {
