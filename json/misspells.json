@@ -78,5 +78,9 @@
   {
     "correct" : "Controlled Destruction",
     "misspell" : "Controed Destruction"
+  },
+  {
+    "correct" : "Spell Totem",
+    "misspell" : "Spelltotem"
   }
 ]
