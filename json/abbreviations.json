@@ -282,5 +282,13 @@
   {
     "abbr": "Ice Golem",
     "desc": "Summon Ice Golem"
+  },
+  {
+    "abbr": "Added Chaos",
+    "desc": "Added Chaos Damage"
+  },
+  {
+    "abbr": "Cast on Crit",
+    "desc": "Cast On Critical Strike"
   }
 ]
