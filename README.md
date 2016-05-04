@@ -11,7 +11,7 @@ For example, this:
 
 Becomes this (for a Templar):
 
-![http://i.imgur.com/Hf2XyG5.png](http://i.imgur.com/Hf2XyG5.png)
+![http://i.imgur.com/VtaN3HO.png](http://i.imgur.com/VtaN3HO.png)
 
 Anything off? Let me know. 
 Submit an issue: https://github.com/max-arias/poeGems/issues or write to: max@max-arias.com
