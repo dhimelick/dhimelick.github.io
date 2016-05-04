@@ -164,3 +164,18 @@ main.container .main-form-container {
 #commentModal .modal-body {
     padding-bottom: 0px;
 }
+
+.gem-guide-form .form-group label {
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: right;
+}
+
+.gem-guide-form .form-group label i {
+    padding-left: 10px;
+    cursor: pointer;
+}
+.qtip { border: 1px solid; border-color: #585858; background-color: #222222; color: #a38d6d; font-weight: bold;}
+.qtip .qtip-content { font-size: 14px; }
+.qtip.gem-guide-content{max-width: 625px;}
+.qtip.gem-guide-content p{padding: 10px; font-size: 14px; line-height: 1em;}

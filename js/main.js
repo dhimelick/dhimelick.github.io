@@ -310,4 +310,14 @@ $(document).on('click', '.skill-gem', function(){
 $(document).ready(function() {
     init();
     setFooter();
+
+    $('#class-selection-qtip').qtip();
+    $('#gem-guide-text-qtip').qtip({
+        content: {
+            text: $('#qtip-content').html()
+        },
+        style: { 
+            classes: 'gem-guide-content'
+        }
+    });
 });
