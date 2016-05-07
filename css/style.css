@@ -122,11 +122,21 @@ main.container .main-form-container {
     border-bottom: 1px solid #4C453A;
     padding-bottom: 5px;
 }
+.foundGemsContainer .gems-table-container .header-row .gem-icon-col{
+    display: block;
+}
+.foundGemsContainer .gems-table-container .header-row .gem-icon-col #gem-icon-col{
+    margin-left: 5px;
+}
 .foundGemsContainer .gems-table-container .content-row {
     padding-top: 10px;
 }
 .foundGemsContainer .gems-table-container .content-row .skill-gem {
     cursor: pointer;
+    line-height: 25px;
+}
+.foundGemsContainer .gems-table-container .content-row .iconImageLink img{
+    width: 30px;
 }
 .foundGemsContainer .gems-table-container .content-row .skill-gem.disabled{
     color: #999999;
@@ -146,6 +156,7 @@ main.container .main-form-container {
 
 .foundGemsContainer .gems-table-container .content-row div{
     margin-bottom: 5px;
+    line-height: 25px;
 }
 .row {
   display: -webkit-box;

@@ -179,6 +179,18 @@ var buildGemTable = function()
             $('.notAvailableGemTable .row:last').append(html);
         }        
     }
+
+    $('#gem-icon-col').qtip();
+    $('.iconImageLink img').each(function() {
+        var html = "<img src='"+ $(this).attr('src') +"'/>"
+        $(this).qtip({
+            content:  html,
+            position: {
+                my: 'left center',
+                at: 'right center'
+            }
+        });
+    });
 }
 
 var organizeObjectsForTable = function(gems)
@@ -192,8 +204,6 @@ var organizeObjectsForTable = function(gems)
         var rowItem = {'act': index, 'location': actLocations[index], 'skills': items};
         rows.push(rowItem);
     });
-
-    console.log(rows);
 
     return {'rows': rows};
 };

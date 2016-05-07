@@ -8,7 +8,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 0,
     "town": "Highgate",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AbyssalCry.png?scale=1&w=1&h=1"
 }, {
     "name": "Added Cold Damage",
     "quest_name": "The Caged Brute",
@@ -19,7 +20,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow"],
     "id": 1,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedColdDamage.png?scale=1&w=1&h=1"
 }, {
     "name": "Added Fire Damage",
     "quest_name": "The Caged Brute",
@@ -30,7 +32,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 2,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedFireDamage.png?scale=1&w=1&h=1"
 }, {
     "name": "Added Lightning Damage",
     "quest_name": "The Caged Brute",
@@ -41,7 +44,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 3,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedLightningDamage.png?scale=1&w=1&h=1"
 }, {
     "name": "Additional Accuracy",
     "quest_name": "The Caged Brute",
@@ -52,7 +56,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 4,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedAccuracy.png?scale=1&w=1&h=1"
 }, {
     "name": "Ancestral Protector",
     "quest_name": "Breaking Some Eggs",
@@ -63,7 +68,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 5,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AncestorTotem.png?scale=1&w=1&h=1"
 }, {
     "name": "Anger",
     "quest_name": "Lost in Love",
@@ -74,7 +80,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "templar"],
     "id": 6,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Anger.png?scale=1&w=1&h=1"
 }, {
     "name": "Animate Guardian",
     "quest_name": "Sever the Right Hand",
@@ -85,7 +92,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 7,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AnimateArmour.png?scale=1&w=1&h=1"
 }, {
     "name": "Animate Weapon",
     "quest_name": "Breaking Some Eggs",
@@ -96,7 +104,8 @@
     "available_to": ["witch", "scion", "shadow"],
     "id": 8,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AnimateWeapon.png?scale=1&w=1&h=1"
 }, {
     "name": "Arc",
     "quest_name": "The Siren's Cadence",
@@ -107,7 +116,8 @@
     "available_to": ["witch", "shadow", "templar"],
     "id": 9,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Arc.png?scale=1&w=1&h=1"
 }, {
     "name": "Arctic Armour",
     "quest_name": "The Root of the Problem",
@@ -118,7 +128,8 @@
     "available_to": ["witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 10,
     "town": "The Forest Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceShield.png?scale=1&w=1&h=1"
 }, {
     "name": "Arctic Breath",
     "quest_name": "Sever the Right Hand",
@@ -129,7 +140,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 11,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ArcticBreath.png?scale=1&w=1&h=1"
 }, {
     "name": "Assassin's Mark",
     "quest_name": "Lost in Love",
@@ -140,7 +152,8 @@
     "available_to": ["witch", "ranger", "shadow"],
     "id": 12,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AssassinsMark.png?scale=1&w=1&h=1"
 }, {
     "name": "Ball Lightning",
     "quest_name": "Sever the Right Hand",
@@ -151,7 +164,8 @@
     "available_to": ["witch", "shadow", "templar"],
     "id": 13,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BallLightning.png?scale=1&w=1&h=1"
 }, {
     "name": "Barrage",
     "quest_name": "The Siren's Cadence",
@@ -162,7 +176,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 14,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Barrage.png?scale=1&w=1&h=1"
 }, {
     "name": "Bear Trap",
     "quest_name": "Breaking Some Eggs",
@@ -173,7 +188,8 @@
     "available_to": ["marauder", "scion", "ranger", "shadow"],
     "id": 15,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BearTrap.png?scale=1&w=1&h=1"
 }, {
     "name": "Blade Vortex",
     "quest_name": "The Siren's Cadence",
@@ -184,7 +200,8 @@
     "available_to": ["witch", "scion", "shadow"],
     "id": 16,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SpinningEtherealBladesGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Bladefall",
     "quest_name": "Sever the Right Hand",
@@ -195,7 +212,8 @@
     "available_to": ["witch", "scion", "shadow"],
     "id": 17,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RainOfBlades.png?scale=1&w=1&h=1"
 }, {
     "name": "Blasphemy",
     "quest_name": "A Fixture of Fate",
@@ -206,7 +224,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 18,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Aurify.png?scale=1&w=1&h=1"
 }, {
     "name": "Blast Rain",
     "quest_name": "Sever the Right Hand",
@@ -217,7 +236,8 @@
     "available_to": ["scion", "ranger", "duelist"],
     "id": 19,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BlastRainGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Blind",
     "quest_name": "The Caged Brute",
@@ -228,7 +248,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow"],
     "id": 20,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Blind.png?scale=1&w=1&h=1"
 }, {
     "name": "Blink Arrow",
     "quest_name": "The Caged Brute",
@@ -239,7 +260,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 21,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BlinkArrow.png?scale=1&w=1&h=1"
 }, {
     "name": "Blood Magic",
     "quest_name": "A Fixture of Fate",
@@ -250,7 +272,8 @@
     "available_to": ["marauder", "ranger", "duelist", "templar", "scion"],
     "id": 22,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/BloodMagic.png?scale=1&w=1&h=1"
 }, {
     "name": "Blood Rage",
     "quest_name": "The Root of the Problem",
@@ -261,7 +284,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow"],
     "id": 23,
     "town": "The Forest Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BloodRage.png?scale=1&w=1&h=1"
 }, {
     "name": "Bloodlust",
     "quest_name": "Sharp and Cruel",
@@ -272,7 +296,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 24,
     "town": "The Forest Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Bloodlust.png?scale=1&w=1&h=1"
 }, {
     "name": "Bone Offering",
     "quest_name": "The Siren's Cadence",
@@ -283,7 +308,8 @@
     "available_to": ["witch", "scion", "templar"],
     "id": 25,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BoneOffering.png?scale=1&w=1&h=1"
 }, {
     "name": "Burning Arrow",
     "quest_name": "Enemy at the Gate",
@@ -294,7 +320,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 26,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BurningArrow.png?scale=1&w=1&h=1"
 }, {
     "name": "Cast On Critical Strike",
     "quest_name": "The Eternal Nightmare",
@@ -305,7 +332,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 27,
     "town": "Highgate",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnCrit.png?scale=1&w=1&h=1"
 }, {
     "name": "Cast on Death",
     "quest_name": "The Eternal Nightmare",
@@ -316,7 +344,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 28,
     "town": "Highgate",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnDeath.png?scale=1&w=1&h=1"
 }, {
     "name": "Cast on Melee Kill",
     "quest_name": "The Eternal Nightmare",
@@ -327,7 +356,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 29,
     "town": "Highgate",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnMeleeKill.png?scale=1&w=1&h=1"
 }, {
     "name": "Cast when Damage Taken",
     "quest_name": "The Eternal Nightmare",
@@ -338,7 +368,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 30,
     "town": "Highgate",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnDmgTaken.png?scale=1&w=1&h=1"
 }, {
     "name": "Cast when Stunned",
     "quest_name": "The Eternal Nightmare",
@@ -349,7 +380,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 31,
     "town": "Highgate",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnStun.png?scale=1&w=1&h=1"
 }, {
     "name": "Caustic Arrow",
     "quest_name": "Breaking Some Eggs",
@@ -360,7 +392,8 @@
     "available_to": ["ranger", "duelist", "shadow"],
     "id": 32,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PoisonArrow.png?scale=1&w=1&h=1"
 }, {
     "name": "Chain",
     "quest_name": "The Eternal Nightmare",
@@ -371,7 +404,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 33,
     "town": "Highgate",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/chain.png?scale=1&w=1&h=1"
 }, {
     "name": "Chance to Flee",
     "quest_name": "The Caged Brute",
@@ -382,7 +416,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow"],
     "id": 34,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ChancetoFlee.png?scale=1&w=1&h=1"
 }, {
     "name": "Chance to Ignite",
     "quest_name": "A Fixture of Fate",
@@ -393,7 +428,8 @@
     "available_to": ["marauder", "witch", "shadow", "templar"],
     "id": 35,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ChancetoIgnite.png?scale=1&w=1&h=1"
 }, {
     "name": "Clarity",
     "quest_name": "The Caged Brute",
@@ -404,7 +440,8 @@
     "available_to": ["witch", "shadow", "templar"],
     "id": 36,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Clarity.png?scale=1&w=1&h=1"
 }, {
     "name": "Cleave",
     "quest_name": "Enemy at the Gate",
@@ -415,7 +452,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist"],
     "id": 37,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Cleave.png?scale=1&w=1&h=1"
 }, {
     "name": "Cluster Traps",
     "quest_name": "The Eternal Nightmare",
@@ -426,7 +464,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow"],
     "id": 38,
     "town": "Highgate",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ClusterTrap.png?scale=1&w=1&h=1"
 }, {
     "name": "Cold Penetration",
     "quest_name": "A Fixture of Fate",
@@ -437,7 +476,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow", "templar"],
     "id": 39,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ColdPenetration.png?scale=1&w=1&h=1"
 }, {
     "name": "Cold Snap",
     "quest_name": "Breaking Some Eggs",
@@ -448,7 +488,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 40,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ColdSnap.png?scale=1&w=1&h=1"
 }, {
     "name": "Cold to Fire",
     "quest_name": "Sharp and Cruel",
@@ -459,7 +500,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 41,
     "town": "The Forest Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ColdtoFire.png?scale=1&w=1&h=1"
 }, {
     "name": "Concentrated Effect",
     "quest_name": "Sharp and Cruel",
@@ -470,7 +512,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 42,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ConcentratedAOE.png?scale=1&w=1&h=1"
 }, {
     "name": "Conductivity",
     "quest_name": "Lost in Love",
@@ -481,7 +524,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 43,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Conductivity.png?scale=1&w=1&h=1"
 }, {
     "name": "Contagion",
     "quest_name": "Breaking Some Eggs",
@@ -492,7 +536,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 44,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ContagionGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Controlled Destruction",
     "quest_name": "Sharp and Cruel",
@@ -503,7 +548,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 45,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ControlledDestructionGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Conversion Trap",
     "quest_name": "Breaking Some Eggs",
@@ -514,7 +560,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow"],
     "id": 46,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ConversionTrap.png?scale=1&w=1&h=1"
 }, {
     "name": "Convocation",
     "quest_name": "Lost in Love",
@@ -525,7 +572,8 @@
     "available_to": ["witch", "scion", "templar"],
     "id": 47,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Convocation.png?scale=1&w=1&h=1"
 }, {
     "name": "Culling Strike",
     "quest_name": "Sharp and Cruel",
@@ -536,7 +584,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 48,
     "town": "The Forest Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CullingStrike.png?scale=1&w=1&h=1"
 }, {
     "name": "Curse On Hit",
     "quest_name": "The Eternal Nightmare",
@@ -547,7 +596,8 @@
     "id": 49,
     "isVaal": false,
     "town": "Highgate",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CurseOnHit.png?scale=1&w=1&h=1"
 }, {
     "name": "Cyclone",
     "quest_name": "Sever the Right Hand",
@@ -558,7 +608,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "templar"],
     "id": 50,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Cyclone.png?scale=1&w=1&h=1"
 }, {
     "name": "Decoy Totem",
     "quest_name": "Breaking Some Eggs",
@@ -569,7 +620,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "templar"],
     "id": 51,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DecoyTotem.png?scale=1&w=1&h=1"
 }, {
     "name": "Desecrate",
     "quest_name": "The Root of the Problem",
@@ -580,7 +632,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow", "templar"],
     "id": 52,
     "town": "The Forest Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Desecrate.png?scale=1&w=1&h=1"
 }, {
     "name": "Determination",
     "quest_name": "Lost in Love",
@@ -591,7 +644,8 @@
     "available_to": ["marauder", "duelist", "templar"],
     "id": 53,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Determination.png?scale=1&w=1&h=1"
 }, {
     "name": "Detonate Dead",
     "quest_name": "Breaking Some Eggs",
@@ -602,7 +656,8 @@
     "available_to": ["witch", "ranger", "shadow"],
     "id": 54,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DetonateDead.png?scale=1&w=1&h=1"
 }, {
     "name": "Devouring Totem",
     "quest_name": "Breaking Some Eggs",
@@ -613,7 +668,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "templar"],
     "id": 55,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DevouringTotem.png?scale=1&w=1&h=1"
 }, {
     "name": "Discharge",
     "quest_name": "Sever the Right Hand",
@@ -624,7 +680,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 56,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Discharge.png?scale=1&w=1&h=1"
 }, {
     "name": "Discipline",
     "quest_name": "Lost in Love",
@@ -635,7 +692,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 57,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Discipline.png?scale=1&w=1&h=1"
 }, {
     "name": "Dominating Blow",
     "quest_name": "Sever the Right Hand",
@@ -646,7 +704,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 58,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DominatingBlow.png?scale=1&w=1&h=1"
 }, {
     "name": "Double Strike",
     "quest_name": "Enemy at the Gate",
@@ -657,7 +716,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow"],
     "id": 59,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DoubleStrike.png?scale=1&w=1&h=1"
 }, {
     "name": "Dual Strike",
     "quest_name": "Enemy at the Gate",
@@ -668,7 +728,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow"],
     "id": 60,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DualStrike.png?scale=1&w=1&h=1"
 }, {
     "name": "Earthquake",
     "quest_name": "Sever the Right Hand",
@@ -679,7 +740,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 61,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/QuakeSlam.png?scale=1&w=1&h=1"
 }, {
     "name": "Elemental Focus",
     "quest_name": "Sharp and Cruel",
@@ -690,7 +752,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 62,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ElementalFocus.png?scale=1&w=1&h=1"
 }, {
     "name": "Elemental Hit",
     "quest_name": "Enemy at the Gate",
@@ -701,7 +764,8 @@
     "available_to": ["scion", "ranger", "shadow", "templar"],
     "id": 63,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Elementalhit.png?scale=1&w=1&h=1"
 }, {
     "name": "Elemental Proliferation",
     "quest_name": "The Eternal Nightmare",
@@ -712,7 +776,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 64,
     "town": "Highgate",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ElementalProliferation.png?scale=1&w=1&h=1"
 }, {
     "name": "Elemental Weakness",
     "quest_name": "Lost in Love",
@@ -723,7 +788,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 65,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ElementalWeakness.png?scale=1&w=1&h=1"
 }, {
     "name": "Endurance Charge on Melee Stun",
     "quest_name": "Sharp and Cruel",
@@ -734,7 +800,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 66,
     "town": "The Forest Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/EnduranceChargeStun.png?scale=1&w=1&h=1"
 }, {
     "name": "Enduring Cry",
     "quest_name": "The Root of the Problem",
@@ -745,7 +812,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "templar"],
     "id": 67,
     "town": "The Forest Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/EnduringCry.png?scale=1&w=1&h=1"
 }, {
     "name": "Enfeeble",
     "quest_name": "Lost in Love",
@@ -756,7 +824,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 68,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Enfeeble.png?scale=1&w=1&h=1"
 }, {
     "name": "Essence Drain",
     "quest_name": "The Siren's Cadence",
@@ -767,7 +836,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 69,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SiphonGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Ethereal Knives",
     "quest_name": "Enemy at the Gate",
@@ -778,7 +848,8 @@
     "available_to": ["marauder", "witch", "shadow"],
     "id": 70,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/EtherealKnives.png?scale=1&w=1&h=1"
 }, {
     "name": "Explosive Arrow",
     "quest_name": "Sever the Right Hand",
@@ -789,7 +860,8 @@
     "available_to": ["marauder", "ranger", "duelist"],
     "id": 71,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ExplosiveArrow.png?scale=1&w=1&h=1"
 }, {
     "name": "Faster Attacks",
     "quest_name": "Sharp and Cruel",
@@ -800,7 +872,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 72,
     "town": "The Forest Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FasterAttacks.png?scale=1&w=1&h=1"
 }, {
     "name": "Faster Casting",
     "quest_name": "Sharp and Cruel",
@@ -811,7 +884,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 73,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FasterCast.png?scale=1&w=1&h=1"
 }, {
     "name": "Faster Projectiles",
     "quest_name": "A Fixture of Fate",
@@ -822,7 +896,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow"],
     "id": 74,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FasterProjectiles.png?scale=1&w=1&h=1"
 }, {
     "name": "Fire Nova Mine",
     "quest_name": "The Siren's Cadence",
@@ -833,7 +908,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 75,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireNovaMineGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Fire Penetration",
     "quest_name": "A Fixture of Fate",
@@ -844,7 +920,8 @@
     "available_to": ["marauder", "witch", "scion", "shadow", "templar"],
     "id": 76,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FirePenetration.png?scale=1&w=1&h=1"
 }, {
     "name": "Fire Trap",
     "quest_name": "Enemy at the Gate",
@@ -855,7 +932,8 @@
     "available_to": ["marauder", "witch", "ranger", "shadow"],
     "id": 77,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireTrap.png?scale=1&w=1&h=1"
 }, {
     "name": "Fireball",
     "quest_name": "Enemy at the Gate",
@@ -866,7 +944,8 @@
     "available_to": ["marauder", "witch", "scion", "shadow", "templar"],
     "id": 78,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Fireball.png?scale=1&w=1&h=1"
 }, {
     "name": "Firestorm",
     "quest_name": "The Siren's Cadence",
@@ -877,7 +956,8 @@
     "available_to": ["marauder", "witch", "templar"],
     "id": 79,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Firestorm.png?scale=1&w=1&h=1"
 }, {
     "name": "Flame Dash",
     "quest_name": "The Caged Brute",
@@ -888,7 +968,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 80,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FlameDash.png?scale=1&w=1&h=1"
 }, {
     "name": "Flame Golem",
     "quest_name": "Breaking the Seal",
@@ -899,7 +980,8 @@
     "id": 81,
     "isVaal": false,
     "town": "Highgate",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireElementalSummon.png?scale=1&w=1&h=1"
 }, {
     "name": "Flame Surge",
     "quest_name": "The Siren's Cadence",
@@ -910,7 +992,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 82,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Flamewhip.png?scale=1&w=1&h=1"
 }, {
     "name": "Flame Totem",
     "quest_name": "Breaking Some Eggs",
@@ -921,7 +1004,8 @@
     "available_to": ["marauder", "witch", "templar"],
     "id": 83,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FlameTotem.png?scale=1&w=1&h=1"
 }, {
     "name": "Flameblast",
     "quest_name": "Sever the Right Hand",
@@ -932,7 +1016,8 @@
     "available_to": ["marauder", "witch", "scion", "shadow", "templar"],
     "id": 84,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ChargedBlast.png?scale=1&w=1&h=1"
 }, {
     "name": "Flammability",
     "quest_name": "Lost in Love",
@@ -943,7 +1028,8 @@
     "available_to": ["marauder", "witch", "scion", "shadow", "templar"],
     "id": 85,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Flammability.png?scale=1&w=1&h=1"
 }, {
     "name": "Flesh Offering",
     "quest_name": "The Siren's Cadence",
@@ -954,7 +1040,8 @@
     "available_to": ["witch", "templar"],
     "id": 86,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FleshOffering.png?scale=1&w=1&h=1"
 }, {
     "name": "Flicker Strike",
     "quest_name": "The Caged Brute",
@@ -965,7 +1052,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow"],
     "id": 87,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FlickerStrike.png?scale=1&w=1&h=1"
 }, {
     "name": "Fork",
     "quest_name": "A Fixture of Fate",
@@ -976,7 +1064,8 @@
     "available_to": ["witch", "scion", "ranger", "duelist", "shadow"],
     "id": 88,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Fork.png?scale=1&w=1&h=1"
 }, {
     "name": "Fortify",
     "quest_name": "A Fixture of Fate",
@@ -987,7 +1076,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 89,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FortifyGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Freeze Mine",
     "quest_name": "The Caged Brute",
@@ -998,7 +1088,8 @@
     "available_to": ["ranger", "duelist", "shadow"],
     "id": 90,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FreezeMine.png?scale=1&w=1&h=1"
 }, {
     "name": "Freezing Pulse",
     "quest_name": "Enemy at the Gate",
@@ -1009,7 +1100,8 @@
     "available_to": ["witch", "shadow", "templar"],
     "id": 91,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FreezingPulse.png?scale=1&w=1&h=1"
 }, {
     "name": "Frenzy",
     "quest_name": "The Root of the Problem",
@@ -1020,7 +1112,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow"],
     "id": 92,
     "town": "The Forest Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Frenzy.png?scale=1&w=1&h=1"
 }, {
     "name": "Frost Blades",
     "quest_name": "Enemy at the Gate",
@@ -1031,7 +1124,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 93,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceStrike.png?scale=1&w=1&h=1"
 }, {
     "name": "Frost Bomb",
     "quest_name": "Breaking Some Eggs",
@@ -1042,7 +1136,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 94,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostBomb.png?scale=1&w=1&h=1"
 }, {
     "name": "Frost Wall",
     "quest_name": "Breaking Some Eggs",
@@ -1053,7 +1148,8 @@
     "available_to": ["witch", "duelist", "templar"],
     "id": 95,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostWall.png?scale=1&w=1&h=1"
 }, {
     "name": "Frostbite",
     "quest_name": "Lost in Love",
@@ -1064,7 +1160,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 96,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostBite.png?scale=1&w=1&h=1"
 }, {
     "name": "Generosity",
     "quest_name": "A Fixture of Fate",
@@ -1075,7 +1172,8 @@
     "available_to": ["marauder", "witch", "scion", "templar"],
     "id": 97,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/GenerositySupport.png?scale=1&w=1&h=1"
 }, {
     "name": "Glacial Cascade",
     "quest_name": "Sever the Right Hand",
@@ -1086,7 +1184,8 @@
     "available_to": ["witch", "shadow", "templar"],
     "id": 98,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Upheaval.png?scale=1&w=1&h=1"
 }, {
     "name": "Glacial Hammer",
     "quest_name": "Enemy at the Gate",
@@ -1097,7 +1196,8 @@
     "available_to": ["marauder", "duelist", "templar"],
     "id": 99,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/GlacialHammer.png?scale=1&w=1&h=1"
 }, {
     "name": "Grace",
     "quest_name": "Lost in Love",
@@ -1108,7 +1208,8 @@
     "available_to": ["ranger", "duelist", "shadow"],
     "id": 100,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Grace.png?scale=1&w=1&h=1"
 }, {
     "name": "Greater Multiple Projectiles",
     "quest_name": "The Eternal Nightmare",
@@ -1119,7 +1220,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 101,
     "town": "Highgate",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/GreaterMultipleProjectiles.png?scale=1&w=1&h=1"
 }, {
     "name": "Ground Slam",
     "quest_name": "Enemy at the Gate",
@@ -1130,7 +1232,8 @@
     "available_to": ["marauder", "duelist", "templar"],
     "id": 102,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Groundslam.png?scale=1&w=1&h=1"
 }, {
     "name": "Haste",
     "quest_name": "Lost in Love",
@@ -1141,7 +1244,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 103,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Haste.png?scale=1&w=1&h=1"
 }, {
     "name": "Hatred",
     "quest_name": "Lost in Love",
@@ -1152,7 +1256,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow"],
     "id": 104,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Hatred.png?scale=1&w=1&h=1"
 }, {
     "name": "Heavy Strike",
     "quest_name": "Enemy at the Gate",
@@ -1163,7 +1268,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 105,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeavyStrike.png?scale=1&w=1&h=1"
 }, {
     "name": "Herald of Ash",
     "quest_name": "The Root of the Problem",
@@ -1174,7 +1280,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 106,
     "town": "The Forest Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeraldofAsh.png?scale=1&w=1&h=1"
 }, {
     "name": "Herald of Ice",
     "quest_name": "The Root of the Problem",
@@ -1185,7 +1292,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 107,
     "town": "The Forest Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeraldofIce.png?scale=1&w=1&h=1"
 }, {
     "name": "Herald of Thunder",
     "quest_name": "The Root of the Problem",
@@ -1196,7 +1304,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 108,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeraldofThunder.png?scale=1&w=1&h=1"
 }, {
     "name": "Hypothermia",
     "quest_name": "A Fixture of Fate",
@@ -1207,7 +1316,8 @@
     "available_to": ["witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 109,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/DamageAgainstChilled.png?scale=1&w=1&h=1"
 }, {
     "name": "Ice Bite",
     "quest_name": "A Fixture of Fate",
@@ -1218,7 +1328,8 @@
     "available_to": ["witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 110,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FrenzyChargeOnShatter.png?scale=1&w=1&h=1"
 }, {
     "name": "Ice Crash",
     "quest_name": "Sever the Right Hand",
@@ -1229,7 +1340,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 111,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceCrashGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Ice Nova",
     "quest_name": "The Siren's Cadence",
@@ -1240,7 +1352,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 112,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceNova.png?scale=1&w=1&h=1"
 }, {
     "name": "Ice Shot",
     "quest_name": "Enemy at the Gate",
@@ -1251,7 +1364,8 @@
     "available_to": ["scion", "ranger", "duelist"],
     "id": 113,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceShot.png?scale=1&w=1&h=1"
 }, {
     "name": "Ice Spear",
     "quest_name": "The Siren's Cadence",
@@ -1262,7 +1376,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 114,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceSpear.png?scale=1&w=1&h=1"
 }, {
     "name": "Ice Trap",
     "quest_name": "Sever the Right Hand",
@@ -1273,7 +1388,8 @@
     "available_to": ["witch", "scion", "shadow"],
     "id": 115,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceTrapRune.png?scale=1&w=1&h=1"
 }, {
     "name": "Immortal Call",
     "quest_name": "Breaking the Seal",
@@ -1284,7 +1400,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 116,
     "town": "Highgate",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ImmortalCall.png?scale=1&w=1&h=1"
 }, {
     "name": "Incinerate",
     "quest_name": "The Siren's Cadence",
@@ -1295,7 +1412,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 117,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Flamethrower.png?scale=1&w=1&h=1"
 }, {
     "name": "Increased Area of Effect",
     "quest_name": "The Eternal Nightmare",
@@ -1306,7 +1424,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 118,
     "town": "Highgate",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedAOE.png?scale=1&w=1&h=1"
 }, {
     "name": "Increased Burning Damage",
     "quest_name": "A Fixture of Fate",
@@ -1317,7 +1436,8 @@
     "available_to": ["marauder", "witch", "scion", "templar"],
     "id": 119,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedBurnDuration.png?scale=1&w=1&h=1"
 }, {
     "name": "Increased Critical Damage",
     "quest_name": "Sharp and Cruel",
@@ -1328,7 +1448,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow"],
     "id": 120,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedCriticalDamage.png?scale=1&w=1&h=1"
 }, {
     "name": "Increased Critical Strikes",
     "quest_name": "The Caged Brute",
@@ -1339,7 +1460,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow"],
     "id": 121,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedCriticalStrikes.png?scale=1&w=1&h=1"
 }, {
     "name": "Increased Duration",
     "quest_name": "A Fixture of Fate",
@@ -1350,7 +1472,8 @@
     "available_to": ["marauder", "duelist", "templar"],
     "id": 122,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedDuration.png?scale=1&w=1&h=1"
 }, {
     "name": "Infernal Blow",
     "quest_name": "Enemy at the Gate",
@@ -1361,7 +1484,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 123,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/InfernalBlow.png?scale=1&w=1&h=1"
 }, {
     "name": "Innervate",
     "quest_name": "A Fixture of Fate",
@@ -1372,7 +1496,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow", "templar"],
     "id": 124,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/OnslaughtOnSlayingShocked.png?scale=1&w=1&h=1"
 }, {
     "name": "Iron Grip",
     "quest_name": "Sharp and Cruel",
@@ -1383,7 +1508,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "templar"],
     "id": 125,
     "town": "The Forest Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IronGrip.png?scale=1&w=1&h=1"
 }, {
     "name": "Iron Will",
     "quest_name": "Sharp and Cruel",
@@ -1394,7 +1520,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 126,
     "town": "The Forest Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IronWill.png?scale=1&w=1&h=1"
 }, {
     "name": "Item Rarity",
     "quest_name": "A Fixture of Fate",
@@ -1405,7 +1532,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 127,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedQuality.png?scale=1&w=1&h=1"
 }, {
     "name": "Kinetic Blast",
     "quest_name": "Sever the Right Hand",
@@ -1416,7 +1544,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 128,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ClusterBurst.png?scale=1&w=1&h=1"
 }, {
     "name": "Knockback",
     "quest_name": "The Caged Brute",
@@ -1427,7 +1556,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 129,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Knockback.png?scale=1&w=1&h=1"
 }, {
     "name": "Leap Slam",
     "quest_name": "The Caged Brute",
@@ -1438,7 +1568,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "templar"],
     "id": 130,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LeapSlam.png?scale=1&w=1&h=1"
 }, {
     "name": "Less Duration",
     "quest_name": "A Fixture of Fate",
@@ -1449,7 +1580,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 131,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ReduceDuration.png?scale=1&w=1&h=1"
 }, {
     "name": "Lesser Multiple Projectiles",
     "quest_name": "The Caged Brute",
@@ -1460,7 +1592,8 @@
     "available_to": ["witch", "scion", "ranger", "duelist", "shadow"],
     "id": 132,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LesserMultipleProjectiles.png?scale=1&w=1&h=1"
 }, {
     "name": "Life Gain on Hit",
     "quest_name": "The Caged Brute",
@@ -1471,7 +1604,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 133,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LifeonHit.png?scale=1&w=1&h=1"
 }, {
     "name": "Life Leech",
     "quest_name": "A Fixture of Fate",
@@ -1482,7 +1616,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 134,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LifeLeech.png?scale=1&w=1&h=1"
 }, {
     "name": "Lightning Arrow",
     "quest_name": "The Siren's Cadence",
@@ -1493,7 +1628,8 @@
     "available_to": ["ranger", "duelist", "shadow"],
     "id": 135,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningArrow.png?scale=1&w=1&h=1"
 }, {
     "name": "Lightning Penetration",
     "quest_name": "A Fixture of Fate",
@@ -1504,7 +1640,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 136,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LightningPenetration.png?scale=1&w=1&h=1"
 }, {
     "name": "Lightning Strike",
     "quest_name": "The Siren's Cadence",
@@ -1515,7 +1652,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow", "templar"],
     "id": 137,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningStrike.png?scale=1&w=1&h=1"
 }, {
     "name": "Lightning Tendrils",
     "quest_name": "Enemy at the Gate",
@@ -1526,7 +1664,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 138,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LighteningTouch.png?scale=1&w=1&h=1"
 }, {
     "name": "Lightning Trap",
     "quest_name": "The Siren's Cadence",
@@ -1537,7 +1676,8 @@
     "available_to": ["witch", "ranger", "shadow"],
     "id": 139,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningTrap.png?scale=1&w=1&h=1"
 }, {
     "name": "Lightning Warp",
     "quest_name": "The Caged Brute",
@@ -1548,7 +1688,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 140,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningWarp.png?scale=1&w=1&h=1"
 }, {
     "name": "Magma Orb",
     "quest_name": "Enemy at the Gate",
@@ -1559,7 +1700,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 141,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireMortar.png?scale=1&w=1&h=1"
 }, {
     "name": "Mana Leech",
     "quest_name": "A Fixture of Fate",
@@ -1570,7 +1712,8 @@
     "available_to": ["witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 142,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ManaLeech.png?scale=1&w=1&h=1"
 }, {
     "name": "Melee Damage on Full Life",
     "quest_name": "Sharp and Cruel",
@@ -1581,7 +1724,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 143,
     "town": "The Forest Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MeleeDamageonFullLife.png?scale=1&w=1&h=1"
 }, {
     "name": "Melee Physical Damage",
     "quest_name": "Sharp and Cruel",
@@ -1592,7 +1736,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 144,
     "town": "The Forest Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedPhysicalDamage.png?scale=1&w=1&h=1"
 }, {
     "name": "Melee Splash",
     "quest_name": "The Caged Brute",
@@ -1603,7 +1748,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 145,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Splash.png?scale=1&w=1&h=1"
 }, {
     "name": "Minefield",
     "quest_name": "The Caged Brute",
@@ -1614,7 +1760,8 @@
     "available_to": ["witch", "scion", "shadow"],
     "id": 146,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Minefield.png?scale=1&w=1&h=1"
 }, {
     "name": "Minion Damage",
     "quest_name": "The Caged Brute",
@@ -1625,7 +1772,8 @@
     "available_to": ["witch", "scion", "templar"],
     "id": 147,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MinionDamage.png?scale=1&w=1&h=1"
 }, {
     "name": "Minion Life",
     "quest_name": "Sharp and Cruel",
@@ -1636,7 +1784,8 @@
     "available_to": ["witch", "scion", "templar"],
     "id": 148,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MinionLife.png?scale=1&w=1&h=1"
 }, {
     "name": "Minion Speed",
     "quest_name": "Sharp and Cruel",
@@ -1647,7 +1796,8 @@
     "available_to": ["witch", "scion", "templar"],
     "id": 149,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MinionSpeed.png?scale=1&w=1&h=1"
 }, {
     "name": "Minion and Totem Elemental Resistance",
     "quest_name": "A Fixture of Fate",
@@ -1658,7 +1808,8 @@
     "available_to": ["witch", "scion", "templar"],
     "id": 150,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/SummonsElementalResists.png?scale=1&w=1&h=1"
 }, {
     "name": "Molten Shell",
     "quest_name": "Breaking Some Eggs",
@@ -1669,7 +1820,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 151,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/MoltenShell.png?scale=1&w=1&h=1"
 }, {
     "name": "Molten Strike",
     "quest_name": "Enemy at the Gate",
@@ -1680,7 +1832,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 152,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/MoltenStrike.png?scale=1&w=1&h=1"
 }, {
     "name": "Multiple Traps",
     "quest_name": "The Caged Brute",
@@ -1691,7 +1844,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow"],
     "id": 153,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MultiTrap.png?scale=1&w=1&h=1"
 }, {
     "name": "Multistrike",
     "quest_name": "The Eternal Nightmare",
@@ -1702,7 +1856,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 154,
     "town": "Highgate",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/multipleattacks.png?scale=1&w=1&h=1"
 }, {
     "name": "Orb of Storms",
     "quest_name": "Breaking Some Eggs",
@@ -1713,7 +1868,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 155,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/StormCloudGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Phase Run",
     "quest_name": "Breaking the Seal",
@@ -1724,7 +1880,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 156,
     "town": "Highgate",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PhaseRun.png?scale=1&w=1&h=1"
 }, {
     "name": "Physical Projectile Attack Damage",
     "quest_name": "Sharp and Cruel",
@@ -1735,7 +1892,8 @@
     "available_to": ["scion", "ranger", "duelist"],
     "id": 157,
     "town": "The Forest Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/RangedPhysicalAttackDamage.png?scale=1&w=1&h=1"
 }, {
     "name": "Physical to Lightning",
     "quest_name": "Sharp and Cruel",
@@ -1746,7 +1904,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 158,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/PhysicalToLightning.png?scale=1&w=1&h=1"
 }, {
     "name": "Pierce",
     "quest_name": "A Fixture of Fate",
@@ -1757,7 +1916,8 @@
     "available_to": ["witch", "scion", "ranger", "duelist", "shadow"],
     "id": 159,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Pierce.png?scale=1&w=1&h=1"
 }, {
     "name": "Poacher's Mark",
     "quest_name": "Lost in Love",
@@ -1768,7 +1928,8 @@
     "available_to": ["ranger", "duelist", "shadow"],
     "id": 160,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PoachersMark.png?scale=1&w=1&h=1"
 }, {
     "name": "Point Blank",
     "quest_name": "Sharp and Cruel",
@@ -1779,7 +1940,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 161,
     "town": "The Forest Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/PointBlank.png?scale=1&w=1&h=1"
 }, {
     "name": "Poison",
     "quest_name": "A Fixture of Fate",
@@ -1790,7 +1952,8 @@
     "available_to": ["scion", "ranger", "shadow"],
     "id": 162,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Poison.png?scale=1&w=1&h=1"
 }, {
     "name": "Power Charge On Critical",
     "quest_name": "Sharp and Cruel",
@@ -1801,7 +1964,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow", "templar"],
     "id": 163,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/PowerCharges.png?scale=1&w=1&h=1"
 }, {
     "name": "Power Siphon",
     "quest_name": "The Siren's Cadence",
@@ -1812,7 +1976,8 @@
     "available_to": ["witch", "scion", "shadow"],
     "id": 164,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PowerSiphon.png?scale=1&w=1&h=1"
 }, {
     "name": "Projectile Weakness",
     "quest_name": "Lost in Love",
@@ -1823,7 +1988,8 @@
     "available_to": ["ranger", "duelist", "shadow"],
     "id": 165,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ProjectileWeakness.png?scale=1&w=1&h=1"
 }, {
     "name": "Puncture",
     "quest_name": "Breaking Some Eggs",
@@ -1834,7 +2000,8 @@
     "available_to": ["ranger", "duelist", "shadow"],
     "id": 166,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Puncture.png?scale=1&w=1&h=1"
 }, {
     "name": "Punishment",
     "quest_name": "Lost in Love",
@@ -1845,7 +2012,8 @@
     "available_to": ["marauder", "witch", "scion", "duelist", "templar"],
     "id": 167,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Punishment.png?scale=1&w=1&h=1"
 }, {
     "name": "Purity of Elements",
     "quest_name": "Lost in Love",
@@ -1856,7 +2024,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 168,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Purity.png?scale=1&w=1&h=1"
 }, {
     "name": "Purity of Fire",
     "quest_name": "Lost in Love",
@@ -1867,7 +2036,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 169,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireResistAura.png?scale=1&w=1&h=1"
 }, {
     "name": "Purity of Ice",
     "quest_name": "Lost in Love",
@@ -1878,7 +2048,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 170,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ColdResistAura.png?scale=1&w=1&h=1"
 }, {
     "name": "Purity of Lightning",
     "quest_name": "Lost in Love",
@@ -1889,7 +2060,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 171,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningResistAura.png?scale=1&w=1&h=1"
 }, {
     "name": "Rain of Arrows",
     "quest_name": "The Siren's Cadence",
@@ -1900,7 +2072,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 172,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RainofArrows.png?scale=1&w=1&h=1"
 }, {
     "name": "Raise Spectre",
     "quest_name": "Sever the Right Hand",
@@ -1911,7 +2084,8 @@
     "available_to": ["witch", "scion", "templar"],
     "id": 173,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RaiseSpectre.png?scale=1&w=1&h=1"
 }, {
     "name": "Raise Zombie",
     "quest_name": "Enemy at the Gate",
@@ -1922,7 +2096,8 @@
     "available_to": ["witch", "scion", "templar"],
     "id": 174,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RaiseZombie.png?scale=1&w=1&h=1"
 }, {
     "name": "Rallying Cry",
     "quest_name": "The Caged Brute",
@@ -1933,7 +2108,8 @@
     "available_to": ["marauder", "witch", "ranger", "duelist", "templar"],
     "id": 175,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/InspiringCry.png?scale=1&w=1&h=1"
 }, {
     "name": "Ranged Attack Totem",
     "quest_name": "The Caged Brute",
@@ -1944,7 +2120,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 176,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/RangedAttackTotem.png?scale=1&w=1&h=1"
 }, {
     "name": "Rapid Decay",
     "quest_name": "A Fixture of Fate",
@@ -1955,7 +2132,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow", "templar"],
     "id": 177,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/SupportRapidDecayGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Reave",
     "quest_name": "The Siren's Cadence",
@@ -1966,7 +2144,8 @@
     "available_to": ["ranger", "duelist", "shadow"],
     "id": 178,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Reave.png?scale=1&w=1&h=1"
 }, {
     "name": "Reckoning",
     "quest_name": "Breaking Some Eggs",
@@ -1977,7 +2156,8 @@
     "available_to": ["marauder", "duelist", "templar"],
     "id": 179,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Repulse.png?scale=1&w=1&h=1"
 }, {
     "name": "Reduced Mana",
     "quest_name": "A Fixture of Fate",
@@ -1988,7 +2168,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar", "witch", "ranger", "shadow"],
     "id": 180,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ReducedManaCost.png?scale=1&w=1&h=1"
 }, {
     "name": "Rejuvenation Totem",
     "quest_name": "Breaking Some Eggs",
@@ -1999,7 +2180,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 181,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RejuvinationTotem.png?scale=1&w=1&h=1"
 }, {
     "name": "Remote Mine",
     "quest_name": "The Caged Brute",
@@ -2010,7 +2192,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow", "templar"],
     "id": 182,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/RemoteMine.png?scale=1&w=1&h=1"
 }, {
     "name": "Righteous Fire",
     "quest_name": "The Root of the Problem",
@@ -2021,7 +2204,8 @@
     "available_to": ["marauder", "witch", "scion", "templar"],
     "id": 183,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RighteousFire.png?scale=1&w=1&h=1"
 }, {
     "name": "Riposte",
     "quest_name": "Breaking Some Eggs",
@@ -2032,7 +2216,8 @@
     "available_to": ["marauder", "ranger", "duelist", "shadow"],
     "id": 184,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Riposte.png?scale=1&w=1&h=1"
 }, {
     "name": "Searing Bond",
     "quest_name": "The Siren's Cadence",
@@ -2043,7 +2228,8 @@
     "available_to": ["marauder", "witch", "templar"],
     "id": 185,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SearingBond.png?scale=1&w=1&h=1"
 }, {
     "name": "Shield Charge",
     "quest_name": "The Caged Brute",
@@ -2054,7 +2240,8 @@
     "available_to": ["marauder", "duelist", "templar"],
     "id": 186,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShieldCharge.png?scale=1&w=1&h=1"
 }, {
     "name": "Shock Nova",
     "quest_name": "Sever the Right Hand",
@@ -2065,7 +2252,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 187,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShockNova.png?scale=1&w=1&h=1"
 }, {
     "name": "Shockwave Totem",
     "quest_name": "Sever the Right Hand",
@@ -2076,7 +2264,8 @@
     "available_to": ["marauder", "witch", "templar"],
     "id": 188,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShockwaveTotem.png?scale=1&w=1&h=1"
 }, {
     "name": "Shrapnel Shot",
     "quest_name": "Enemy at the Gate",
@@ -2087,7 +2276,8 @@
     "available_to": ["scion", "ranger", "duelist"],
     "id": 189,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShrapnelShot.png?scale=1&w=1&h=1"
 }, {
     "name": "Siege Ballista",
     "quest_name": "Breaking Some Eggs",
@@ -2098,7 +2288,8 @@
     "available_to": ["scion", "ranger", "duelist"],
     "id": 190,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/CrossBowTotemGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Slower Projectiles",
     "quest_name": "A Fixture of Fate",
@@ -2109,7 +2300,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 191,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/SlowerProjectiles.png?scale=1&w=1&h=1"
 }, {
     "name": "Smoke Mine",
     "quest_name": "The Caged Brute",
@@ -2120,7 +2312,8 @@
     "available_to": ["marauder", "witch", "ranger", "duelist", "shadow"],
     "id": 192,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SmokeBomb.png?scale=1&w=1&h=1"
 }, {
     "name": "Spark",
     "quest_name": "Enemy at the Gate",
@@ -2131,7 +2324,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 193,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Spark.png?scale=1&w=1&h=1"
 }, {
     "name": "Spectral Throw",
     "quest_name": "Enemy at the Gate",
@@ -2142,7 +2336,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 194,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/GhostlyThrow.png?scale=1&w=1&h=1"
 }, {
     "name": "Spell Echo",
     "quest_name": "The Eternal Nightmare",
@@ -2153,7 +2348,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 195,
     "town": "Highgate",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Echo.png?scale=1&w=1&h=1"
 }, {
     "name": "Spell Totem",
     "quest_name": "The Caged Brute",
@@ -2164,7 +2360,8 @@
     "available_to": ["marauder", "witch", "scion", "templar"],
     "id": 196,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Totem.png?scale=1&w=1&h=1"
 }, {
     "name": "Split Arrow",
     "quest_name": "Enemy at the Gate",
@@ -2175,7 +2372,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 197,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SplitArrow.png?scale=1&w=1&h=1"
 }, {
     "name": "Static Strike",
     "quest_name": "The Siren's Cadence",
@@ -2186,7 +2384,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "templar"],
     "id": 198,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/StaticGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Storm Call",
     "quest_name": "The Siren's Cadence",
@@ -2197,7 +2396,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 199,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Stormcall.png?scale=1&w=1&h=1"
 }, {
     "name": "Stun",
     "quest_name": "The Caged Brute",
@@ -2208,7 +2408,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 200,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Stun.png?scale=1&w=1&h=1"
 }, {
     "name": "Summon Chaos Golem",
     "quest_name": "Breaking the Seal",
@@ -2219,7 +2420,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 201,
     "town": "Highgate",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ChaosElementalSummon.png?scale=1&w=1&h=1"
 }, {
     "name": "Summon Ice Golem",
     "quest_name": "Breaking the Seal",
@@ -2230,7 +2432,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 202,
     "town": "Highgate",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceElementalSummon.png?scale=1&w=1&h=1"
 }, {
     "name": "Summon Raging Spirit",
     "quest_name": "Breaking Some Eggs",
@@ -2241,7 +2444,8 @@
     "available_to": ["witch", "scion", "templar"],
     "id": 203,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SummonElemental.png?scale=1&w=1&h=1"
 }, {
     "name": "Summon Skeletons",
     "quest_name": "The Caged Brute",
@@ -2252,7 +2456,8 @@
     "available_to": ["witch", "scion", "templar"],
     "id": 204,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SummonSkeletons.png?scale=1&w=1&h=1"
 }, {
     "name": "Summon Stone Golem",
     "quest_name": "Breaking the Seal",
@@ -2263,7 +2468,8 @@
     "available_to": ["marauder", "witch", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 205,
     "town": "Highgate",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RockGolem.png?scale=1&w=1&h=1"
 }, {
     "name": "Sunder",
     "quest_name": "The Siren's Cadence",
@@ -2274,7 +2480,8 @@
     "available_to": ["marauder", "scion", "duelist", "templar"],
     "id": 206,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShockwaveSlam.png?scale=1&w=1&h=1"
 }, {
     "name": "Sweep",
     "quest_name": "The Siren's Cadence",
@@ -2285,7 +2492,8 @@
     "available_to": ["marauder", "duelist", "templar"],
     "id": 207,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Sweep.png?scale=1&w=1&h=1"
 }, {
     "name": "Tempest Shield",
     "quest_name": "The Root of the Problem",
@@ -2296,7 +2504,8 @@
     "available_to": ["marauder", "witch", "scion", "duelist", "shadow", "templar"],
     "id": 208,
     "town": "The Forest Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/TempestShield.png?scale=1&w=1&h=1"
 }, {
     "name": "Temporal Chains",
     "quest_name": "Lost in Love",
@@ -2307,7 +2516,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 209,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/TemporalChains.png?scale=1&w=1&h=1"
 }, {
     "name": "Tornado Shot",
     "quest_name": "Sever the Right Hand",
@@ -2318,7 +2528,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 210,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/TornadoShot.png?scale=1&w=1&h=1"
 }, {
     "name": "Trap Cooldown",
     "quest_name": "A Fixture of Fate",
@@ -2329,7 +2540,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow"],
     "id": 212,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/TrapCooldownRecovery.png?scale=1&w=1&h=1"
 }, {
     "name": "Trap and Mine Damage",
     "quest_name": "Sharp and Cruel",
@@ -2340,7 +2552,8 @@
     "available_to": ["witch", "scion", "ranger", "shadow", "templar"],
     "id": 213,
     "town": "The Forest Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/TrapAndMineDamage.png?scale=1&w=1&h=1"
 }, {
     "name": "Trap",
     "quest_name": "The Caged Brute",
@@ -2351,7 +2564,8 @@
     "available_to": ["witch", "scion", "ranger", "duelist", "shadow"],
     "id": 211,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Trap.png?scale=1&w=1&h=1"
 }, {
     "name": "Vengeance",
     "quest_name": "Lost in Love",
@@ -2362,7 +2576,8 @@
     "available_to": ["marauder", "duelist", "templar"],
     "id": 214,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Vengeance.png?scale=1&w=1&h=1"
 }, {
     "name": "Vigilant Strike",
     "quest_name": "Breaking Some Eggs",
@@ -2373,7 +2588,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "templar"],
     "id": 215,
     "town": "Lioneye's Watch",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VigilantStrikeGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Viper Strike",
     "quest_name": "Enemy at the Gate",
@@ -2384,7 +2600,8 @@
     "available_to": ["scion", "ranger", "duelist", "shadow"],
     "id": 216,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ViperStrike.png?scale=1&w=1&h=1"
 }, {
     "name": "Vitality",
     "quest_name": "Lost in Love",
@@ -2395,7 +2612,8 @@
     "available_to": ["marauder", "duelist", "templar"],
     "id": 217,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Vitality.png?scale=1&w=1&h=1"
 }, {
     "name": "Void Manipulation",
     "quest_name": "The Caged Brute",
@@ -2406,7 +2624,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 218,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/VoidManipulation.png?scale=1&w=1&h=1"
 }, {
     "name": "Vulnerability",
     "quest_name": "Lost in Love",
@@ -2417,7 +2636,8 @@
     "available_to": ["marauder", "witch", "scion", "duelist", "shadow", "templar"],
     "id": 219,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Vulnerability.png?scale=1&w=1&h=1"
 }, {
     "name": "Warlord's Mark",
     "quest_name": "Lost in Love",
@@ -2428,7 +2648,8 @@
     "available_to": ["marauder", "duelist", "templar"],
     "id": 220,
     "town": "The Sarn Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/WarlordsMark.png?scale=1&w=1&h=1"
 }, {
     "name": "Weapon Elemental Damage",
     "quest_name": "Sharp and Cruel",
@@ -2439,7 +2660,8 @@
     "available_to": ["marauder", "scion", "ranger", "duelist", "shadow", "templar"],
     "id": 221,
     "town": "The Forest Encampment",
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/WeaponElementalDamage.png?scale=1&w=1&h=1"
 }, {
     "name": "Whirling Blades",
     "quest_name": "The Caged Brute",
@@ -2450,7 +2672,8 @@
     "available_to": ["ranger", "duelist", "shadow"],
     "id": 222,
     "town": "Lioneye's Watch",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/WhirlingBlades.png?scale=1&w=1&h=1"
 }, {
     "name": "Wild Strike",
     "quest_name": "Sever the Right Hand",
@@ -2461,7 +2684,8 @@
     "available_to": ["scion", "ranger", "shadow"],
     "id": 223,
     "town": "The Sarn Encampment",
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ElementalStrike.png?scale=1&w=1&h=1"
 }, {
     "name": "Wither",
     "quest_name": "The Caged Brute",
@@ -2472,7 +2696,8 @@
     "available_to": ["witch", "scion", "shadow", "templar"],
     "id": 224,
     "town": "Lioneye's Watch",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/WitherGem.png?scale=1&w=1&h=1"
 }, {
     "name": "Wrath",
     "quest_name": "Lost in Love",
@@ -2483,201 +2708,238 @@
     "id": 225,
     "isVaal": false,
     "town": "The Sarn Encampment",
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Wrath.png?scale=1&w=1&h=1"
 }, {
     "id": 226,
     "name": "Vaal Glacial Hammer",
     "isVaal": true,
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGlacialHammer.png?scale=1&w=1&h=1"
 }, {
     "id": 227,
     "name": "Vaal Ground Slam",
     "isVaal": true,
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGroundslam.png?scale=1&w=1&h=1"
 }, {
     "id": 228,
     "name": "Vaal Immortal Call",
     "isVaal": true,
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalImmortalCall.png?scale=1&w=1&h=1"
 }, {
     "id": 229,
     "name": "Vaal Molten Shell",
     "isVaal": true,
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalMoltenShell.png?scale=1&w=1&h=1"
 }, {
     "id": 230,
     "name": "Vaal Burning Arrow",
     "isVaal": true,
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalBurningArrow.png?scale=1&w=1&h=1"
 }, {
     "id": 231,
     "name": "Vaal Cyclone",
     "isVaal": true,
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalCyclone.png?scale=1&w=1&h=1"
 }, {
     "id": 232,
     "name": "Vaal Detonate Dead",
     "isVaal": true,
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalDetonateDead.png?scale=1&w=1&h=1"
 }, {
     "id": 233,
     "name": "Vaal Double Strike",
     "isVaal": true,
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalDoubleStrike.png?scale=1&w=1&h=1"
 }, {
     "id": 234,
     "name": "Vaal Grace",
     "isVaal": true,
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGrace.png?scale=1&w=1&h=1"
 }, {
     "id": 235,
     "name": "Vaal Haste",
     "isVaal": true,
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalHaste.png?scale=1&w=1&h=1"
 }, {
     "id": 236,
     "name": "Vaal Lightning Strike",
     "isVaal": true,
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalLightningStrike.png?scale=1&w=1&h=1"
 }, {
     "id": 237,
     "name": "Vaal Rain of Arrows",
     "isVaal": true,
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalRainofArrows.png?scale=1&w=1&h=1"
 }, {
     "id": 238,
     "name": "Vaal Reave",
     "isVaal": true,
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalReave.png?scale=1&w=1&h=1"
 }, {
     "id": 239,
     "name": "Vaal Spectral Throw",
     "isVaal": true,
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGhostlyThrow.png?scale=1&w=1&h=1"
 }, {
     "id": 240,
     "name": "Vaal Arc",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalArc.png?scale=1&w=1&h=1"
 }, {
     "id": 241,
     "name": "Vaal Clarity",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalClarity.png?scale=1&w=1&h=1"
 }, {
     "id": 242,
     "name": "Vaal Cold Snap",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalColdSnap.png?scale=1&w=1&h=1"
 }, {
     "id": 243,
     "name": "Vaal Discipline",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalDiscipline.png?scale=1&w=1&h=1"
 }, {
     "id": 244,
     "name": "Vaal Fireball",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalFireball.png?scale=1&w=1&h=1"
 }, {
     "id": 245,
     "name": "Vaal Flameblast",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalChargedBlast.png?scale=1&w=1&h=1"
 }, {
     "id": 246,
     "name": "Vaal Ice Nova",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalIceNova.png?scale=1&w=1&h=1"
 }, {
     "id": 247,
     "name": "Vaal Lightning Trap",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalLightningTrap.png?scale=1&w=1&h=1"
 }, {
     "id": 248,
     "name": "Vaal Lightning Warp",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalLightningWarp.png?scale=1&w=1&h=1"
 }, {
     "id": 249,
     "name": "Vaal Power Siphon",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalPowerSiphon.png?scale=1&w=1&h=1"
 }, {
     "id": 250,
     "name": "Vaal Righteous Fire",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalRighteousFire.png?scale=1&w=1&h=1"
 }, {
     "id": 251,
     "name": "Vaal Spark",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalSpark.png?scale=1&w=1&h=1"
 }, {
     "id": 252,
     "name": "Vaal Storm Call",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalStormcall.png?scale=1&w=1&h=1"
 }, {
     "id": 253,
     "name": "Vaal Summon Skeletons",
     "isVaal": true,
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalSummonSkeletons.png?scale=1&w=1&h=1"
 }, {
     "id": 254,
     "name": "Empower",
     "required_lvl": 1,
     "isVaal": false,
     "available_to": [],
-    "color": "red"
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Empower.png?scale=1&w=1&h=1"
 }, {
     "id": 255,
     "name": "Enlighten",
     "required_lvl": 38,
     "isVaal": false,
     "available_to": [],
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Enlighten.png?scale=1&w=1&h=1"
 }, {
     "id": 256,
     "name": "Portal",
     "required_lvl": 10,
     "isVaal": false,
     "available_to": [],
-    "color": "white"
+    "color": "white",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Portal.png?scale=1&w=1&h=1"
 }, {
     "id": 257,
     "name": "Mirror Arrow",
     "required_lvl": 24,
     "isVaal": false,
     "available_to": [],
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/MirrorArrow.png?scale=1&w=1&h=1"
 }, {
     "id": 258,
     "name": "Enhance",
     "required_lvl": 1,
     "isVaal": false,
     "available_to": [],
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/enhance.png?scale=1&w=1&h=1"
 }, {
     "id": 259,
     "name": "Detonate Mines",
     "required_lvl": 8,
     "isVaal": false,
     "available_to": [],
-    "color": "white"
+    "color": "white",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DetonateMines.png?scale=1&w=1&h=1"
 }, {
     "id": 260,
     "name": "Added Chaos Damage",
     "required_lvl": 31,
     "isVaal": false,
     "available_to": [],
-    "color": "blue"
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedChaosDamage.png?scale=1&w=1&h=1"
 }, {
     "id": 261,
     "name": "Block Chance Reduction",
     "required_lvl": 19,
     "isVaal": false,
     "available_to": [],
-    "color": "green"
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/BreakBlock.png?scale=1&w=1&h=1"
 }]

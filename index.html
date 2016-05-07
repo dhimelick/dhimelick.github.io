@@ -5,7 +5,7 @@
         <title>Path of Gems</title>
         
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-        <link rel="stylesheet" href="http://qtip2.com/v/2.2.1/basic/jquery.qtip.min.css">
+        <link rel="stylesheet" href="css/jquery.qtip.min.css">
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
 
@@ -145,8 +145,8 @@
         <script src="https://cdn.firebase.com/js/client/2.4.1/firebase.js"></script>
         <script src="//code.jquery.com/jquery-2.2.1.min.js"></script>
         <script src="//cdn.jsdelivr.net/handlebarsjs/4.0.5/handlebars.min.js"></script>
-        <script src="http://qtip2.com/v/2.2.1/jquery.qtip.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+        <script src="js/jquery.qtip.min.js"></script>
         <script src="js/hashids.min.js"></script>
         <script src="js/underscore-min.js"></script>
         <script src="js/validator.min.js"></script>
@@ -181,16 +181,17 @@
 
                 <div class="row header-row">
                     <div class="col-md-1">Act</div>
-                    <div class="col-md-3">Location</div>
+                    <div class="col-md-2">Location</div>
                     <div class="col-md-3">Quest</div>
                     <div class="col-md-3">Skill</div>
-                    <div class="col-md-2">Lvl. Req.</div>
+                    <div class="col-md-2 gem-icon-col">Gem Icon <span id="gem-icon-col" class="hidden-xs" title="Click the Gem icon to open the Gem's Wiki page"><i class="fa fa-question-circle-o" aria-hidden="true"></i></span></div>
+                    <div class="col-md-1">Lvl. Req.</div>
                 </div>
 
                 {{#rows}}
                 <div class="row content-row">
                     <div class="col-md-1 centered-col-content">{{act}}</div>
-                    <div class="col-md-3 centered-col-content">{{location}}</div>
+                    <div class="col-md-2 centered-col-content">{{location}}</div>
 
                     <div class="col-md-3">
                         {{#skills}}
@@ -203,6 +204,11 @@
                         {{/skills}}
                     </div>
                     <div class="col-md-2">
+                        {{#skills}}
+                            <a class="iconImageLink" target="_blank" href="http://pathofexile.gamepedia.com/{{name}}"><img src="{{iconPath}}" alt="Click for {{name}} Wiki page!"></a>
+                        {{/skills}}
+                    </div>
+                    <div class="col-md-1">
                         {{#skills}}
                             <div>{{required_lvl}}</div>
                         {{/skills}}
