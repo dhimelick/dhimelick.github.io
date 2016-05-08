@@ -290,5 +290,29 @@
   {
     "abbr": "Cast on Crit",
     "desc": "Cast On Critical Strike"
+  },
+  {
+    "abbr": "Cont Destruction",
+    "desc": "Controlled Destruction"
+  },
+  {
+    "abbr": "Cold Pen",
+    "desc": "Cold Penetration"
+  },
+  {
+    "abbr": "T&M Dmg",
+    "desc": "Trap and Mine Damage"
+  },
+  {
+    "abbr": "Ele Focus",
+    "desc": "Elemental Focus"
+  },
+  {
+    "abbr": "Inc Duration",
+    "desc": "Increased Duration"
+  },
+  {
+    "abbr": "Inc Crit",
+    "desc": "Increased Critical Strikes"
   }
 ]

@@ -143,8 +143,8 @@
         </div>
 
         <script src="https://cdn.firebase.com/js/client/2.4.1/firebase.js"></script>
-        <script src="//code.jquery.com/jquery-2.2.1.min.js"></script>
-        <script src="//cdn.jsdelivr.net/handlebarsjs/4.0.5/handlebars.min.js"></script>
+        <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/handlebarsjs/4.0.5/handlebars.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
         <script src="js/jquery.qtip.min.js"></script>
         <script src="js/hashids.min.js"></script>
@@ -200,7 +200,7 @@
                     </div>
                     <div class="col-md-3">
                         {{#skills}}
-                            <div class="skill-gem color-{{color}}">{{name}}</div>
+                            <div class="skill-gem color-{{color}} {{disabled}}" data-id="{{id}}">{{name}}</div>
                         {{/skills}}
                     </div>
                     <div class="col-md-2">

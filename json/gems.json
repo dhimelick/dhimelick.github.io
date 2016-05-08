@@ -455,18 +455,6 @@
     "color": "red",
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Cleave.png?scale=1&w=1&h=1"
 }, {
-    "name": "Cluster Traps",
-    "quest_name": "The Eternal Nightmare",
-    "npc": "Petarus and Vanja",
-    "act": 4,
-    "required_lvl": 38,
-    "isVaal": false,
-    "available_to": ["witch", "scion", "ranger", "shadow"],
-    "id": 38,
-    "town": "Highgate",
-    "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ClusterTrap.png?scale=1&w=1&h=1"
-}, {
     "name": "Cold Penetration",
     "quest_name": "A Fixture of Fate",
     "npc": "Clarissa",
@@ -2554,6 +2542,18 @@
     "town": "The Forest Encampment",
     "color": "green",
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/TrapAndMineDamage.png?scale=1&w=1&h=1"
+}, {
+    "name": "Cluster Traps",
+    "quest_name": "The Eternal Nightmare",
+    "npc": "Petarus and Vanja",
+    "act": 4,
+    "required_lvl": 38,
+    "isVaal": false,
+    "available_to": ["witch", "scion", "ranger", "shadow"],
+    "id": 38,
+    "town": "Highgate",
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ClusterTrap.png?scale=1&w=1&h=1"
 }, {
     "name": "Trap",
     "quest_name": "The Caged Brute",

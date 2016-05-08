@@ -82,5 +82,9 @@
   {
     "correct" : "Spell Totem",
     "misspell" : "Spelltotem"
+  },
+  {
+    "correct" : "cluster traps",
+    "misspell" : "cluster trap"
   }
 ]
