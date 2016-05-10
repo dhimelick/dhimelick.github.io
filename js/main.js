@@ -60,13 +60,18 @@ var pickAndOrganiseGems = function()
     //Look for abbreviated gems
     _.each(abbreviations, function(item) {
         if(isMatch(gemGuideText, item.abbr)) {
-
+            console.log("item.abbr", item.abbr)
             if(_.isString(item.desc)){
                 var gem = _.find(allGems, function(gemItem) { 
                     return gemItem.name.trim().toLowerCase() === item.desc.trim().toLowerCase()
                 });
                 if(gem){
-                    gemsAvailableToClass.push(gem);
+                    if(gem.available_to.length && _.contains(gem.available_to, classSelection)) {
+                        gemsAvailableToClass.push(gem);
+                    } else {
+                        gemsNotAvailableToClass.push(gem);
+                    }
+                    
                     removeGemFromText(gem.name);
                     removeGemFromText(item.abbr);
                 }
@@ -77,7 +82,11 @@ var pickAndOrganiseGems = function()
                         return gemItem.name.trim().toLowerCase() === descItem.trim().toLowerCase()
                     });
                     if(gem) {
-                        gemsAvailableToClass.push(gem);
+                        if(gem.available_to.length && _.contains(gem.available_to, classSelection)) {
+                            gemsAvailableToClass.push(gem);
+                        } else {
+                            gemsNotAvailableToClass.push(gem);
+                        }
                         removeGemFromText(gem.name);
                         removeGemFromText(item.abbr);
                     }
@@ -89,13 +98,17 @@ var pickAndOrganiseGems = function()
     //Look for common misspells or variations of gem names
     _.each(misspells, function(item) {
         if(isMatch(gemGuideText, item.misspell)) {
-
+            console.log("item.misspell", item.misspell)
             if(_.isString(item.correct)){
                 var gem = _.find(allGems, function(gemItem) { 
                     return gemItem.name.trim().toLowerCase() === item.correct.trim().toLowerCase()
                 });
                 if(gem){
-                    gemsAvailableToClass.push(gem);
+                    if(gem.available_to.length && _.contains(gem.available_to, classSelection)) {
+                        gemsAvailableToClass.push(gem);
+                    } else {
+                        gemsNotAvailableToClass.push(gem);
+                    }
                     removeGemFromText(gem.name);
                     removeGemFromText(item.misspell);
                 }
@@ -106,16 +119,18 @@ var pickAndOrganiseGems = function()
     //Look for gems by full name
     _.each(allGems, function(item) {
         if(!item.isVaal && isMatch(gemGuideText, item.name)) {
-            if(_.contains(item.available_to, classSelection)){
+            console.log(item.name)
+            if(item.available_to.length && _.contains(item.available_to, classSelection)){
                 gemsAvailableToClass.push(item);                
                 removeGemFromText(item.name);
-            }            
+            }
         }
     });
 
     //Remaining Gems are not available to class
     _.each(allGems, function(item) {
         if(!item.isVaal && isMatch(gemGuideText, item.name)) {
+            console.log("2", item.name)
             if(!_.contains(item.available_to, classSelection)){
                 gemsNotAvailableToClass.push(item);
                 removeGemFromText(item.name);
