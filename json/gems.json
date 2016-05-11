@@ -2711,6 +2711,18 @@
     "color": "blue",
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Wrath.png?scale=1&w=1&h=1"
 }, {
+    "name": "Summon Lightning Golem",
+    "quest_name": "Breaking the Seal",
+    "npc": "Petarus and Vanja",
+    "act": 4,
+    "required_lvl": 34,
+    "available_to": ["marauder", "templar", "duelist", "witch", "scion", "ranger", "shadow"],
+    "id": 262,
+    "isVaal": false,
+    "town": "Highgate",
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningGolem.png?scale=1&w=1&h=1"
+}, {
     "id": 226,
     "name": "Vaal Glacial Hammer",
     "isVaal": true,

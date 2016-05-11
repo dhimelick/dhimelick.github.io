@@ -60,6 +60,10 @@
     "desc": "Elemental Equilibrium"
   },
   {
+    "abbr": "EQ",
+    "desc": "Elemental Equilibrium"
+  },
+  {
     "abbr": "EK",
     "desc": "Ethereal Knives"
   },
@@ -244,6 +248,10 @@
     "desc": "Power Charge On Critical"
   },
   {
+    "abbr": "Power Charge on Crit",
+    "desc": "Power Charge On Critical"
+  },
+  {
     "abbr": "pol",
     "desc": "Purity of lightning"
   },
@@ -269,6 +277,10 @@
   },
   {
     "abbr": "Melee Phys",
+    "desc": "Melee Physical Damage"
+  },
+  {
+    "abbr": "mpd",
     "desc": "Melee Physical Damage"
   },
   {
@@ -314,5 +326,29 @@
   {
     "abbr": "Inc Crit",
     "desc": "Increased Critical Strikes"
+  },
+  {
+    "abbr": "AssMark",
+    "desc": "Assassin's Mark"
+  },
+  {
+    "abbr": "Conc Eff",
+    "desc": "Concentrated Effect"
+  },
+  {
+    "abbr": "Inc Crit",
+    "desc": "Increased Critical Strikes"
+  },
+  {
+    "abbr": "Inc Duration",
+    "desc": "Increased Duration"
+  },
+  {
+    "abbr": "Added Cold",
+    "desc": "Added Cold Damage"
+  },
+  {
+    "abbr": "Cold Pen",
+    "desc": "Cold Penetration"
   }
 ]

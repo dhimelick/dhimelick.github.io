@@ -86,5 +86,21 @@
   {
     "correct" : "cluster traps",
     "misspell" : "cluster trap"
+  },
+  {
+    "correct" : "Bladefall",
+    "misspell" : "blade fall"
+  },
+  {
+    "correct" : "Bladefall",
+    "misspell" : "baldefall"
+  },
+  {
+    "correct" : "Innervate",
+    "misspell" : "INervate"
+  },
+  {
+    "correct" : "Less Duration",
+    "misspell" : "Reduced Dur"
   }
 ]
