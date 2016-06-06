@@ -2954,4 +2954,44 @@
     "available_to": [],
     "color": "green",
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/BreakBlock.png?scale=1&w=1&h=1"
+}, {
+    "id": 263,
+    "name": "Frostbolt",
+    "required_lvl": 1,
+    "isVaal": false,
+    "available_to": ["templar", "witch", "shadow", "scion"],
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostBolt.png?scale=1&w=1&h=1"
+}, {
+    "id": 264,
+    "name": "Vortex",
+    "required_lvl": 28,
+    "isVaal": false,
+    "available_to": ["templar", "witch", "shadow", "scion"],
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostVortex.png?scale=1&w=1&h=1"
+}, {
+    "id": 265,
+    "name": "Spirit Offering",
+    "required_lvl": 12,
+    "isVaal": false,
+    "available_to": ["templar", "witch", "scion"],
+    "color": "blue",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SpiritOffering.png?scale=1&w=1&h=1"
+}, {
+    "id": 266,
+    "name": "Ancestral Warchief",
+    "required_lvl": 28,
+    "isVaal": false,
+    "available_to": ["marauder", "templar", "duelist", "scion"],
+    "color": "red",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SlamTotemGem.png?scale=1&w=1&h=1"
+}, {
+    "id": 267,
+    "name": "Lacerate",
+    "required_lvl": 12,
+    "isVaal": false,
+    "available_to": ["marauder", "templar", "shadow", "ranger", "duelist", "scion"],
+    "color": "green",
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DoubleSlash.png?scale=1&w=1&h=1"
 }]
