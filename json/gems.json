@@ -9,7 +9,8 @@
     "id": 0,
     "town": "Highgate",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AbyssalCry.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AbyssalCry.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/omaumeridusare"
 }, {
     "name": "Added Cold Damage",
     "quest_name": "The Caged Brute",
@@ -21,7 +22,8 @@
     "id": 1,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedColdDamage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedColdDamage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/anamohitotamot"
 }, {
     "name": "Added Fire Damage",
     "quest_name": "The Caged Brute",
@@ -33,7 +35,8 @@
     "id": 2,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedFireDamage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedFireDamage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/kohuwakosimone"
 }, {
     "name": "Added Lightning Damage",
     "quest_name": "The Caged Brute",
@@ -45,7 +48,8 @@
     "id": 3,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedLightningDamage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedLightningDamage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ahihikoruatazu"
 }, {
     "name": "Additional Accuracy",
     "quest_name": "The Caged Brute",
@@ -57,7 +61,8 @@
     "id": 4,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedAccuracy.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedAccuracy.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/rugasitusekumo"
 }, {
     "name": "Ancestral Protector",
     "quest_name": "Breaking Some Eggs",
@@ -69,7 +74,8 @@
     "id": 5,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AncestorTotem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AncestorTotem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/otetarukuomima"
 }, {
     "name": "Anger",
     "quest_name": "Lost in Love",
@@ -81,7 +87,8 @@
     "id": 6,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Anger.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Anger.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/sasetahakokobo"
 }, {
     "name": "Animate Guardian",
     "quest_name": "Sever the Right Hand",
@@ -93,7 +100,8 @@
     "id": 7,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AnimateArmour.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AnimateArmour.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uahiminohatohu"
 }, {
     "name": "Animate Weapon",
     "quest_name": "Breaking Some Eggs",
@@ -105,7 +113,8 @@
     "id": 8,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AnimateWeapon.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AnimateWeapon.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/udiyamkogeyaso"
 }, {
     "name": "Arc",
     "quest_name": "The Siren's Cadence",
@@ -117,7 +126,8 @@
     "id": 9,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Arc.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Arc.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/senouhinonanam"
 }, {
     "name": "Arctic Armour",
     "quest_name": "The Root of the Problem",
@@ -129,7 +139,8 @@
     "id": 10,
     "town": "The Forest Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceShield.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceShield.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uimkihoyokisan"
 }, {
     "name": "Arctic Breath",
     "quest_name": "Sever the Right Hand",
@@ -141,7 +152,8 @@
     "id": 11,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ArcticBreath.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ArcticBreath.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ikokounohimono"
 }, {
     "name": "Assassin's Mark",
     "quest_name": "Lost in Love",
@@ -153,7 +165,8 @@
     "id": 12,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AssassinsMark.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AssassinsMark.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/okautebarisazu"
 }, {
     "name": "Ball Lightning",
     "quest_name": "Sever the Right Hand",
@@ -165,7 +178,8 @@
     "id": 13,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BallLightning.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BallLightning.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/otoeubonaranah"
 }, {
     "name": "Barrage",
     "quest_name": "The Siren's Cadence",
@@ -177,7 +191,8 @@
     "id": 14,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Barrage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Barrage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/oranuariretoom"
 }, {
     "name": "Bear Trap",
     "quest_name": "Breaking Some Eggs",
@@ -189,7 +204,8 @@
     "id": 15,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BearTrap.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BearTrap.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/osisitonoyetah"
 }, {
     "name": "Blade Vortex",
     "quest_name": "The Siren's Cadence",
@@ -201,7 +217,8 @@
     "id": 16,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SpinningEtherealBladesGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SpinningEtherealBladesGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/agiyohomoaheki"
 }, {
     "name": "Bladefall",
     "quest_name": "Sever the Right Hand",
@@ -213,7 +230,8 @@
     "id": 17,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RainOfBlades.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RainOfBlades.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/otenunatoomame"
 }, {
     "name": "Blasphemy",
     "quest_name": "A Fixture of Fate",
@@ -225,7 +243,8 @@
     "id": 18,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Aurify.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Aurify.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/amahoritahituk"
 }, {
     "name": "Blast Rain",
     "quest_name": "Sever the Right Hand",
@@ -237,7 +256,8 @@
     "id": 19,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BlastRainGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BlastRainGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/monaniwanyohuk"
 }, {
     "name": "Blind",
     "quest_name": "The Caged Brute",
@@ -249,7 +269,8 @@
     "id": 20,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Blind.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Blind.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/oozahanitinayo"
 }, {
     "name": "Blink Arrow",
     "quest_name": "The Caged Brute",
@@ -261,7 +282,8 @@
     "id": 21,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BlinkArrow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BlinkArrow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/usomomauatarub"
 }, {
     "name": "Blood Magic",
     "quest_name": "A Fixture of Fate",
@@ -273,7 +295,8 @@
     "id": 22,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/BloodMagic.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/BloodMagic.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/hurikobudazute"
 }, {
     "name": "Blood Rage",
     "quest_name": "The Root of the Problem",
@@ -285,7 +308,8 @@
     "id": 23,
     "town": "The Forest Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BloodRage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BloodRage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/asinohotadonad"
 }, {
     "name": "Bloodlust",
     "quest_name": "Sharp and Cruel",
@@ -297,7 +321,8 @@
     "id": 24,
     "town": "The Forest Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Bloodlust.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Bloodlust.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ikimamonumikuk"
 }, {
     "name": "Bone Offering",
     "quest_name": "The Siren's Cadence",
@@ -309,11 +334,12 @@
     "id": 25,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BoneOffering.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BoneOffering.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ekisikarutatit"
 }, {
     "name": "Burning Arrow",
     "quest_name": "Enemy at the Gate",
-    "npc": "Ïessa",
+    "npc": "\u00cfessa",
     "act": 1,
     "required_lvl": 1,
     "isVaal": false,
@@ -321,7 +347,8 @@
     "id": 26,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BurningArrow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/BurningArrow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/wasitoasetasiu"
 }, {
     "name": "Cast On Critical Strike",
     "quest_name": "The Eternal Nightmare",
@@ -333,7 +360,8 @@
     "id": 27,
     "town": "Highgate",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnCrit.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnCrit.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/azukatomarikim"
 }, {
     "name": "Cast on Death",
     "quest_name": "The Eternal Nightmare",
@@ -345,7 +373,8 @@
     "id": 28,
     "town": "Highgate",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnDeath.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnDeath.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ohazikonokokut"
 }, {
     "name": "Cast on Melee Kill",
     "quest_name": "The Eternal Nightmare",
@@ -357,7 +386,8 @@
     "id": 29,
     "town": "Highgate",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnMeleeKill.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnMeleeKill.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/rusasitakitona"
 }, {
     "name": "Cast when Damage Taken",
     "quest_name": "The Eternal Nightmare",
@@ -369,7 +399,8 @@
     "id": 30,
     "town": "Highgate",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnDmgTaken.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnDmgTaken.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/onioonaukahena"
 }, {
     "name": "Cast when Stunned",
     "quest_name": "The Eternal Nightmare",
@@ -381,7 +412,8 @@
     "id": 31,
     "town": "Highgate",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnStun.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CastOnStun.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/gomukemakonika"
 }, {
     "name": "Caustic Arrow",
     "quest_name": "Breaking Some Eggs",
@@ -393,7 +425,8 @@
     "id": 32,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PoisonArrow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PoisonArrow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/utobasegoyeyaz"
 }, {
     "name": "Chain",
     "quest_name": "The Eternal Nightmare",
@@ -405,7 +438,8 @@
     "id": 33,
     "town": "Highgate",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/chain.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/chain.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/osituwoasinuga"
 }, {
     "name": "Chance to Flee",
     "quest_name": "The Caged Brute",
@@ -417,7 +451,8 @@
     "id": 34,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ChancetoFlee.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ChancetoFlee.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/amotonitarukak"
 }, {
     "name": "Chance to Ignite",
     "quest_name": "A Fixture of Fate",
@@ -429,7 +464,8 @@
     "id": 35,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ChancetoIgnite.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ChancetoIgnite.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ebasinaruhamok"
 }, {
     "name": "Clarity",
     "quest_name": "The Caged Brute",
@@ -441,7 +477,8 @@
     "id": 36,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Clarity.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Clarity.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/oitamorookauba"
 }, {
     "name": "Cleave",
     "quest_name": "Enemy at the Gate",
@@ -453,7 +490,8 @@
     "id": 37,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Cleave.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Cleave.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ohatamosonimak"
 }, {
     "name": "Cold Penetration",
     "quest_name": "A Fixture of Fate",
@@ -465,7 +503,8 @@
     "id": 39,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ColdPenetration.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ColdPenetration.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/obetonaranokik"
 }, {
     "name": "Cold Snap",
     "quest_name": "Breaking Some Eggs",
@@ -477,7 +516,8 @@
     "id": 40,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ColdSnap.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ColdSnap.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uzukatikikikis"
 }, {
     "name": "Cold to Fire",
     "quest_name": "Sharp and Cruel",
@@ -489,7 +529,8 @@
     "id": 41,
     "town": "The Forest Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ColdtoFire.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ColdtoFire.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/etonanoborakah"
 }, {
     "name": "Concentrated Effect",
     "quest_name": "Sharp and Cruel",
@@ -501,7 +542,8 @@
     "id": 42,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ConcentratedAOE.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ConcentratedAOE.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/inabetoyohuhoa"
 }, {
     "name": "Conductivity",
     "quest_name": "Lost in Love",
@@ -513,7 +555,8 @@
     "id": 43,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Conductivity.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Conductivity.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/okaresanamgano"
 }, {
     "name": "Contagion",
     "quest_name": "Breaking Some Eggs",
@@ -525,7 +568,8 @@
     "id": 44,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ContagionGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ContagionGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/aahunatoahaaba"
 }, {
     "name": "Controlled Destruction",
     "quest_name": "Sharp and Cruel",
@@ -537,7 +581,8 @@
     "id": 45,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ControlledDestructionGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ControlledDestructionGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/anatatooseduma"
 }, {
     "name": "Conversion Trap",
     "quest_name": "Breaking Some Eggs",
@@ -549,7 +594,8 @@
     "id": 46,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ConversionTrap.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ConversionTrap.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/hakokunotahako"
 }, {
     "name": "Convocation",
     "quest_name": "Lost in Love",
@@ -561,7 +607,8 @@
     "id": 47,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Convocation.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Convocation.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/natahuomosogor"
 }, {
     "name": "Culling Strike",
     "quest_name": "Sharp and Cruel",
@@ -573,7 +620,8 @@
     "id": 48,
     "town": "The Forest Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CullingStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CullingStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/sikouhokiahogo"
 }, {
     "name": "Curse On Hit",
     "quest_name": "The Eternal Nightmare",
@@ -585,7 +633,8 @@
     "isVaal": false,
     "town": "Highgate",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CurseOnHit.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/CurseOnHit.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/omanohihigeton"
 }, {
     "name": "Cyclone",
     "quest_name": "Sever the Right Hand",
@@ -597,7 +646,8 @@
     "id": 50,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Cyclone.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Cyclone.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/etaronorukaruw"
 }, {
     "name": "Decoy Totem",
     "quest_name": "Breaking Some Eggs",
@@ -609,7 +659,8 @@
     "id": 51,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DecoyTotem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DecoyTotem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/sitadomkimoase"
 }, {
     "name": "Desecrate",
     "quest_name": "The Root of the Problem",
@@ -621,7 +672,8 @@
     "id": 52,
     "town": "The Forest Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Desecrate.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Desecrate.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/orionitohaseya"
 }, {
     "name": "Determination",
     "quest_name": "Lost in Love",
@@ -633,7 +685,8 @@
     "id": 53,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Determination.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Determination.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/noagomamiikebi"
 }, {
     "name": "Detonate Dead",
     "quest_name": "Breaking Some Eggs",
@@ -645,7 +698,8 @@
     "id": 54,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DetonateDead.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DetonateDead.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ninikikiinoota"
 }, {
     "name": "Devouring Totem",
     "quest_name": "Breaking Some Eggs",
@@ -657,7 +711,8 @@
     "id": 55,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DevouringTotem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DevouringTotem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/atazukoukokomk"
 }, {
     "name": "Discharge",
     "quest_name": "Sever the Right Hand",
@@ -669,7 +724,8 @@
     "id": 56,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Discharge.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Discharge.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/mogesitedohare"
 }, {
     "name": "Discipline",
     "quest_name": "Lost in Love",
@@ -681,7 +737,8 @@
     "id": 57,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Discipline.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Discipline.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/atoehikiriyaig"
 }, {
     "name": "Dominating Blow",
     "quest_name": "Sever the Right Hand",
@@ -693,7 +750,8 @@
     "id": 58,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DominatingBlow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DominatingBlow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/beyahedatenone"
 }, {
     "name": "Double Strike",
     "quest_name": "Enemy at the Gate",
@@ -705,7 +763,8 @@
     "id": 59,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DoubleStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DoubleStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/hitusotaziomoh"
 }, {
     "name": "Dual Strike",
     "quest_name": "Enemy at the Gate",
@@ -717,7 +776,8 @@
     "id": 60,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DualStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DualStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uhukoaminheike"
 }, {
     "name": "Earthquake",
     "quest_name": "Sever the Right Hand",
@@ -729,7 +789,8 @@
     "id": 61,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/QuakeSlam.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/QuakeSlam.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/anonaramomobut"
 }, {
     "name": "Elemental Focus",
     "quest_name": "Sharp and Cruel",
@@ -741,7 +802,8 @@
     "id": 62,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ElementalFocus.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ElementalFocus.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/tokomanoketame"
 }, {
     "name": "Elemental Hit",
     "quest_name": "Enemy at the Gate",
@@ -753,7 +815,8 @@
     "id": 63,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Elementalhit.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Elementalhit.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/kowoekomkukosi"
 }, {
     "name": "Elemental Proliferation",
     "quest_name": "The Eternal Nightmare",
@@ -765,7 +828,8 @@
     "id": 64,
     "town": "Highgate",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ElementalProliferation.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ElementalProliferation.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/anitanomamirit"
 }, {
     "name": "Elemental Weakness",
     "quest_name": "Lost in Love",
@@ -777,7 +841,8 @@
     "id": 65,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ElementalWeakness.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ElementalWeakness.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/rohametiyakuka"
 }, {
     "name": "Endurance Charge on Melee Stun",
     "quest_name": "Sharp and Cruel",
@@ -789,7 +854,8 @@
     "id": 66,
     "town": "The Forest Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/EnduranceChargeStun.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/EnduranceChargeStun.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/isisinazususit"
 }, {
     "name": "Enduring Cry",
     "quest_name": "The Root of the Problem",
@@ -801,7 +867,8 @@
     "id": 67,
     "town": "The Forest Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/EnduringCry.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/EnduringCry.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/amihuahenihoni"
 }, {
     "name": "Enfeeble",
     "quest_name": "Lost in Love",
@@ -813,7 +880,8 @@
     "id": 68,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Enfeeble.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Enfeeble.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ukekahomamenak"
 }, {
     "name": "Essence Drain",
     "quest_name": "The Siren's Cadence",
@@ -825,7 +893,8 @@
     "id": 69,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SiphonGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SiphonGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/mahararukianoe"
 }, {
     "name": "Ethereal Knives",
     "quest_name": "Enemy at the Gate",
@@ -837,7 +906,8 @@
     "id": 70,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/EtherealKnives.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/EtherealKnives.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/idohahiroonihu"
 }, {
     "name": "Explosive Arrow",
     "quest_name": "Sever the Right Hand",
@@ -849,7 +919,8 @@
     "id": 71,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ExplosiveArrow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ExplosiveArrow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/aseraromoyamom"
 }, {
     "name": "Faster Attacks",
     "quest_name": "Sharp and Cruel",
@@ -861,7 +932,8 @@
     "id": 72,
     "town": "The Forest Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FasterAttacks.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FasterAttacks.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/eruhomakoroohi"
 }, {
     "name": "Faster Casting",
     "quest_name": "Sharp and Cruel",
@@ -873,7 +945,8 @@
     "id": 73,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FasterCast.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FasterCast.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/aroyotomoraron"
 }, {
     "name": "Faster Projectiles",
     "quest_name": "A Fixture of Fate",
@@ -885,7 +958,8 @@
     "id": 74,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FasterProjectiles.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FasterProjectiles.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ikikubomomanit"
 }, {
     "name": "Fire Nova Mine",
     "quest_name": "The Siren's Cadence",
@@ -897,7 +971,8 @@
     "id": 75,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireNovaMineGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireNovaMineGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/owonimiahadosi"
 }, {
     "name": "Fire Penetration",
     "quest_name": "A Fixture of Fate",
@@ -909,7 +984,8 @@
     "id": 76,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FirePenetration.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FirePenetration.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/atimitinonomar"
 }, {
     "name": "Fire Trap",
     "quest_name": "Enemy at the Gate",
@@ -921,7 +997,8 @@
     "id": 77,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireTrap.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireTrap.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/oyesetotoyutoh"
 }, {
     "name": "Fireball",
     "quest_name": "Enemy at the Gate",
@@ -933,7 +1010,8 @@
     "id": 78,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Fireball.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Fireball.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/nogatotokanago"
 }, {
     "name": "Firestorm",
     "quest_name": "The Siren's Cadence",
@@ -945,7 +1023,8 @@
     "id": 79,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Firestorm.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Firestorm.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/itatatasamamos"
 }, {
     "name": "Flame Dash",
     "quest_name": "The Caged Brute",
@@ -957,7 +1036,8 @@
     "id": 80,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FlameDash.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FlameDash.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/adorisimenunih"
 }, {
     "name": "Flame Golem",
     "quest_name": "Breaking the Seal",
@@ -969,7 +1049,8 @@
     "isVaal": false,
     "town": "Highgate",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireElementalSummon.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireElementalSummon.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/orusamotahitak"
 }, {
     "name": "Flame Surge",
     "quest_name": "The Siren's Cadence",
@@ -981,7 +1062,8 @@
     "id": 82,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Flamewhip.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Flamewhip.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ayayorisaduino"
 }, {
     "name": "Flame Totem",
     "quest_name": "Breaking Some Eggs",
@@ -993,7 +1075,8 @@
     "id": 83,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FlameTotem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FlameTotem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/imahekasayogiz"
 }, {
     "name": "Flameblast",
     "quest_name": "Sever the Right Hand",
@@ -1005,7 +1088,8 @@
     "id": 84,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ChargedBlast.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ChargedBlast.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ritakakumomete"
 }, {
     "name": "Flammability",
     "quest_name": "Lost in Love",
@@ -1017,7 +1101,8 @@
     "id": 85,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Flammability.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Flammability.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uhitahaikoagag"
 }, {
     "name": "Flesh Offering",
     "quest_name": "The Siren's Cadence",
@@ -1029,7 +1114,8 @@
     "id": 86,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FleshOffering.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FleshOffering.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/raumkuhikahenn"
 }, {
     "name": "Flicker Strike",
     "quest_name": "The Caged Brute",
@@ -1041,7 +1127,8 @@
     "id": 87,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FlickerStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FlickerStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/eginoruseyober"
 }, {
     "name": "Fork",
     "quest_name": "A Fixture of Fate",
@@ -1053,7 +1140,8 @@
     "id": 88,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Fork.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Fork.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/onidoikobohiyo"
 }, {
     "name": "Fortify",
     "quest_name": "A Fixture of Fate",
@@ -1065,7 +1153,8 @@
     "id": 89,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FortifyGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FortifyGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/nahozuzuadukar"
 }, {
     "name": "Freeze Mine",
     "quest_name": "The Caged Brute",
@@ -1077,7 +1166,8 @@
     "id": 90,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FreezeMine.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FreezeMine.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ubiausenatonor"
 }, {
     "name": "Freezing Pulse",
     "quest_name": "Enemy at the Gate",
@@ -1089,7 +1179,8 @@
     "id": 91,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FreezingPulse.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FreezingPulse.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/notinebetunyot"
 }, {
     "name": "Frenzy",
     "quest_name": "The Root of the Problem",
@@ -1101,7 +1192,8 @@
     "id": 92,
     "town": "The Forest Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Frenzy.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Frenzy.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ahatotobitanar"
 }, {
     "name": "Frost Blades",
     "quest_name": "Enemy at the Gate",
@@ -1113,7 +1205,8 @@
     "id": 93,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/atetamomahatua"
 }, {
     "name": "Frost Bomb",
     "quest_name": "Breaking Some Eggs",
@@ -1125,7 +1218,8 @@
     "id": 94,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostBomb.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostBomb.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ananonahitotar"
 }, {
     "name": "Frost Wall",
     "quest_name": "Breaking Some Eggs",
@@ -1137,7 +1231,8 @@
     "id": 95,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostWall.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostWall.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/oronazitararin"
 }, {
     "name": "Frostbite",
     "quest_name": "Lost in Love",
@@ -1149,7 +1244,8 @@
     "id": 96,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostBite.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostBite.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uitunamanazuwo"
 }, {
     "name": "Generosity",
     "quest_name": "A Fixture of Fate",
@@ -1161,7 +1257,8 @@
     "id": 97,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/GenerositySupport.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/GenerositySupport.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/wotinaharisihi"
 }, {
     "name": "Glacial Cascade",
     "quest_name": "Sever the Right Hand",
@@ -1173,7 +1270,8 @@
     "id": 98,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Upheaval.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Upheaval.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uninikitasekok"
 }, {
     "name": "Glacial Hammer",
     "quest_name": "Enemy at the Gate",
@@ -1185,7 +1283,8 @@
     "id": 99,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/GlacialHammer.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/GlacialHammer.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/tamesigonunina"
 }, {
     "name": "Grace",
     "quest_name": "Lost in Love",
@@ -1197,7 +1296,8 @@
     "id": 100,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Grace.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Grace.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/azuwameworuony"
 }, {
     "name": "Greater Multiple Projectiles",
     "quest_name": "The Eternal Nightmare",
@@ -1209,7 +1309,8 @@
     "id": 101,
     "town": "Highgate",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/GreaterMultipleProjectiles.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/GreaterMultipleProjectiles.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ousimonamoyana"
 }, {
     "name": "Ground Slam",
     "quest_name": "Enemy at the Gate",
@@ -1221,7 +1322,8 @@
     "id": 102,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Groundslam.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Groundslam.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ekotonotarenik"
 }, {
     "name": "Haste",
     "quest_name": "Lost in Love",
@@ -1233,7 +1335,8 @@
     "id": 103,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Haste.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Haste.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/gomotekikomago"
 }, {
     "name": "Hatred",
     "quest_name": "Lost in Love",
@@ -1245,7 +1348,8 @@
     "id": 104,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Hatred.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Hatred.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/aurimonitemona"
 }, {
     "name": "Heavy Strike",
     "quest_name": "Enemy at the Gate",
@@ -1257,7 +1361,8 @@
     "id": 105,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeavyStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeavyStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ikinahinoisiwo"
 }, {
     "name": "Herald of Ash",
     "quest_name": "The Root of the Problem",
@@ -1269,7 +1374,8 @@
     "id": 106,
     "town": "The Forest Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeraldofAsh.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeraldofAsh.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/etarioutinasag"
 }, {
     "name": "Herald of Ice",
     "quest_name": "The Root of the Problem",
@@ -1281,7 +1387,8 @@
     "id": 107,
     "town": "The Forest Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeraldofIce.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeraldofIce.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/utatorohitihim"
 }, {
     "name": "Herald of Thunder",
     "quest_name": "The Root of the Problem",
@@ -1293,7 +1400,8 @@
     "id": 108,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeraldofThunder.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/HeraldofThunder.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/kokihuhakurako"
 }, {
     "name": "Hypothermia",
     "quest_name": "A Fixture of Fate",
@@ -1305,7 +1413,8 @@
     "id": 109,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/DamageAgainstChilled.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/DamageAgainstChilled.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/tesorenoharata"
 }, {
     "name": "Ice Bite",
     "quest_name": "A Fixture of Fate",
@@ -1317,7 +1426,8 @@
     "id": 110,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FrenzyChargeOnShatter.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/FrenzyChargeOnShatter.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/sazatokikimata"
 }, {
     "name": "Ice Crash",
     "quest_name": "Sever the Right Hand",
@@ -1329,7 +1439,8 @@
     "id": 111,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceCrashGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceCrashGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/arikahatatetus"
 }, {
     "name": "Ice Nova",
     "quest_name": "The Siren's Cadence",
@@ -1341,7 +1452,8 @@
     "id": 112,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceNova.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceNova.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/agisikiketenao"
 }, {
     "name": "Ice Shot",
     "quest_name": "Enemy at the Gate",
@@ -1353,7 +1465,8 @@
     "id": 113,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceShot.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceShot.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/urotomaritomim"
 }, {
     "name": "Ice Spear",
     "quest_name": "The Siren's Cadence",
@@ -1365,7 +1478,8 @@
     "id": 114,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceSpear.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceSpear.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/obatoriugaruta"
 }, {
     "name": "Ice Trap",
     "quest_name": "Sever the Right Hand",
@@ -1377,7 +1491,8 @@
     "id": 115,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceTrapRune.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceTrapRune.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uokaaharutanat"
 }, {
     "name": "Immortal Call",
     "quest_name": "Breaking the Seal",
@@ -1389,7 +1504,8 @@
     "id": 116,
     "town": "Highgate",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ImmortalCall.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ImmortalCall.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uazukonitasaro"
 }, {
     "name": "Incinerate",
     "quest_name": "The Siren's Cadence",
@@ -1401,7 +1517,8 @@
     "id": 117,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Flamethrower.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Flamethrower.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ayarukinotabek"
 }, {
     "name": "Increased Area of Effect",
     "quest_name": "The Eternal Nightmare",
@@ -1413,7 +1530,8 @@
     "id": 118,
     "town": "Highgate",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedAOE.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedAOE.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ahomokinahumeb"
 }, {
     "name": "Increased Burning Damage",
     "quest_name": "A Fixture of Fate",
@@ -1425,7 +1543,8 @@
     "id": 119,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedBurnDuration.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedBurnDuration.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/titasimodonari"
 }, {
     "name": "Increased Critical Damage",
     "quest_name": "Sharp and Cruel",
@@ -1437,7 +1556,8 @@
     "id": 120,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedCriticalDamage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedCriticalDamage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/oonakitanahitu"
 }, {
     "name": "Increased Critical Strikes",
     "quest_name": "The Caged Brute",
@@ -1449,7 +1569,8 @@
     "id": 121,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedCriticalStrikes.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedCriticalStrikes.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/yetitesenabato"
 }, {
     "name": "Increased Duration",
     "quest_name": "A Fixture of Fate",
@@ -1461,7 +1582,8 @@
     "id": 122,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedDuration.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedDuration.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/omogetahiwoano"
 }, {
     "name": "Infernal Blow",
     "quest_name": "Enemy at the Gate",
@@ -1473,7 +1595,8 @@
     "id": 123,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/InfernalBlow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/InfernalBlow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/isitogariahani"
 }, {
     "name": "Innervate",
     "quest_name": "A Fixture of Fate",
@@ -1485,7 +1608,8 @@
     "id": 124,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/OnslaughtOnSlayingShocked.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/OnslaughtOnSlayingShocked.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/arobonamizuhak"
 }, {
     "name": "Iron Grip",
     "quest_name": "Sharp and Cruel",
@@ -1497,7 +1621,8 @@
     "id": 125,
     "town": "The Forest Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IronGrip.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IronGrip.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/nobosawararomo"
 }, {
     "name": "Iron Will",
     "quest_name": "Sharp and Cruel",
@@ -1509,7 +1634,8 @@
     "id": 126,
     "town": "The Forest Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IronWill.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IronWill.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/erimikomiariso"
 }, {
     "name": "Item Rarity",
     "quest_name": "A Fixture of Fate",
@@ -1521,7 +1647,8 @@
     "id": 127,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedQuality.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedQuality.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/itukowomeiraru"
 }, {
     "name": "Kinetic Blast",
     "quest_name": "Sever the Right Hand",
@@ -1533,7 +1660,8 @@
     "id": 128,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ClusterBurst.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ClusterBurst.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/oyasitanomonoz"
 }, {
     "name": "Knockback",
     "quest_name": "The Caged Brute",
@@ -1545,7 +1673,8 @@
     "id": 129,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Knockback.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Knockback.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ekagaunohewimo"
 }, {
     "name": "Leap Slam",
     "quest_name": "The Caged Brute",
@@ -1557,7 +1686,8 @@
     "id": 130,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LeapSlam.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LeapSlam.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/omomomonositad"
 }, {
     "name": "Less Duration",
     "quest_name": "A Fixture of Fate",
@@ -1569,7 +1699,8 @@
     "id": 131,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ReduceDuration.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ReduceDuration.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/nazitohiwaruni"
 }, {
     "name": "Lesser Multiple Projectiles",
     "quest_name": "The Caged Brute",
@@ -1581,7 +1712,8 @@
     "id": 132,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LesserMultipleProjectiles.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LesserMultipleProjectiles.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/bahiniiohikihi"
 }, {
     "name": "Life Gain on Hit",
     "quest_name": "The Caged Brute",
@@ -1593,7 +1725,8 @@
     "id": 133,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LifeonHit.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LifeonHit.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/tikitahekoiyoh"
 }, {
     "name": "Life Leech",
     "quest_name": "A Fixture of Fate",
@@ -1605,7 +1738,8 @@
     "id": 134,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LifeLeech.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LifeLeech.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/kenikikamarura"
 }, {
     "name": "Lightning Arrow",
     "quest_name": "The Siren's Cadence",
@@ -1617,7 +1751,8 @@
     "id": 135,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningArrow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningArrow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/konaunikateroe"
 }, {
     "name": "Lightning Penetration",
     "quest_name": "A Fixture of Fate",
@@ -1629,7 +1764,8 @@
     "id": 136,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LightningPenetration.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/LightningPenetration.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/onitomonagodar"
 }, {
     "name": "Lightning Strike",
     "quest_name": "The Siren's Cadence",
@@ -1641,7 +1777,8 @@
     "id": 137,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/tomabohasetese"
 }, {
     "name": "Lightning Tendrils",
     "quest_name": "Enemy at the Gate",
@@ -1653,7 +1790,8 @@
     "id": 138,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LighteningTouch.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LighteningTouch.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/iketetetibauke"
 }, {
     "name": "Lightning Trap",
     "quest_name": "The Siren's Cadence",
@@ -1665,7 +1803,8 @@
     "id": 139,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningTrap.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningTrap.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ikedomkitiguta"
 }, {
     "name": "Lightning Warp",
     "quest_name": "The Caged Brute",
@@ -1677,7 +1816,8 @@
     "id": 140,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningWarp.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningWarp.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/usiyugatooohab"
 }, {
     "name": "Magma Orb",
     "quest_name": "Enemy at the Gate",
@@ -1689,7 +1829,8 @@
     "id": 141,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireMortar.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireMortar.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/itoriukabomita"
 }, {
     "name": "Mana Leech",
     "quest_name": "A Fixture of Fate",
@@ -1701,7 +1842,8 @@
     "id": 142,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ManaLeech.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ManaLeech.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/innanikukaseha"
 }, {
     "name": "Melee Damage on Full Life",
     "quest_name": "Sharp and Cruel",
@@ -1713,7 +1855,8 @@
     "id": 143,
     "town": "The Forest Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MeleeDamageonFullLife.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MeleeDamageonFullLife.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ohutorakaronob"
 }, {
     "name": "Melee Physical Damage",
     "quest_name": "Sharp and Cruel",
@@ -1725,7 +1868,8 @@
     "id": 144,
     "town": "The Forest Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedPhysicalDamage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedPhysicalDamage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ekenoyoohauram"
 }, {
     "name": "Melee Splash",
     "quest_name": "The Caged Brute",
@@ -1737,7 +1881,8 @@
     "id": 145,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Splash.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Splash.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/akasikoyukumak"
 }, {
     "name": "Minefield",
     "quest_name": "The Caged Brute",
@@ -1749,7 +1894,8 @@
     "id": 146,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Minefield.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Minefield.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ubumosokioyosi"
 }, {
     "name": "Minion Damage",
     "quest_name": "The Caged Brute",
@@ -1761,7 +1907,8 @@
     "id": 147,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MinionDamage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MinionDamage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/nimasitumamono"
 }, {
     "name": "Minion Life",
     "quest_name": "Sharp and Cruel",
@@ -1773,7 +1920,8 @@
     "id": 148,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MinionLife.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MinionLife.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/tekumenagisino"
 }, {
     "name": "Minion Speed",
     "quest_name": "Sharp and Cruel",
@@ -1785,7 +1933,8 @@
     "id": 149,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MinionSpeed.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MinionSpeed.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/onuyewohausika"
 }, {
     "name": "Minion and Totem Elemental Resistance",
     "quest_name": "A Fixture of Fate",
@@ -1797,7 +1946,8 @@
     "id": 150,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/SummonsElementalResists.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/SummonsElementalResists.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/tebetekitonoko"
 }, {
     "name": "Molten Shell",
     "quest_name": "Breaking Some Eggs",
@@ -1809,7 +1959,8 @@
     "id": 151,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/MoltenShell.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/MoltenShell.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/zuminamakosidu"
 }, {
     "name": "Molten Strike",
     "quest_name": "Enemy at the Gate",
@@ -1821,7 +1972,8 @@
     "id": 152,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/MoltenStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/MoltenStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/yesimmyeyoomit"
 }, {
     "name": "Multiple Traps",
     "quest_name": "The Caged Brute",
@@ -1833,7 +1985,8 @@
     "id": 153,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MultiTrap.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/MultiTrap.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/amotetakamahak"
 }, {
     "name": "Multistrike",
     "quest_name": "The Eternal Nightmare",
@@ -1845,7 +1998,8 @@
     "id": 154,
     "town": "Highgate",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/multipleattacks.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/multipleattacks.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/huososauteyeyo"
 }, {
     "name": "Orb of Storms",
     "quest_name": "Breaking Some Eggs",
@@ -1857,7 +2011,8 @@
     "id": 155,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/StormCloudGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/StormCloudGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ahugenanokomad"
 }, {
     "name": "Phase Run",
     "quest_name": "Breaking the Seal",
@@ -1869,7 +2024,8 @@
     "id": 156,
     "town": "Highgate",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PhaseRun.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PhaseRun.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/aimehomahasiao"
 }, {
     "name": "Physical Projectile Attack Damage",
     "quest_name": "Sharp and Cruel",
@@ -1881,7 +2037,8 @@
     "id": 157,
     "town": "The Forest Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/RangedPhysicalAttackDamage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/RangedPhysicalAttackDamage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/rihaniwoyobomo"
 }, {
     "name": "Physical to Lightning",
     "quest_name": "Sharp and Cruel",
@@ -1893,7 +2050,8 @@
     "id": 158,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/PhysicalToLightning.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/PhysicalToLightning.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/amitetihikabam"
 }, {
     "name": "Pierce",
     "quest_name": "A Fixture of Fate",
@@ -1905,7 +2063,8 @@
     "id": 159,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Pierce.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Pierce.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/kozubohatanoro"
 }, {
     "name": "Poacher's Mark",
     "quest_name": "Lost in Love",
@@ -1917,7 +2076,8 @@
     "id": 160,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PoachersMark.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PoachersMark.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/bowomimakirira"
 }, {
     "name": "Point Blank",
     "quest_name": "Sharp and Cruel",
@@ -1929,7 +2089,8 @@
     "id": 161,
     "town": "The Forest Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/PointBlank.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/PointBlank.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/omenyeteyokito"
 }, {
     "name": "Poison",
     "quest_name": "A Fixture of Fate",
@@ -1941,7 +2102,8 @@
     "id": 162,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Poison.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Poison.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/aritaninazunna"
 }, {
     "name": "Power Charge On Critical",
     "quest_name": "Sharp and Cruel",
@@ -1953,7 +2115,8 @@
     "id": 163,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/PowerCharges.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/PowerCharges.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uitikamikikayu"
 }, {
     "name": "Power Siphon",
     "quest_name": "The Siren's Cadence",
@@ -1965,7 +2128,8 @@
     "id": 164,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PowerSiphon.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/PowerSiphon.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ahazumarahahon"
 }, {
     "name": "Projectile Weakness",
     "quest_name": "Lost in Love",
@@ -1977,7 +2141,8 @@
     "id": 165,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ProjectileWeakness.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ProjectileWeakness.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ugahubaniyusas"
 }, {
     "name": "Puncture",
     "quest_name": "Breaking Some Eggs",
@@ -1989,7 +2154,8 @@
     "id": 166,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Puncture.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Puncture.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/kotomohokanora"
 }, {
     "name": "Punishment",
     "quest_name": "Lost in Love",
@@ -2001,7 +2167,8 @@
     "id": 167,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Punishment.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Punishment.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/hoobiketawatur"
 }, {
     "name": "Purity of Elements",
     "quest_name": "Lost in Love",
@@ -2013,7 +2180,8 @@
     "id": 168,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Purity.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Purity.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/yokinoyonotime"
 }, {
     "name": "Purity of Fire",
     "quest_name": "Lost in Love",
@@ -2025,7 +2193,8 @@
     "id": 169,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireResistAura.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FireResistAura.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/arunoninikeniw"
 }, {
     "name": "Purity of Ice",
     "quest_name": "Lost in Love",
@@ -2037,7 +2206,8 @@
     "id": 170,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ColdResistAura.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ColdResistAura.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/enyoikitimanan"
 }, {
     "name": "Purity of Lightning",
     "quest_name": "Lost in Love",
@@ -2049,7 +2219,8 @@
     "id": 171,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningResistAura.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningResistAura.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/risaretonamoma"
 }, {
     "name": "Rain of Arrows",
     "quest_name": "The Siren's Cadence",
@@ -2061,7 +2232,8 @@
     "id": 172,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RainofArrows.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RainofArrows.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uwahiritukoget"
 }, {
     "name": "Raise Spectre",
     "quest_name": "Sever the Right Hand",
@@ -2073,7 +2245,8 @@
     "id": 173,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RaiseSpectre.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RaiseSpectre.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/donahaunagurik"
 }, {
     "name": "Raise Zombie",
     "quest_name": "Enemy at the Gate",
@@ -2085,7 +2258,8 @@
     "id": 174,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RaiseZombie.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RaiseZombie.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ayooitasimaiki"
 }, {
     "name": "Rallying Cry",
     "quest_name": "The Caged Brute",
@@ -2097,7 +2271,8 @@
     "id": 175,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/InspiringCry.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/InspiringCry.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/usikagugiimooy"
 }, {
     "name": "Ranged Attack Totem",
     "quest_name": "The Caged Brute",
@@ -2109,7 +2284,8 @@
     "id": 176,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/RangedAttackTotem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/RangedAttackTotem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/yokunahubekite"
 }, {
     "name": "Rapid Decay",
     "quest_name": "A Fixture of Fate",
@@ -2121,7 +2297,8 @@
     "id": 177,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/SupportRapidDecayGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/SupportRapidDecayGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/rarobitibetomn"
 }, {
     "name": "Reave",
     "quest_name": "The Siren's Cadence",
@@ -2133,7 +2310,8 @@
     "id": 178,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Reave.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Reave.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/orikokonagayom"
 }, {
     "name": "Reckoning",
     "quest_name": "Breaking Some Eggs",
@@ -2145,7 +2323,8 @@
     "id": 179,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Repulse.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Repulse.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/bokirininamaur"
 }, {
     "name": "Reduced Mana",
     "quest_name": "A Fixture of Fate",
@@ -2157,7 +2336,8 @@
     "id": 180,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ReducedManaCost.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ReducedManaCost.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/itaayumenimoat"
 }, {
     "name": "Rejuvenation Totem",
     "quest_name": "Breaking Some Eggs",
@@ -2169,7 +2349,8 @@
     "id": 181,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RejuvinationTotem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RejuvinationTotem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/atazubumanonon"
 }, {
     "name": "Remote Mine",
     "quest_name": "The Caged Brute",
@@ -2181,7 +2362,8 @@
     "id": 182,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/RemoteMine.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/RemoteMine.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/duhiotazubinoh"
 }, {
     "name": "Righteous Fire",
     "quest_name": "The Root of the Problem",
@@ -2193,7 +2375,8 @@
     "id": 183,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RighteousFire.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RighteousFire.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/kuninayetezita"
 }, {
     "name": "Riposte",
     "quest_name": "Breaking Some Eggs",
@@ -2205,7 +2388,8 @@
     "id": 184,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Riposte.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Riposte.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/etosiuyamakako"
 }, {
     "name": "Searing Bond",
     "quest_name": "The Siren's Cadence",
@@ -2217,7 +2401,8 @@
     "id": 185,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SearingBond.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SearingBond.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/hanonamatayabo"
 }, {
     "name": "Shield Charge",
     "quest_name": "The Caged Brute",
@@ -2229,7 +2414,8 @@
     "id": 186,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShieldCharge.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShieldCharge.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ohimomahahebon"
 }, {
     "name": "Shock Nova",
     "quest_name": "Sever the Right Hand",
@@ -2241,7 +2427,8 @@
     "id": 187,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShockNova.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShockNova.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ikamoakatoyono"
 }, {
     "name": "Shockwave Totem",
     "quest_name": "Sever the Right Hand",
@@ -2253,7 +2440,8 @@
     "id": 188,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShockwaveTotem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShockwaveTotem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/nisamamabatosa"
 }, {
     "name": "Shrapnel Shot",
     "quest_name": "Enemy at the Gate",
@@ -2265,7 +2453,8 @@
     "id": 189,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShrapnelShot.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShrapnelShot.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/otasidurohiyor"
 }, {
     "name": "Siege Ballista",
     "quest_name": "Breaking Some Eggs",
@@ -2277,7 +2466,8 @@
     "id": 190,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/CrossBowTotemGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/CrossBowTotemGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/onikikehutadan"
 }, {
     "name": "Slower Projectiles",
     "quest_name": "A Fixture of Fate",
@@ -2289,7 +2479,8 @@
     "id": 191,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/SlowerProjectiles.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/SlowerProjectiles.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/tenoazagotatit"
 }, {
     "name": "Smoke Mine",
     "quest_name": "The Caged Brute",
@@ -2301,7 +2492,8 @@
     "id": 192,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SmokeBomb.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SmokeBomb.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/oonowetoketami"
 }, {
     "name": "Spark",
     "quest_name": "Enemy at the Gate",
@@ -2313,7 +2505,8 @@
     "id": 193,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Spark.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Spark.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/omarusinototar"
 }, {
     "name": "Spectral Throw",
     "quest_name": "Enemy at the Gate",
@@ -2325,7 +2518,8 @@
     "id": 194,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/GhostlyThrow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/GhostlyThrow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ametomedetitic"
 }, {
     "name": "Spell Echo",
     "quest_name": "The Eternal Nightmare",
@@ -2337,7 +2531,8 @@
     "id": 195,
     "town": "Highgate",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Echo.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Echo.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/akiriuwosiaoko"
 }, {
     "name": "Spell Totem",
     "quest_name": "The Caged Brute",
@@ -2349,7 +2544,8 @@
     "id": 196,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Totem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Totem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/hetokasotonamo"
 }, {
     "name": "Split Arrow",
     "quest_name": "Enemy at the Gate",
@@ -2361,7 +2557,8 @@
     "id": 197,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SplitArrow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SplitArrow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ohakumazoserir"
 }, {
     "name": "Static Strike",
     "quest_name": "The Siren's Cadence",
@@ -2373,7 +2570,8 @@
     "id": 198,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/StaticGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/StaticGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/akobamarenowio"
 }, {
     "name": "Storm Call",
     "quest_name": "The Siren's Cadence",
@@ -2385,7 +2583,8 @@
     "id": 199,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Stormcall.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Stormcall.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/osukenonakiteb"
 }, {
     "name": "Stun",
     "quest_name": "The Caged Brute",
@@ -2397,7 +2596,8 @@
     "id": 200,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Stun.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Stun.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/utokoyeooreduk"
 }, {
     "name": "Summon Chaos Golem",
     "quest_name": "Breaking the Seal",
@@ -2409,7 +2609,8 @@
     "id": 201,
     "town": "Highgate",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ChaosElementalSummon.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ChaosElementalSummon.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ahehemkiurimoo"
 }, {
     "name": "Summon Ice Golem",
     "quest_name": "Breaking the Seal",
@@ -2421,7 +2622,8 @@
     "id": 202,
     "town": "Highgate",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceElementalSummon.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceElementalSummon.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/aurewohorikuma"
 }, {
     "name": "Summon Raging Spirit",
     "quest_name": "Breaking Some Eggs",
@@ -2433,7 +2635,8 @@
     "id": 203,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SummonElemental.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SummonElemental.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ahahatemasehuk"
 }, {
     "name": "Summon Skeletons",
     "quest_name": "The Caged Brute",
@@ -2445,7 +2648,8 @@
     "id": 204,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SummonSkeletons.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SummonSkeletons.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/asasituguhetea"
 }, {
     "name": "Summon Stone Golem",
     "quest_name": "Breaking the Seal",
@@ -2457,7 +2661,8 @@
     "id": 205,
     "town": "Highgate",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RockGolem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RockGolem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ehikoabayetoho"
 }, {
     "name": "Sunder",
     "quest_name": "The Siren's Cadence",
@@ -2469,7 +2674,8 @@
     "id": 206,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShockwaveSlam.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ShockwaveSlam.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/anihoyenooyami"
 }, {
     "name": "Sweep",
     "quest_name": "The Siren's Cadence",
@@ -2481,7 +2687,8 @@
     "id": 207,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Sweep.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Sweep.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/nagoriokanoheh"
 }, {
     "name": "Tempest Shield",
     "quest_name": "The Root of the Problem",
@@ -2493,7 +2700,8 @@
     "id": 208,
     "town": "The Forest Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/TempestShield.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/TempestShield.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/itakarariasare"
 }, {
     "name": "Temporal Chains",
     "quest_name": "Lost in Love",
@@ -2505,7 +2713,8 @@
     "id": 209,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/TemporalChains.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/TemporalChains.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/asausiminodoki"
 }, {
     "name": "Tornado Shot",
     "quest_name": "Sever the Right Hand",
@@ -2517,7 +2726,8 @@
     "id": 210,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/TornadoShot.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/TornadoShot.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/otayazasitoguk"
 }, {
     "name": "Trap Cooldown",
     "quest_name": "A Fixture of Fate",
@@ -2529,7 +2739,8 @@
     "id": 212,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/TrapCooldownRecovery.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/TrapCooldownRecovery.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/omimimarukonar"
 }, {
     "name": "Trap and Mine Damage",
     "quest_name": "Sharp and Cruel",
@@ -2541,7 +2752,8 @@
     "id": 213,
     "town": "The Forest Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/TrapAndMineDamage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/TrapAndMineDamage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/onizotowoonita"
 }, {
     "name": "Cluster Traps",
     "quest_name": "The Eternal Nightmare",
@@ -2553,7 +2765,8 @@
     "id": 38,
     "town": "Highgate",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ClusterTrap.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/ClusterTrap.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/asahanodukuhog"
 }, {
     "name": "Trap",
     "quest_name": "The Caged Brute",
@@ -2565,7 +2778,8 @@
     "id": 211,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Trap.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Trap.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/tunitakasakoku"
 }, {
     "name": "Vengeance",
     "quest_name": "Lost in Love",
@@ -2577,7 +2791,8 @@
     "id": 214,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Vengeance.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Vengeance.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ohaziuwitariya"
 }, {
     "name": "Vigilant Strike",
     "quest_name": "Breaking Some Eggs",
@@ -2589,7 +2804,8 @@
     "id": 215,
     "town": "Lioneye's Watch",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VigilantStrikeGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VigilantStrikeGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/iubunokomehoui"
 }, {
     "name": "Viper Strike",
     "quest_name": "Enemy at the Gate",
@@ -2601,7 +2817,8 @@
     "id": 216,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ViperStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ViperStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ouhanodonimood"
 }, {
     "name": "Vitality",
     "quest_name": "Lost in Love",
@@ -2613,7 +2830,8 @@
     "id": 217,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Vitality.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Vitality.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/akakoresorarin"
 }, {
     "name": "Void Manipulation",
     "quest_name": "The Caged Brute",
@@ -2625,7 +2843,8 @@
     "id": 218,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/VoidManipulation.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/VoidManipulation.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/amidanuarutoma"
 }, {
     "name": "Vulnerability",
     "quest_name": "Lost in Love",
@@ -2637,7 +2856,8 @@
     "id": 219,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Vulnerability.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Vulnerability.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/siniwahayabata"
 }, {
     "name": "Warlord's Mark",
     "quest_name": "Lost in Love",
@@ -2649,7 +2869,8 @@
     "id": 220,
     "town": "The Sarn Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/WarlordsMark.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/WarlordsMark.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/asinakunikonab"
 }, {
     "name": "Weapon Elemental Damage",
     "quest_name": "Sharp and Cruel",
@@ -2661,7 +2882,8 @@
     "id": 221,
     "town": "The Forest Encampment",
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/WeaponElementalDamage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/WeaponElementalDamage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/atoariyenareno"
 }, {
     "name": "Whirling Blades",
     "quest_name": "The Caged Brute",
@@ -2673,7 +2895,8 @@
     "id": 222,
     "town": "Lioneye's Watch",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/WhirlingBlades.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/WhirlingBlades.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/inariugookasag"
 }, {
     "name": "Wild Strike",
     "quest_name": "Sever the Right Hand",
@@ -2685,7 +2908,8 @@
     "id": 223,
     "town": "The Sarn Encampment",
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ElementalStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ElementalStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ohorimikoakato"
 }, {
     "name": "Wither",
     "quest_name": "The Caged Brute",
@@ -2697,7 +2921,8 @@
     "id": 224,
     "town": "Lioneye's Watch",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/WitherGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/WitherGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/onukonihihorim"
 }, {
     "name": "Wrath",
     "quest_name": "Lost in Love",
@@ -2709,7 +2934,8 @@
     "isVaal": false,
     "town": "The Sarn Encampment",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Wrath.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Wrath.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/nasabahamaahen"
 }, {
     "name": "Summon Lightning Golem",
     "quest_name": "Breaking the Seal",
@@ -2721,175 +2947,204 @@
     "isVaal": false,
     "town": "Highgate",
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningGolem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/LightningGolem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/hetamorinasate"
 }, {
     "id": 226,
     "name": "Vaal Glacial Hammer",
     "isVaal": true,
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGlacialHammer.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGlacialHammer.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/itahariniyeram"
 }, {
     "id": 227,
     "name": "Vaal Ground Slam",
     "isVaal": true,
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGroundslam.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGroundslam.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/imootoninobate"
 }, {
     "id": 228,
     "name": "Vaal Immortal Call",
     "isVaal": true,
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalImmortalCall.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalImmortalCall.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/itakirisakeniy"
 }, {
     "id": 229,
     "name": "Vaal Molten Shell",
     "isVaal": true,
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalMoltenShell.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalMoltenShell.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/sesikaserinimo"
 }, {
     "id": 230,
     "name": "Vaal Burning Arrow",
     "isVaal": true,
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalBurningArrow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalBurningArrow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/nukitonakohasi"
 }, {
     "id": 231,
     "name": "Vaal Cyclone",
     "isVaal": true,
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalCyclone.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalCyclone.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/arihiroasinosi"
 }, {
     "id": 232,
     "name": "Vaal Detonate Dead",
     "isVaal": true,
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalDetonateDead.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalDetonateDead.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/asarahusiwakon"
 }, {
     "id": 233,
     "name": "Vaal Double Strike",
     "isVaal": true,
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalDoubleStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalDoubleStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/komiwomamamohi"
 }, {
     "id": 234,
     "name": "Vaal Grace",
     "isVaal": true,
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGrace.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGrace.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/bamakohobonomo"
 }, {
     "id": 235,
     "name": "Vaal Haste",
     "isVaal": true,
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalHaste.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalHaste.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/amokakihakahat"
 }, {
     "id": 236,
     "name": "Vaal Lightning Strike",
     "isVaal": true,
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalLightningStrike.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalLightningStrike.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/zyeyakitosenat"
 }, {
     "id": 237,
     "name": "Vaal Rain of Arrows",
     "isVaal": true,
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalRainofArrows.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalRainofArrows.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/isinohikokitan"
 }, {
     "id": 238,
     "name": "Vaal Reave",
     "isVaal": true,
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalReave.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalReave.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/setasikinitosi"
 }, {
     "id": 239,
     "name": "Vaal Spectral Throw",
     "isVaal": true,
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGhostlyThrow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalGhostlyThrow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ouainohorimoki"
 }, {
     "id": 240,
     "name": "Vaal Arc",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalArc.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalArc.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/agamoooobositu"
 }, {
     "id": 241,
     "name": "Vaal Clarity",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalClarity.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalClarity.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/azusitoterasoi"
 }, {
     "id": 242,
     "name": "Vaal Cold Snap",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalColdSnap.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalColdSnap.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/timonisukurahi"
 }, {
     "id": 243,
     "name": "Vaal Discipline",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalDiscipline.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalDiscipline.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/midoruriwarono"
 }, {
     "id": 244,
     "name": "Vaal Fireball",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalFireball.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalFireball.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/amaisokokonasi"
 }, {
     "id": 245,
     "name": "Vaal Flameblast",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalChargedBlast.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalChargedBlast.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/uhanahahikohay"
 }, {
     "id": 246,
     "name": "Vaal Ice Nova",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalIceNova.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalIceNova.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/omitonotitomot"
 }, {
     "id": 247,
     "name": "Vaal Lightning Trap",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalLightningTrap.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalLightningTrap.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/akusimikutohis"
 }, {
     "id": 248,
     "name": "Vaal Lightning Warp",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalLightningWarp.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalLightningWarp.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/otizyenanimasa"
 }, {
     "id": 249,
     "name": "Vaal Power Siphon",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalPowerSiphon.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalPowerSiphon.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ariarikaronita"
 }, {
     "id": 250,
     "name": "Vaal Righteous Fire",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalRighteousFire.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalRighteousFire.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/oyomenazuramoh"
 }, {
     "id": 251,
     "name": "Vaal Spark",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalSpark.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalSpark.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ohosekotewahar"
 }, {
     "id": 252,
     "name": "Vaal Storm Call",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalStormcall.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalStormcall.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/itateyumimitok"
 }, {
     "id": 253,
     "name": "Vaal Summon Skeletons",
     "isVaal": true,
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalSummonSkeletons.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/VaalGems/VaalSummonSkeletons.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/asikositarusim"
 }, {
     "id": 254,
     "name": "Empower",
@@ -2897,7 +3152,8 @@
     "isVaal": false,
     "available_to": [],
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Empower.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Empower.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/oritonahauruna"
 }, {
     "id": 255,
     "name": "Enlighten",
@@ -2905,7 +3161,8 @@
     "isVaal": false,
     "available_to": [],
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Enlighten.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Enlighten.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/onasakisamnihu"
 }, {
     "id": 256,
     "name": "Portal",
@@ -2913,7 +3170,8 @@
     "isVaal": false,
     "available_to": [],
     "color": "white",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Portal.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Portal.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/iniukoakokikek"
 }, {
     "id": 257,
     "name": "Mirror Arrow",
@@ -2921,7 +3179,8 @@
     "isVaal": false,
     "available_to": [],
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/MirrorArrow.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/MirrorArrow.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/isitohazomemes"
 }, {
     "id": 258,
     "name": "Enhance",
@@ -2929,7 +3188,8 @@
     "isVaal": false,
     "available_to": [],
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/enhance.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/enhance.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/azikamiosioyom"
 }, {
     "id": 259,
     "name": "Detonate Mines",
@@ -2937,7 +3197,8 @@
     "isVaal": false,
     "available_to": [],
     "color": "white",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DetonateMines.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DetonateMines.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/azakokebahimim"
 }, {
     "id": 260,
     "name": "Added Chaos Damage",
@@ -2945,7 +3206,8 @@
     "isVaal": false,
     "available_to": [],
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedChaosDamage.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedChaosDamage.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/tasamnohaubiha"
 }, {
     "id": 261,
     "name": "Block Chance Reduction",
@@ -2953,19 +3215,21 @@
     "isVaal": false,
     "available_to": [],
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/BreakBlock.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/BreakBlock.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/iheninoraokori"
 }, {
     "id": 263,
     "name": "Frostbolt",
     "quest_name": "Enemy at the Gate",
-    "npc": "Ïessa",
+    "npc": "\u00cfessa",
     "act": 1,
     "town": "Lioneye's Watch",
     "required_lvl": 1,
     "isVaal": false,
     "available_to": ["templar", "witch", "shadow", "scion"],
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostBolt.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostBolt.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/onarutoyahikah"
 }, {
     "id": 264,
     "name": "Vortex",
@@ -2977,7 +3241,8 @@
     "isVaal": false,
     "available_to": ["templar", "witch", "shadow", "scion"],
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostVortex.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/FrostVortex.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/itoositenamaha"
 }, {
     "id": 265,
     "name": "Spirit Offering",
@@ -2989,7 +3254,8 @@
     "isVaal": false,
     "available_to": ["templar", "witch", "scion"],
     "color": "blue",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SpiritOffering.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SpiritOffering.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/orimasinuoniwo"
 }, {
     "id": 266,
     "name": "Ancestral Warchief",
@@ -3001,7 +3267,8 @@
     "isVaal": false,
     "available_to": ["marauder", "templar", "duelist", "scion"],
     "color": "red",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SlamTotemGem.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/SlamTotemGem.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/itokatubamihug"
 }, {
     "id": 267,
     "name": "Lacerate",
@@ -3013,5 +3280,6 @@
     "isVaal": false,
     "available_to": ["marauder", "templar", "shadow", "ranger", "duelist", "scion"],
     "color": "green",
-    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DoubleSlash.png?scale=1&w=1&h=1"
+    "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DoubleSlash.png?scale=1&w=1&h=1",
+    "poeTradeUrl": "http://poe.trade/search/ounikonahuhazi"
 }]

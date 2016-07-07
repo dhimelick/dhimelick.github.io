@@ -16,6 +16,10 @@
         <main class="container">
             <section class="row main-form-container">
                 <div class="well col-xs-12">
+                    <div class="alert alert-success hidden">
+                        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                        Email sent!
+                    </div>
                     <form class="gem-guide-form form-horizontal" data-toggle="validator">
                         <fieldset>                            
                             <div class="form-group">
@@ -116,7 +120,7 @@
                         <h4 class="modal-title">What's up?</h4>
                     </div>
                     <div class="modal-body">
-                        <form class="form-horizontal" method="post" action="https://formspree.io/max@max-arias.com">
+                        <form class="form-horizontal" method="post" action="">
                             <fieldset>
                                 <div class="form-group">
                                     <div class="col-md-10 col-md-offset-1">
@@ -130,12 +134,10 @@
                                 </div>
                                 <div class="form-group">
                                     <div class="col-md-10 col-md-offset-1">
-                                        <button type="submit" class="btn btn-primary pull-right">Submit</button>
+                                        <button type="submit" class="btn btn-primary pull-right submit-form-btn">Submit</button>
                                     </div>
                                 </div>
                             </fieldset>
-                            <input type="text" name="_gotcha" style="display:none" />
-                            <input type="hidden" name="_subject" value="Contact from POE gems." />
                         </form>
                     </div>
                 </div>
@@ -162,17 +164,51 @@
             ga('send', 'pageview');
         </script>
 
-        <script id="gem-cell-template" type="text/x-handlebars-template">
-            <div class="gem-cell col-md-3">
-                <div class="gem-cell-content">
-                    <input type="checkbox" class="item-complete">
-                    <span>Skill: <a target="_blank" href="http://pathofexile.gamepedia.com/{{name}}">{{name}}</a></span> <br>
-                    {{#if required_lvl}}<span>Required level: <b>{{required_lvl}}</b></span> <br>{{/if}}
-                    {{#if act}}<span>Act: <b>{{act}}</b></span> <br>{{/if}}
-                    {{#if town}}<span>Location: <a target="_blank" href="http://pathofexile.gamepedia.com/{{town}}">{{town}}</a></span> <br>{{/if}}
-                    {{#if quest_name}}<span>Quest: <a target="_blank" href="http://pathofexile.gamepedia.com/{{quest_name}}">{{quest_name}}</a></span> <br>{{/if}}
-                    {{#if npc}}<span>NPC: <a target="_blank" href="http://pathofexile.gamepedia.com/{{npc}}">{{npc}}</a></span> <br>{{/if}}
+        <script id="not-found-gems-table" type="text/x-handlebars-template">
+            <div class="gems-table-container col-md-12">
+
+                <div class="row header-row">
+                    <div class="col-md-1">Act</div>
+                    <div class="col-md-2">Location</div>
+                    <div class="col-md-2">Quest</div>
+                    <div class="col-md-3">Skill</div>
+                    <div class="col-md-2 gem-icon-col">Gem Icon <span id="gem-icon-col" class="hidden-xs" title="Click the Gem icon to open the Gem's Wiki page"><i class="fa fa-question-circle-o" aria-hidden="true"></i></span></div>
+                    <div class="col-md-1">Lvl. Req.</div>
+                    <div class="col-md-1">Shop</div>
                 </div>
+
+                {{#rows}}
+                <div class="row content-row">
+                    <div class="col-md-1 centered-col-content">{{act}}</div>
+                    <div class="col-md-2 centered-col-content">{{location}}</div>
+
+                    <div class="col-md-2">
+                        {{#skills}}
+                            <div>{{#if quest_name}} {{quest_name}} {{else}} - {{/if}}</div>
+                        {{/skills}}                    
+                    </div>
+                    <div class="col-md-3">
+                        {{#skills}}
+                            <div class="skill-gem color-{{color}} {{disabled}}" data-id="{{id}}">{{name}}</div>
+                        {{/skills}}
+                    </div>
+                    <div class="col-md-2">
+                        {{#skills}}
+                            <a class="iconImageLink" target="_blank" href="http://pathofexile.gamepedia.com/{{name}}"><img src="{{iconPath}}" alt="Click for {{name}} Wiki page!"></a>
+                        {{/skills}}
+                    </div>
+                    <div class="col-md-1">
+                        {{#skills}}
+                            <div>{{#if required_lvl}} {{required_lvl}} {{else}} - {{/if}}</div>
+                        {{/skills}}
+                    </div>
+                    <div class="col-md-1">
+                        {{#skills}}
+                            <div><a href="{{poeTradeUrl}}" target="_blank">Buy</a></div>
+                        {{/skills}}
+                    </div>
+                </div>
+                {{/rows}}
             </div>
         </script>
 
@@ -182,10 +218,11 @@
                 <div class="row header-row">
                     <div class="col-md-1">Act</div>
                     <div class="col-md-2">Location</div>
-                    <div class="col-md-3">Quest</div>
+                    <div class="col-md-2">Quest</div>
                     <div class="col-md-3">Skill</div>
                     <div class="col-md-2 gem-icon-col">Gem Icon <span id="gem-icon-col" class="hidden-xs" title="Click the Gem icon to open the Gem's Wiki page"><i class="fa fa-question-circle-o" aria-hidden="true"></i></span></div>
                     <div class="col-md-1">Lvl. Req.</div>
+                    <div class="col-md-1">Shop</div>
                 </div>
 
                 {{#rows}}
@@ -193,7 +230,7 @@
                     <div class="col-md-1 centered-col-content">{{act}}</div>
                     <div class="col-md-2 centered-col-content">{{location}}</div>
 
-                    <div class="col-md-3">
+                    <div class="col-md-2">
                         {{#skills}}
                             <div>{{quest_name}}</div>
                         {{/skills}}                    
@@ -211,6 +248,11 @@
                     <div class="col-md-1">
                         {{#skills}}
                             <div>{{required_lvl}}</div>
+                        {{/skills}}
+                    </div>
+                    <div class="col-md-1">
+                        {{#skills}}
+                            <div><a href="{{poeTradeUrl}}" target="_blank">Buy</a></div>
                         {{/skills}}
                     </div>
                 </div>

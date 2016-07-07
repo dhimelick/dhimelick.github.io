@@ -19,7 +19,7 @@ var init = function()
     foundGemCellSource   = $("#gems-table").html();
     foundGemCellTemplate = Handlebars.compile(foundGemCellSource);
 
-    notFoundGemCellSource   = $("#gem-cell-template").html();
+    notFoundGemCellSource   = $("#not-found-gems-table").html();
     notFoundGemCellTemplate = Handlebars.compile(notFoundGemCellSource);
 
     gemsDisabled = [];
@@ -204,14 +204,11 @@ var buildGemTable = function()
         });
 
         $('.notFoundGemsContainer').removeClass('hide');
-        for(var i = 0; i < gemsNotAvailableToClass.length; i++) 
-        {
-            if(i % 4 === 0) {
-                $('.notAvailableGemTable').append('<div class="row"></div>');    
-            }
-            var html = notFoundGemCellTemplate(gemsNotAvailableToClass[i]);
-            $('.notAvailableGemTable .row:last').append(html);
-        }        
+
+        var data = organizeObjectsForTable(gemsNotAvailableToClass);
+
+        var html = notFoundGemCellTemplate(data);
+        $('.notFoundGemsContainer .row').append(html);    
     }
 
     $('#gem-icon-col').qtip();
@@ -234,7 +231,8 @@ var organizeObjectsForTable = function(gems)
     var rows = [];
 
     _.forEach(grouped, function(items, index){
-        var rowItem = {'act': index, 'location': actLocations[index], 'skills': items};
+        index = (index == 'undefined') ? '-' : index;
+        var rowItem = {'act': index, 'location': actLocations[index] || '-', 'skills': items};
         rows.push(rowItem);
     });
 
@@ -339,6 +337,19 @@ var setFooter = function()
     });
 }
 
+var setUpQtip = function()
+{
+    $('#class-selection-qtip').qtip();
+    $('#gem-guide-text-qtip').qtip({
+        content: {
+            text: $('#qtip-content').html()
+        },
+        style: { 
+            classes: 'gem-guide-content'
+        }
+    });
+}
+
 $('.gem-guide-form').validator().on('submit', function (e) {
     if (!e.isDefaultPrevented()) {
         pickAndOrganiseGems();
@@ -381,17 +392,23 @@ $(document).on('click', '.skill-gem', function(){
     buildShareLink();
 });
 
+$(document).on('click', '.submit-form-btn', function(e){
+    e.preventDefault();
+    var formData = $("#commentModal").serialize();
+    $.ajax({
+        url: "//formspree.io/max@max-arias.com", 
+        method: "POST",
+        data: {message: formData, subject: 'Contact from POE gems.'},
+        dataType: "json"
+    });
+
+    $('#commentModal').modal('hide');
+    $('.alert-success.hidden').removeClass('hidden');
+
+});
+
 $(document).ready(function() {
     init();
     setFooter();
-
-    $('#class-selection-qtip').qtip();
-    $('#gem-guide-text-qtip').qtip({
-        content: {
-            text: $('#qtip-content').html()
-        },
-        style: { 
-            classes: 'gem-guide-content'
-        }
-    });
+    setUpQtip();    
 });
